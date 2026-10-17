@@ -1,0 +1,5 @@
+model,best_parameters,best_cv_rmse
+Lasso Regression,{'model__alpha': 0.05},1.2250986918826672
+Ridge Regression,{'model__alpha': 25},1.2391046701243578
+Gradient Boosting,"{'learning_rate': 0.03, 'max_depth': 1, 'n_estimators': 100}",1.264560567726899
+Random Forest,"{'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 200}",1.2903808153604408

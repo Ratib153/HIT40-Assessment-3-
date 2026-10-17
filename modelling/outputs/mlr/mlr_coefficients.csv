@@ -1,0 +1,9 @@
+predictor,coefficient
+fifa_points_diff,0.003191443055787883
+rest_days,-0.01762900519302438
+venue_altitude_m,-6.255053261455297e-06
+attacking_form_5,-0.14695084421845514
+opponent_defensive_form_5,0.09619578370670462
+previous_extra_time,0.6934828426255858
+lineup_changes,0.026514364887505935
+qualification_pressure,-0.15074905896307148

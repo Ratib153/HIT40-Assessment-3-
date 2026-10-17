@@ -1,0 +1,331 @@
+HIT140 Assessment 3 - Task 2.2
+DATA SOURCES AND PROVENANCE
+
+This file records where the raw data used for Task 2.2 came from.
+The Python scripts in this folder perform the cleaning, feature engineering,
+validation and modelling. The raw source files are stored under data/raw/.
+
+----------------------------------------------------------------------
+1. FIFA WORLD CUP 2026 MATCH RESULTS
+----------------------------------------------------------------------
+
+Local file:
+data/raw/HIT40 dataset.csv
+
+Used for:
+- 104 World Cup matches
+- match dates
+- teams
+- scores
+- tournament rounds
+- venues
+- extra-time and penalty-shootout notes
+
+Source:
+FBref - 2026 World Cup Scores & Fixtures
+
+Exact URL:
+https://fbref.com/en/comps/1/2026/schedule/2026-World-Cup-Scores-and-Fixtures
+
+
+----------------------------------------------------------------------
+2. FIFA MEN'S WORLD RANKING
+----------------------------------------------------------------------
+
+Local file:
+data/raw/fifa_rankings_2026_06_11.csv
+
+Used for:
+- FIFA ranking points for all tournament teams
+- fifa_points_diff
+
+Source:
+FIFA/Coca-Cola Men's World Ranking
+
+Official ranking page:
+https://inside.fifa.com/fifa-rankings/world-ranking/men
+
+11 June 2026 ranking release:
+https://inside.fifa.com/fifa-rankings/world-ranking/men/news/argentina-reclaim-top-spot-mens-world-ranking-fifa-coca-cola
+
+The local CSV stores the ranking released on 11 June 2026, immediately
+before the World Cup began.
+
+
+----------------------------------------------------------------------
+3. HISTORICAL INTERNATIONAL MATCH RESULTS
+----------------------------------------------------------------------
+
+Local file:
+data/raw/international_results.csv
+
+Used for:
+- rest_days
+- attacking_form_5
+- opponent_defensive_form_5
+- previous_extra_time
+
+Source:
+martj42 - International football results from 1872 onward
+
+Repository:
+https://github.com/martj42/international_results
+
+Exact CSV:
+https://raw.githubusercontent.com/martj42/international_results/master/results.csv
+
+
+----------------------------------------------------------------------
+4. WORLD CUP VENUE ALTITUDE
+----------------------------------------------------------------------
+
+Local file:
+data/raw/venue_altitudes.csv
+
+Used for:
+- venue_altitude_m
+
+Collection method:
+This was not downloaded as one ready-made dataset from a single website.
+The venue-altitude lookup was manually compiled for the project with
+assistance from ChatGPT using publicly available stadium/location
+information, and then saved as venue_altitudes.csv.
+
+ChatGPT:
+https://chatgpt.com/
+
+Because this file was manually compiled rather than downloaded from one
+specific webpage, there is no single original dataset URL for it.
+
+
+----------------------------------------------------------------------
+5. FIFA WORLD CUP 2026 STARTING LINEUPS
+----------------------------------------------------------------------
+
+Local files:
+data/raw/lineups/matches.csv
+data/raw/lineups/match_appearances.csv
+
+Used for:
+- World Cup starting XIs
+- player IDs
+- lineup_changes for matches after each team's first World Cup match
+
+Source:
+FIFA Training Centre match reports
+
+FIFA Training Centre:
+https://www.fifatrainingcentre.com/
+
+Important:
+The exact FIFA Training Centre PDF URL for every one of the 104 World Cup
+matches is already stored in:
+
+data/raw/lineups/matches.csv
+
+under the column:
+
+source_url
+
+For example, Match 1 is stored as:
+https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M01%20MEX%20V%20RSA.pdf
+
+The project keeps the exact per-match source URLs in the raw CSV rather than
+duplicating all 104 URLs in this text file.
+
+
+----------------------------------------------------------------------
+6. PRE-WORLD-CUP STARTING LINEUPS - CORNERFLICK
+----------------------------------------------------------------------
+
+Folder:
+data/raw/lineups/pre_world_cup_lineups/
+
+Used for:
+- each team's starting XI from its immediately previous match before the
+  World Cup, where a usable Cornerflick lineup was available
+- first-match lineup_changes
+
+Source:
+Cornerflick - International Friendlies
+
+The following are the exact match pages corresponding to the 24 downloaded
+lineup CSV files:
+
+2026-06-04_france_vs_ivory-coast_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/france-vs-ivory-coast-friendly-2026-06-04
+
+2026-06-04_sweden_vs_greece_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/sweden-vs-greece-friendly-2026-06-04
+
+2026-06-05_canada_vs_rep-of-ireland_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/canada-vs-rep-of-ireland-friendly-2026-06-05
+
+2026-06-06_belgium_vs_tunisia_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/belgium-vs-tunisia-friendly-2026-06-06
+
+2026-06-06_bolivia_vs_scotland_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/bolivia-vs-scotland-friendly-2026-06-06
+
+2026-06-06_brazil_vs_egypt_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/brazil-vs-egypt-friendly-2026-06-06
+
+2026-06-06_england_vs_new-zealand_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/england-vs-new-zealand-friendly-2026-06-06
+
+2026-06-06_haiti_vs_peru_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/haiti-vs-peru-friendly-2026-06-06
+
+2026-06-06_panama_vs_bosnia-herzegovina_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/panama-vs-bosnia-herzegovina-friendly-2026-06-06
+
+2026-06-06_qatar_vs_el-salvador_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/qatar-vs-el-salvador-friendly-2026-06-06
+
+2026-06-06_switzerland_vs_australia_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/switzerland-vs-australia-friendly-2026-06-06
+
+2026-06-06_usa_vs_germany_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/usa-vs-germany-friendly-2026-06-06
+
+2026-06-06_venezuela_vs_turkiye_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/venezuela-vs-turkiye-friendly-2026-06-06
+
+2026-06-07_colombia_vs_jordan_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/colombia-vs-jordan-friendly-2026-06-07
+
+2026-06-07_croatia_vs_slovenia_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/croatia-vs-slovenia-friendly-2026-06-07
+
+2026-06-07_ecuador_vs_guatemala_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/ecuador-vs-guatemala-friendly-2026-06-07
+
+2026-06-07_morocco_vs_norway_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/morocco-vs-norway-friendly-2026-06-07
+
+2026-06-08_france_vs_northern-ireland_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/france-vs-northern-ireland-friendly-2026-06-08
+
+2026-06-08_netherlands_vs_uzbekistan_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/netherlands-vs-uzbekistan-friendly-2026-06-08
+
+2026-06-09_dr-congo_vs_chile_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/dr-congo-vs-chile-friendly-2026-06-09
+
+2026-06-10_argentina_vs_iceland_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/argentina-vs-iceland-friendly-2026-06-10
+
+2026-06-10_england_vs_costa-rica_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/england-vs-costa-rica-friendly-2026-06-10
+
+2026-06-10_iraq_vs_venezuela_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/iraq-vs-venezuela-friendly-2026-06-10
+
+2026-06-10_portugal_vs_nigeria_lineups.csv
+https://cornerflick.com/football/international-friendlies/matches/portugal-vs-nigeria-friendly-2026-06-10
+
+
+----------------------------------------------------------------------
+7. SUPPLEMENTARY PRE-WORLD-CUP STARTING LINEUPS
+----------------------------------------------------------------------
+
+Local file:
+data/raw/lineups/pre_world_cup_starters_fallback.csv
+
+Used for:
+- teams where a usable Cornerflick lineup file was not available
+
+The fallback CSV keeps the source name and exact source URL with the data.
+The unique source records are listed below:
+
+Algeria | 2026-06-10 | vs Bolivia
+Source: Sky Sports
+https://www.skysports.com/football/bolivia-vs-algeria/teams/556015
+
+Austria | 2026-06-01 | vs Tunisia
+Source: Sky Sports
+https://www.skysports.com/football/austria-vs-tunisia/teams/552898
+
+Cabo Verde | 2026-06-06 | vs Bermuda
+Source: Futbol24
+https://www.futbol24.com/match/2026/06/06/international/International/Friendly/2026/Cape-Verde/vs/Bermuda
+
+Curaçao | 2026-06-06 | vs Aruba
+Source: Futbol24
+https://www.futbol24.com/match/2026/06/07/international/International/Friendly/2026/Curacao/vs/Aruba
+
+Czechia | 2026-06-04 | vs Guatemala
+Source: Sky Sports
+https://www.skysports.com/football/czech-republic-vs-guatemala/teams/555816
+
+Ghana | 2026-06-02 | vs Wales
+Source: FotMob
+https://www.fotmob.com/matches/wales-vs-ghana/1aju86
+
+IR Iran | 2026-06-04 | vs Mali
+Source: Sky Sports
+https://www.skysports.com/football/iran-vs-mali/teams/556107
+
+Japan | 2026-05-31 | vs Iceland
+Source: Japan Football Association
+https://www.jfa.jp/eng/samuraiblue/20260531/match_page.html
+
+Korea Republic | 2026-06-03 | vs El Salvador
+Source: 365Scores
+https://www.365scores.com/en-us/football/match/friendly-international-570/el-salvador-south-korea-2383-5415-570
+
+Mexico | 2026-06-04 | vs Serbia
+Source: Sky Sports
+https://www.skysports.com/football/mexico-vs-serbia/teams/554804
+
+Paraguay | 2026-06-05 | vs Nicaragua
+Source: Sky Sports
+https://www.skysports.com/football/paraguay-vs-nicaragua/teams/555894
+
+Saudi Arabia | 2026-06-09 | vs Senegal
+Source: FotMob
+https://www.fotmob.com/matches/senegal-vs-saudi-arabia/1ny764
+
+Senegal | 2026-06-09 | vs Saudi Arabia
+Source: FotMob
+https://www.fotmob.com/matches/senegal-vs-saudi-arabia/1ny764
+
+South Africa | 2026-06-06 | vs Jamaica
+Source: Zerozero
+https://www.zerozero.pt/jogo/2026-06-06-jamaica-africa-do-sul/12241127
+
+Spain | 2026-06-08 | vs Peru
+Source: Royal Spanish Football Federation
+https://rfef.es/en/selecciones/seleccion-absoluta/historia-partidos
+
+Uruguay | 2026-03-31 | vs Algeria
+Source: Uruguayan Football Association
+https://www.auf.org.uy/amistosoargelia-vs-uruguay/
+
+
+----------------------------------------------------------------------
+8. CHATGPT / AI ASSISTANCE DISCLOSURE
+----------------------------------------------------------------------
+
+ChatGPT was used as an assistance tool for a small amount of supplementary
+data collection and checking during Task 2.2.
+
+In particular, ChatGPT assisted with:
+- compiling the venue altitude lookup
+- helping locate/check some fallback pre-World-Cup lineup records when a
+  usable Cornerflick file was unavailable
+- checking data consistency and helping organise the Python workflow
+
+ChatGPT was NOT the primary source for:
+- the World Cup match results
+- FIFA ranking points
+- the historical international match dataset
+- FIFA Training Centre World Cup lineups
+- the 24 downloaded Cornerflick lineup files
+
+Where fallback lineup information was used, the underlying external source
+name and URL are preserved in:
+data/raw/lineups/pre_world_cup_starters_fallback.csv
+
+The data preparation and modelling steps are implemented in the Python
+scripts included with the project.

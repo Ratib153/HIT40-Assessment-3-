@@ -1,0 +1,21 @@
+model,fold,best_parameters
+Ridge Regression,1,{'model__alpha': 25}
+Ridge Regression,2,{'model__alpha': 25}
+Ridge Regression,3,{'model__alpha': 25}
+Ridge Regression,4,{'model__alpha': 25}
+Ridge Regression,5,{'model__alpha': 25}
+Lasso Regression,1,{'model__alpha': 0.1}
+Lasso Regression,2,{'model__alpha': 0.1}
+Lasso Regression,3,{'model__alpha': 0.1}
+Lasso Regression,4,{'model__alpha': 0.1}
+Lasso Regression,5,{'model__alpha': 0.1}
+Random Forest,1,"{'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}"
+Random Forest,2,"{'max_depth': None, 'min_samples_leaf': 4, 'n_estimators': 100}"
+Random Forest,3,"{'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}"
+Random Forest,4,"{'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}"
+Random Forest,5,"{'max_depth': 3, 'min_samples_leaf': 1, 'n_estimators': 100}"
+Gradient Boosting,1,"{'learning_rate': 0.05, 'max_depth': 1, 'n_estimators': 50}"
+Gradient Boosting,2,"{'learning_rate': 0.1, 'max_depth': 2, 'n_estimators': 50}"
+Gradient Boosting,3,"{'learning_rate': 0.05, 'max_depth': 1, 'n_estimators': 100}"
+Gradient Boosting,4,"{'learning_rate': 0.05, 'max_depth': 1, 'n_estimators': 50}"
+Gradient Boosting,5,"{'learning_rate': 0.03, 'max_depth': 1, 'n_estimators': 100}"

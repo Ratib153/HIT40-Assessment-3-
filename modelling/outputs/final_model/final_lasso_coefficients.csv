@@ -1,0 +1,9 @@
+predictor,standardised_coefficient,original_scale_coefficient,absolute_standardised_coefficient,retained_by_lasso
+fifa_points_diff,0.6198373951361911,0.0026165363381938644,0.6198373951361911,True
+previous_extra_time,0.07871458461131617,0.40931583997884413,0.07871458461131617,True
+opponent_defensive_form_5,0.06384431121370363,0.09874295354587577,0.06384431121370363,True
+lineup_changes,0.033003169594274136,0.014037248152515891,0.033003169594274136,True
+rest_days,-0.010532391637059059,-0.0020374598777518635,0.010532391637059059,True
+venue_altitude_m,-0.0,-0.0,0.0,False
+attacking_form_5,0.0,0.0,0.0,False
+qualification_pressure,-0.0,-0.0,0.0,False
