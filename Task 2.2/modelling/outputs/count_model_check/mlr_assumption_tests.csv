@@ -1,0 +1,6 @@
+assumption,test,statistic,p_value,conclusion_at_5_percent
+Linearity,Ramsey RESET (squared fitted values),1.5673752371774199,0.2120655059110898,No evidence against
+Constant variance,Breusch-Pagan,16.883094394193762,0.03134969257013937,Evidence against
+Normal residuals,Shapiro-Wilk,0.9553948150808085,4.329557983866245e-06,Evidence against
+Independent residuals,"Durbin-Watson (date order, about 2 is good)",2.0105021614694234,,See statistic
+Independent residuals,Within-match residual correlation (team vs opponent),0.15056112072970662,0.12711420075708663,No evidence against
