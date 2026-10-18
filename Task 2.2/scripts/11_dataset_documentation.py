@@ -77,17 +77,20 @@ variables = [
         "definition":
             "Height of the match stadium above sea level.",
         "calculation":
-            "The stadium was matched with the venue altitude lookup table.",
+            "Stadium locations were geocoded using OpenStreetMap "
+            "Nominatim and elevation was retrieved programmatically "
+            "from Open-Elevation.",
         "unit_or_encoding":
             "Metres",
         "source":
-            "World Cup 2026 venue altitude data collected for the project",
+            "OpenStreetMap Nominatim and Open-Elevation using SRTM elevation data",
         "source_file":
-            "data/raw/venue_altitudes.csv",
+            "data/raw/venue_altitudes.csv and "
+            "data/raw/venue_altitude_source_audit.csv",
         "pre_match_available":
             "Yes",
         "shared_with_task_2_1":
-            "Yes",
+            "No",
     },
     {
         "variable": "attacking_form_5",
@@ -159,7 +162,7 @@ variables = [
         "unit_or_encoding":
             "Count from 0 to 11",
         "source":
-            "World Cup lineup data, Cornerflick and verified "
+            "World Cup lineup data, Cornerflick and documented "
             "pre-tournament lineup sources",
         "source_file":
             "data/raw/lineups/",
@@ -214,7 +217,7 @@ assert (
         dictionary["shared_with_task_2_1"]
         == "Yes"
     )
-).sum() == 3
+).sum() == 2
 
 assert dictionary.notna().all().all()
 
@@ -229,6 +232,18 @@ print("Variable dictionary created")
 print(
     "Documented variables:",
     len(dictionary)
+)
+print(
+    "Shared with Task 2.1:",
+    (
+        (
+            dictionary["role"] == "Explanatory"
+        )
+        &
+        (
+            dictionary["shared_with_task_2_1"] == "Yes"
+        )
+    ).sum()
 )
 print(
     "Saved to:",
