@@ -207,422 +207,422 @@ M085,2026-07-02,Switzerland,Algeria,Mean Baseline,5,2,1.5416666666666667
 M100,2026-07-11,Switzerland,Argentina,Mean Baseline,5,1,1.5416666666666667
 M015,2026-06-15,Uruguay,Saudi Arabia,Mean Baseline,5,1,1.5416666666666667
 M045,2026-06-23,Uzbekistan,Portugal,Mean Baseline,5,0,1.5416666666666667
-M019,2026-06-16,Algeria,Argentina,Multiple Linear Regression,1,0,0.4693945638257122
-M044,2026-06-22,Algeria,Jordan,Multiple Linear Regression,1,2,1.950963892406811
-M019,2026-06-16,Argentina,Algeria,Multiple Linear Regression,1,3,2.3185192091244007
-M104,2026-07-19,Argentina,Spain,Multiple Linear Regression,1,0,1.3286887081306122
-M029,2026-06-19,Australia,USA,Multiple Linear Regression,1,0,1.2085505667257896
-M094,2026-07-06,Belgium,USA,Multiple Linear Regression,1,4,1.9608405653936727
-M074,2026-06-29,Brazil,Japan,Multiple Linear Regression,1,2,1.5100373320827174
-M014,2026-06-15,Cabo Verde,Spain,Multiple Linear Regression,1,0,0.037748653497008844
-M039,2026-06-21,Cabo Verde,Uruguay,Multiple Linear Regression,1,2,0.6610540867658101
-M064,2026-06-26,Cabo Verde,Saudi Arabia,Multiple Linear Regression,1,0,1.5123407154527377
-M049,2026-06-24,Canada,Switzerland,Multiple Linear Regression,1,1,1.1385506588965315
-M089,2026-07-04,Canada,Morocco,Multiple Linear Regression,1,0,0.8644225840815304
-M024,2026-06-17,Colombia,Uzbekistan,Multiple Linear Regression,1,3,1.766583510165689
-M069,2026-06-27,Congo DR,Uzbekistan,Multiple Linear Regression,1,3,1.7830904154447353
-M084,2026-07-02,Croatia,Portugal,Multiple Linear Regression,1,1,1.2815656404364175
-M009,2026-06-14,Curaçao,Germany,Multiple Linear Regression,1,1,0.436632181021547
-M054,2026-06-24,Czechia,Mexico,Multiple Linear Regression,1,0,0.6131860633070183
-M034,2026-06-20,Côte d'Ivoire,Germany,Multiple Linear Regression,1,1,0.901194625562589
-M079,2026-06-30,Ecuador,Mexico,Multiple Linear Regression,1,0,0.9383732168161922
-M099,2026-07-11,England,Norway,Multiple Linear Regression,1,2,2.233432032686606
-M009,2026-06-14,Germany,Curaçao,Multiple Linear Regression,1,7,2.4479432351489727
-M034,2026-06-20,Germany,Côte d'Ivoire,Multiple Linear Regression,1,2,1.6125330673897913
-M074,2026-06-29,Japan,Brazil,Multiple Linear Regression,1,1,1.2235146719458032
-M044,2026-06-22,Jordan,Algeria,Multiple Linear Regression,1,1,0.9445876697455637
-M054,2026-06-24,Mexico,Czechia,Multiple Linear Regression,1,3,1.8174621592643896
-M079,2026-06-30,Mexico,Ecuador,Multiple Linear Regression,1,2,1.4399063502547806
-M089,2026-07-04,Morocco,Canada,Multiple Linear Regression,1,3,2.439738051112561
-M099,2026-07-11,Norway,England,Multiple Linear Regression,1,1,0.5189756491629949
-M004,2026-06-12,Paraguay,USA,Multiple Linear Regression,1,1,0.9724754548317871
-M084,2026-07-02,Portugal,Croatia,Multiple Linear Regression,1,2,1.615693657789742
-M064,2026-06-26,Saudi Arabia,Cabo Verde,Multiple Linear Regression,1,0,1.7865066195532693
-M014,2026-06-15,Spain,Cabo Verde,Multiple Linear Regression,1,0,2.8788304553279036
-M104,2026-07-19,Spain,Argentina,Multiple Linear Regression,1,1,1.4168080865711745
-M049,2026-06-24,Switzerland,Canada,Multiple Linear Regression,1,2,1.7205417193916166
-M059,2026-06-25,Türkiye,USA,Multiple Linear Regression,1,3,1.4860368112710542
-M004,2026-06-12,USA,Paraguay,Multiple Linear Regression,1,4,1.8179073885635813
-M029,2026-06-19,USA,Australia,Multiple Linear Regression,1,2,1.5889196492775308
-M059,2026-06-25,USA,Türkiye,Multiple Linear Regression,1,2,1.81614934829663
-M094,2026-07-06,USA,Belgium,Multiple Linear Regression,1,1,1.116973981787427
-M039,2026-06-21,Uruguay,Cabo Verde,Multiple Linear Regression,1,2,2.533282277700552
-M024,2026-06-17,Uzbekistan,Colombia,Multiple Linear Regression,1,1,0.5301599052973003
-M069,2026-06-27,Uzbekistan,Congo DR,Multiple Linear Regression,1,1,1.8876562543124193
-M083,2026-07-02,Austria,Spain,Multiple Linear Regression,2,0,0.5847584431412371
-M013,2026-06-15,Belgium,Egypt,Multiple Linear Regression,2,1,1.9083028301741733
-M038,2026-06-21,Belgium,IR Iran,Multiple Linear Regression,2,0,1.884203994422196
-M098,2026-07-10,Belgium,Spain,Multiple Linear Regression,2,1,0.9609723457161365
-M003,2026-06-12,Bosnia–Herz,Canada,Multiple Linear Regression,2,1,0.9350613247547546
-M003,2026-06-12,Canada,Bosnia–Herz,Multiple Linear Regression,2,1,1.9336176244229848
-M073,2026-06-28,Canada,South Africa,Multiple Linear Regression,2,1,1.7940114893845238
-M048,2026-06-23,Colombia,Congo DR,Multiple Linear Regression,2,1,2.22556612211914
-M088,2026-07-03,Colombia,Ghana,Multiple Linear Regression,2,1,2.451659046972093
-M048,2026-06-23,Congo DR,Colombia,Multiple Linear Regression,2,0,1.0678400730349824
-M013,2026-06-15,Egypt,Belgium,Multiple Linear Regression,2,1,0.8958643626653204
-M068,2026-06-27,England,Panama,Multiple Linear Regression,2,2,2.472368759765719
-M103,2026-07-18,England,France,Multiple Linear Regression,2,6,1.3388934244243424
-M078,2026-06-30,France,Sweden,Multiple Linear Regression,2,3,2.7264056532538277
-M103,2026-07-18,France,England,Multiple Linear Regression,2,4,1.6577125816762064
-M023,2026-06-17,Ghana,Panama,Multiple Linear Regression,2,1,1.0375953797310906
-M088,2026-07-03,Ghana,Colombia,Multiple Linear Regression,2,0,0.3839329786028758
-M008,2026-06-13,Haiti,Scotland,Multiple Linear Regression,2,0,0.8706383448171433
-M038,2026-06-21,IR Iran,Belgium,Multiple Linear Regression,2,0,1.151306659406936
-M018,2026-06-16,Iraq,Norway,Multiple Linear Regression,2,1,1.2041472744535753
-M058,2026-06-25,Japan,Sweden,Multiple Linear Regression,2,1,2.139429617361746
-M028,2026-06-18,Korea Republic,Mexico,Multiple Linear Regression,2,0,1.2886997035073264
-M053,2026-06-24,Korea Republic,South Africa,Multiple Linear Regression,2,0,1.9585783412713131
-M028,2026-06-18,Mexico,Korea Republic,Multiple Linear Regression,2,1,1.9773593498518487
-M033,2026-06-20,Netherlands,Sweden,Multiple Linear Regression,2,5,2.2877319848049202
-M018,2026-06-16,Norway,Iraq,Multiple Linear Regression,2,4,1.767149083344214
-M043,2026-06-22,Norway,Senegal,Multiple Linear Regression,2,3,1.1830595744779409
-M023,2026-06-17,Panama,Ghana,Multiple Linear Regression,2,0,2.166961531499992
-M068,2026-06-27,Panama,England,Multiple Linear Regression,2,0,0.5863895947114361
-M093,2026-07-06,Portugal,Spain,Multiple Linear Regression,2,0,1.0489863105349604
-M008,2026-06-13,Scotland,Haiti,Multiple Linear Regression,2,1,2.057770239849928
-M043,2026-06-22,Senegal,Norway,Multiple Linear Regression,2,2,1.8317750369193724
-M053,2026-06-24,South Africa,Korea Republic,Multiple Linear Regression,2,1,0.9629873291711402
-M073,2026-06-28,South Africa,Canada,Multiple Linear Regression,2,0,1.0284749510818691
-M063,2026-06-26,Spain,Uruguay,Multiple Linear Regression,2,1,2.300208232569052
-M083,2026-07-02,Spain,Austria,Multiple Linear Regression,2,3,2.246448972976183
-M093,2026-07-06,Spain,Portugal,Multiple Linear Regression,2,1,1.7032926400261417
-M098,2026-07-10,Spain,Belgium,Multiple Linear Regression,2,2,1.820929409577834
-M033,2026-06-20,Sweden,Netherlands,Multiple Linear Regression,2,1,0.8430366708042252
-M058,2026-06-25,Sweden,Japan,Multiple Linear Regression,2,1,0.9686637934307751
-M078,2026-06-30,Sweden,France,Multiple Linear Regression,2,0,0.43388669188065143
-M063,2026-06-26,Uruguay,Spain,Multiple Linear Regression,2,0,0.9370361070298361
-M072,2026-06-27,Algeria,Austria,Multiple Linear Regression,3,3,1.194753369945846
-M087,2026-07-03,Argentina,Cabo Verde,Multiple Linear Regression,3,3,2.8475675925586907
-M102,2026-07-15,Argentina,England,Multiple Linear Regression,3,2,2.3781698822391286
-M007,2026-06-13,Australia,Türkiye,Multiple Linear Regression,3,2,1.29439540869499
-M072,2026-06-27,Austria,Algeria,Multiple Linear Regression,3,3,1.3258399960367395
-M082,2026-07-01,Bosnia–Herz,USA,Multiple Linear Regression,3,0,0.7170731385805458
-M032,2026-06-19,Brazil,Haiti,Multiple Linear Regression,3,3,2.5843640604422995
-M087,2026-07-03,Cabo Verde,Argentina,Multiple Linear Regression,3,2,-0.09569934889391085
-M027,2026-06-18,Canada,Qatar,Multiple Linear Regression,3,6,1.6503830805038273
-M022,2026-06-17,Croatia,England,Multiple Linear Regression,3,2,1.0187712213792999
-M047,2026-06-23,Croatia,Panama,Multiple Linear Regression,3,1,2.0958770759523713
-M067,2026-06-27,Croatia,Ghana,Multiple Linear Regression,3,2,2.201988609234329
-M002,2026-06-11,Czechia,Korea Republic,Multiple Linear Regression,3,1,1.035683496604208
-M077,2026-06-30,Côte d'Ivoire,Norway,Multiple Linear Regression,3,1,1.433337650843378
-M022,2026-06-17,England,Croatia,Multiple Linear Regression,3,4,1.698362423161849
-M092,2026-07-05,England,Mexico,Multiple Linear Regression,3,3,1.2012360128894277
-M102,2026-07-15,England,Argentina,Multiple Linear Regression,3,1,2.2435097196732423
-M017,2026-06-16,France,Senegal,Multiple Linear Regression,3,3,1.8629712655435227
-M042,2026-06-22,France,Iraq,Multiple Linear Regression,3,3,2.6368259817723354
-M097,2026-07-09,France,Morocco,Multiple Linear Regression,3,2,1.5499121124697806
-M067,2026-06-27,Ghana,Croatia,Multiple Linear Regression,3,1,0.6088950133212813
-M032,2026-06-19,Haiti,Brazil,Multiple Linear Regression,3,0,0.28007449859247247
-M052,2026-06-24,Haiti,Morocco,Multiple Linear Regression,3,2,-0.0630466961952505
-M042,2026-06-22,Iraq,France,Multiple Linear Regression,3,0,0.3750937940821053
-M062,2026-06-26,Iraq,Senegal,Multiple Linear Regression,3,0,0.956022544339816
-M002,2026-06-11,Korea Republic,Czechia,Multiple Linear Regression,3,2,1.3861957065239574
-M092,2026-07-05,Mexico,England,Multiple Linear Regression,3,2,0.5082029886396658
-M052,2026-06-24,Morocco,Haiti,Multiple Linear Regression,3,4,2.5914631700855497
-M097,2026-07-09,Morocco,France,Multiple Linear Regression,3,0,0.9134880594794894
-M057,2026-06-25,Netherlands,Tunisia,Multiple Linear Regression,3,3,2.387335186607883
-M077,2026-06-30,Norway,Côte d'Ivoire,Multiple Linear Regression,3,2,1.5873304495408354
-M047,2026-06-23,Panama,Croatia,Multiple Linear Regression,3,0,1.1892573176410632
-M027,2026-06-18,Qatar,Canada,Multiple Linear Regression,3,0,0.9010813548083555
-M037,2026-06-21,Saudi Arabia,Spain,Multiple Linear Regression,3,0,0.04672971042068408
-M017,2026-06-16,Senegal,France,Multiple Linear Regression,3,1,1.0481531781459639
-M062,2026-06-26,Senegal,Iraq,Multiple Linear Regression,3,5,2.2240561325877692
-M037,2026-06-21,Spain,Saudi Arabia,Multiple Linear Regression,3,4,2.4798794978311207
-M012,2026-06-14,Sweden,Tunisia,Multiple Linear Regression,3,5,1.4327110191660573
-M012,2026-06-14,Tunisia,Sweden,Multiple Linear Regression,3,1,1.4411148975747703
-M057,2026-06-25,Tunisia,Netherlands,Multiple Linear Regression,3,1,0.5959236906036338
-M007,2026-06-13,Türkiye,Australia,Multiple Linear Regression,3,0,1.570189754587128
-M082,2026-07-01,USA,Bosnia–Herz,Multiple Linear Regression,3,2,2.428382110129997
-M041,2026-06-22,Argentina,Austria,Multiple Linear Regression,4,2,2.3128764287214905
-M071,2026-06-27,Argentina,Jordan,Multiple Linear Regression,4,3,3.4266109337837816
-M086,2026-07-03,Australia,Egypt,Multiple Linear Regression,4,1,1.1830834867037112
-M041,2026-06-22,Austria,Argentina,Multiple Linear Regression,4,0,0.6759708784572139
-M066,2026-06-26,Belgium,New Zealand,Multiple Linear Regression,4,5,3.0531139226301236
-M081,2026-07-01,Belgium,Senegal,Multiple Linear Regression,4,3,1.5047406026295518
-M026,2026-06-18,Bosnia–Herz,Switzerland,Multiple Linear Regression,4,1,0.8324278736963822
-M006,2026-06-13,Brazil,Morocco,Multiple Linear Regression,4,1,1.4792175088302815
-M051,2026-06-24,Brazil,Scotland,Multiple Linear Regression,4,3,2.0530929755106913
-M091,2026-07-05,Brazil,Norway,Multiple Linear Regression,4,1,1.9896115893328212
-M096,2026-07-07,Colombia,Switzerland,Multiple Linear Regression,4,0,1.4061681965794484
-M021,2026-06-17,Congo DR,Portugal,Multiple Linear Regression,4,1,0.6733650459904408
-M011,2026-06-14,Côte d'Ivoire,Ecuador,Multiple Linear Regression,4,1,1.2748977945884161
-M011,2026-06-14,Ecuador,Côte d'Ivoire,Multiple Linear Regression,4,0,2.0297952788061973
-M056,2026-06-25,Ecuador,Germany,Multiple Linear Regression,4,2,0.8828970302944742
-M086,2026-07-03,Egypt,Australia,Multiple Linear Regression,4,1,1.3864060636465478
-M046,2026-06-23,England,Ghana,Multiple Linear Regression,4,0,3.1097099313356127
-M061,2026-06-26,France,Norway,Multiple Linear Regression,4,4,2.4893372284380604
-M101,2026-07-14,France,Spain,Multiple Linear Regression,4,0,1.247256562253554
-M056,2026-06-25,Germany,Ecuador,Multiple Linear Regression,4,1,1.7439991412935631
-M046,2026-06-23,Ghana,England,Multiple Linear Regression,4,0,0.1630309389451674
-M016,2026-06-15,IR Iran,New Zealand,Multiple Linear Regression,4,2,2.622818684150948
-M036,2026-06-20,Japan,Tunisia,Multiple Linear Regression,4,4,2.3392900154781673
-M071,2026-06-27,Jordan,Argentina,Multiple Linear Regression,4,1,-0.2800695872823966
-M001,2026-06-11,Mexico,South Africa,Multiple Linear Regression,4,2,2.1942921492600744
-M006,2026-06-13,Morocco,Brazil,Multiple Linear Regression,4,1,1.522844498248341
-M076,2026-06-29,Morocco,Netherlands,Multiple Linear Regression,4,1,1.474754933713806
-M076,2026-06-29,Netherlands,Morocco,Multiple Linear Regression,4,1,1.3255955538157131
-M016,2026-06-15,New Zealand,IR Iran,Multiple Linear Regression,4,2,0.3290225499395789
-M066,2026-06-26,New Zealand,Belgium,Multiple Linear Regression,4,1,-0.15029648743095425
-M061,2026-06-26,Norway,France,Multiple Linear Regression,4,1,0.8817495861225156
-M091,2026-07-05,Norway,Brazil,Multiple Linear Regression,4,2,0.6131491138942029
-M031,2026-06-19,Paraguay,Türkiye,Multiple Linear Regression,4,1,1.1818241144074102
-M021,2026-06-17,Portugal,Congo DR,Multiple Linear Regression,4,1,2.573800818320745
-M051,2026-06-24,Scotland,Brazil,Multiple Linear Regression,4,0,0.6601096960814635
-M081,2026-07-01,Senegal,Belgium,Multiple Linear Regression,4,2,1.1530735639769825
-M001,2026-06-11,South Africa,Mexico,Multiple Linear Regression,4,0,0.8048801660747482
-M101,2026-07-14,Spain,France,Multiple Linear Regression,4,2,1.1617643575875807
-M026,2026-06-18,Switzerland,Bosnia–Herz,Multiple Linear Regression,4,4,2.3326505624022023
-M096,2026-07-07,Switzerland,Colombia,Multiple Linear Regression,4,0,1.1031366463616488
-M036,2026-06-20,Tunisia,Japan,Multiple Linear Regression,4,0,0.9282459529714742
-M031,2026-06-19,Türkiye,Paraguay,Multiple Linear Regression,4,0,1.9483498274026818
-M085,2026-07-02,Algeria,Switzerland,Multiple Linear Regression,5,0,1.3528521466914771
-M095,2026-07-07,Argentina,Egypt,Multiple Linear Regression,5,3,3.2693743595168447
-M100,2026-07-11,Argentina,Switzerland,Multiple Linear Regression,5,3,1.9827546136021827
-M060,2026-06-25,Australia,Paraguay,Multiple Linear Regression,5,0,1.9436774545599451
-M020,2026-06-16,Austria,Jordan,Multiple Linear Regression,5,3,2.487651154843171
-M050,2026-06-24,Bosnia–Herz,Qatar,Multiple Linear Regression,5,3,1.6144462200220369
-M070,2026-06-27,Colombia,Portugal,Multiple Linear Regression,5,0,1.2832399198230444
-M080,2026-07-01,Congo DR,England,Multiple Linear Regression,5,1,0.2628434943522401
-M035,2026-06-20,Curaçao,Ecuador,Multiple Linear Regression,5,0,0.5358118440809307
-M055,2026-06-25,Curaçao,Côte d'Ivoire,Multiple Linear Regression,5,0,0.6160012628877725
-M025,2026-06-18,Czechia,South Africa,Multiple Linear Regression,5,1,1.8523983200545977
-M055,2026-06-25,Côte d'Ivoire,Curaçao,Multiple Linear Regression,5,2,2.7366078395853908
-M035,2026-06-20,Ecuador,Curaçao,Multiple Linear Regression,5,0,2.7833123823592443
-M040,2026-06-21,Egypt,New Zealand,Multiple Linear Regression,5,3,2.323908126917492
-M065,2026-06-26,Egypt,IR Iran,Multiple Linear Regression,5,1,1.313776063401112
-M095,2026-07-07,Egypt,Argentina,Multiple Linear Regression,5,2,1.266206941280378
-M080,2026-07-01,England,Congo DR,Multiple Linear Regression,5,2,2.49713451420196
-M090,2026-07-04,France,Paraguay,Multiple Linear Regression,5,1,2.5458701374318773
-M075,2026-06-29,Germany,Paraguay,Multiple Linear Regression,5,1,2.2641929409252395
-M065,2026-06-26,IR Iran,Egypt,Multiple Linear Regression,5,1,1.6594670078780733
-M010,2026-06-14,Japan,Netherlands,Multiple Linear Regression,5,2,1.4292355440483742
-M020,2026-06-16,Jordan,Austria,Multiple Linear Regression,5,1,0.715684156877454
-M030,2026-06-19,Morocco,Scotland,Multiple Linear Regression,5,1,2.0197274982017275
-M010,2026-06-14,Netherlands,Japan,Multiple Linear Regression,5,2,1.387478293409158
-M040,2026-06-21,New Zealand,Egypt,Multiple Linear Regression,5,1,0.4475449432580497
-M060,2026-06-25,Paraguay,Australia,Multiple Linear Regression,5,0,1.347417318375078
-M075,2026-06-29,Paraguay,Germany,Multiple Linear Regression,5,1,0.9262467163042148
-M090,2026-07-04,Paraguay,France,Multiple Linear Regression,5,0,1.2153718093597725
-M045,2026-06-23,Portugal,Uzbekistan,Multiple Linear Regression,5,5,2.3997313684675374
-M070,2026-06-27,Portugal,Colombia,Multiple Linear Regression,5,0,1.6774111038887631
-M005,2026-06-13,Qatar,Switzerland,Multiple Linear Regression,5,1,0.8384678141225312
-M050,2026-06-24,Qatar,Bosnia–Herz,Multiple Linear Regression,5,1,1.746052797605672
-M015,2026-06-15,Saudi Arabia,Uruguay,Multiple Linear Regression,5,1,0.7526269479579997
-M030,2026-06-19,Scotland,Morocco,Multiple Linear Regression,5,0,0.7328383468558448
-M025,2026-06-18,South Africa,Czechia,Multiple Linear Regression,5,1,1.319007782110066
-M005,2026-06-13,Switzerland,Qatar,Multiple Linear Regression,5,1,2.109572868141118
-M085,2026-07-02,Switzerland,Algeria,Multiple Linear Regression,5,2,1.8836524888002308
-M100,2026-07-11,Switzerland,Argentina,Multiple Linear Regression,5,1,1.5742572450826793
-M015,2026-06-15,Uruguay,Saudi Arabia,Multiple Linear Regression,5,1,3.1481165285389245
-M045,2026-06-23,Uzbekistan,Portugal,Multiple Linear Regression,5,0,0.9196892131247145
-M019,2026-06-16,Algeria,Argentina,Ridge Regression,1,0,0.47975844500925713
-M044,2026-06-22,Algeria,Jordan,Ridge Regression,1,2,1.9570812620571942
-M019,2026-06-16,Argentina,Algeria,Ridge Regression,1,3,2.3114173429070157
-M104,2026-07-19,Argentina,Spain,Ridge Regression,1,0,1.3308404789368797
-M029,2026-06-19,Australia,USA,Ridge Regression,1,0,1.2189596416143262
-M094,2026-07-06,Belgium,USA,Ridge Regression,1,4,1.9598927534225963
-M074,2026-06-29,Brazil,Japan,Ridge Regression,1,2,1.5127923857824934
-M014,2026-06-15,Cabo Verde,Spain,Ridge Regression,1,0,0.0518471987400253
-M039,2026-06-21,Cabo Verde,Uruguay,Ridge Regression,1,2,0.6689014126535249
-M064,2026-06-26,Cabo Verde,Saudi Arabia,Ridge Regression,1,0,1.51146781194191
-M049,2026-06-24,Canada,Switzerland,Ridge Regression,1,1,1.1420486561280816
-M089,2026-07-04,Canada,Morocco,Ridge Regression,1,0,0.8726161396578128
-M024,2026-06-17,Colombia,Uzbekistan,Ridge Regression,1,3,1.7663421488258804
-M069,2026-06-27,Congo DR,Uzbekistan,Ridge Regression,1,3,1.7813225577672207
-M084,2026-07-02,Croatia,Portugal,Ridge Regression,1,1,1.278366947832628
-M009,2026-06-14,Curaçao,Germany,Ridge Regression,1,1,0.4470298199027225
-M054,2026-06-24,Czechia,Mexico,Ridge Regression,1,0,0.621731374088449
-M034,2026-06-20,Côte d'Ivoire,Germany,Ridge Regression,1,1,0.9099393622271414
-M079,2026-06-30,Ecuador,Mexico,Ridge Regression,1,0,0.9378866571040312
-M099,2026-07-11,England,Norway,Ridge Regression,1,2,2.231147766947699
-M009,2026-06-14,Germany,Curaçao,Ridge Regression,1,7,2.452193315755197
-M034,2026-06-20,Germany,Côte d'Ivoire,Ridge Regression,1,2,1.6189220498705783
-M074,2026-06-29,Japan,Brazil,Ridge Regression,1,1,1.2253538980198548
-M044,2026-06-22,Jordan,Algeria,Ridge Regression,1,1,0.9440450103625986
-M054,2026-06-24,Mexico,Czechia,Ridge Regression,1,3,1.81959723045479
-M079,2026-06-30,Mexico,Ecuador,Ridge Regression,1,2,1.4424955984411703
-M089,2026-07-04,Morocco,Canada,Ridge Regression,1,3,2.423710545590824
-M099,2026-07-11,Norway,England,Ridge Regression,1,1,0.5328419709567185
-M004,2026-06-12,Paraguay,USA,Ridge Regression,1,1,0.9857107267864866
-M084,2026-07-02,Portugal,Croatia,Ridge Regression,1,2,1.6183536883618965
-M064,2026-06-26,Saudi Arabia,Cabo Verde,Ridge Regression,1,0,1.7795900340848032
-M014,2026-06-15,Spain,Cabo Verde,Ridge Regression,1,0,2.8659660524737474
-M104,2026-07-19,Spain,Argentina,Ridge Regression,1,1,1.4189424541985622
-M049,2026-06-24,Switzerland,Canada,Ridge Regression,1,2,1.715355328808436
-M059,2026-06-25,Türkiye,USA,Ridge Regression,1,3,1.4871721508419882
-M004,2026-06-12,USA,Paraguay,Ridge Regression,1,4,1.8146640237693448
-M029,2026-06-19,USA,Australia,Ridge Regression,1,2,1.5849610891225208
-M059,2026-06-25,USA,Türkiye,Ridge Regression,1,2,1.813610224305873
-M094,2026-07-06,USA,Belgium,Ridge Regression,1,1,1.1212256720986482
-M039,2026-06-21,Uruguay,Cabo Verde,Ridge Regression,1,2,2.51682342664846
-M024,2026-06-17,Uzbekistan,Colombia,Ridge Regression,1,1,0.5393833205959834
-M069,2026-06-27,Uzbekistan,Congo DR,Ridge Regression,1,1,1.8761721392662905
-M083,2026-07-02,Austria,Spain,Ridge Regression,2,0,0.5898027899541979
-M013,2026-06-15,Belgium,Egypt,Ridge Regression,2,1,1.9119367016678077
-M038,2026-06-21,Belgium,IR Iran,Ridge Regression,2,0,1.8847999069344907
-M098,2026-07-10,Belgium,Spain,Ridge Regression,2,1,0.9652342064296116
-M003,2026-06-12,Bosnia–Herz,Canada,Ridge Regression,2,1,0.9335693302005272
-M003,2026-06-12,Canada,Bosnia–Herz,Ridge Regression,2,1,1.9264114366434804
-M073,2026-06-28,Canada,South Africa,Ridge Regression,2,1,1.7911362477712054
-M048,2026-06-23,Colombia,Congo DR,Ridge Regression,2,1,2.2183733448130334
-M088,2026-07-03,Colombia,Ghana,Ridge Regression,2,1,2.442788097173668
-M048,2026-06-23,Congo DR,Colombia,Ridge Regression,2,0,1.0705930035782445
-M013,2026-06-15,Egypt,Belgium,Ridge Regression,2,1,0.8968801689553303
-M068,2026-06-27,England,Panama,Ridge Regression,2,2,2.46737581356778
-M103,2026-07-18,England,France,Ridge Regression,2,6,1.3392834116636414
-M078,2026-06-30,France,Sweden,Ridge Regression,2,3,2.7255289164927863
-M103,2026-07-18,France,England,Ridge Regression,2,4,1.6578536739824385
-M023,2026-06-17,Ghana,Panama,Ridge Regression,2,1,1.0422053199052081
-M088,2026-07-03,Ghana,Colombia,Ridge Regression,2,0,0.3864328330967095
-M008,2026-06-13,Haiti,Scotland,Ridge Regression,2,0,0.87551218351096
-M038,2026-06-21,IR Iran,Belgium,Ridge Regression,2,0,1.157064080896188
-M018,2026-06-16,Iraq,Norway,Ridge Regression,2,1,1.2019329283174471
-M058,2026-06-25,Japan,Sweden,Ridge Regression,2,1,2.1405770978573657
-M028,2026-06-18,Korea Republic,Mexico,Ridge Regression,2,0,1.287750002866768
-M053,2026-06-24,Korea Republic,South Africa,Ridge Regression,2,0,1.9536376116025886
-M028,2026-06-18,Mexico,Korea Republic,Ridge Regression,2,1,1.976241244661814
-M033,2026-06-20,Netherlands,Sweden,Ridge Regression,2,5,2.281514318257191
-M018,2026-06-16,Norway,Iraq,Ridge Regression,2,4,1.7645023907132882
-M043,2026-06-22,Norway,Senegal,Ridge Regression,2,3,1.18746416901394
-M023,2026-06-17,Panama,Ghana,Ridge Regression,2,0,2.1670212247255067
-M068,2026-06-27,Panama,England,Ridge Regression,2,0,0.5912690107909633
-M093,2026-07-06,Portugal,Spain,Ridge Regression,2,0,1.0506029620222779
-M008,2026-06-13,Scotland,Haiti,Ridge Regression,2,1,2.0540756649082446
-M043,2026-06-22,Senegal,Norway,Ridge Regression,2,2,1.827250280046567
-M053,2026-06-24,South Africa,Korea Republic,Ridge Regression,2,1,0.9610456829107785
-M073,2026-06-28,South Africa,Canada,Ridge Regression,2,0,1.026310122550546
-M063,2026-06-26,Spain,Uruguay,Ridge Regression,2,1,2.296186671676647
-M083,2026-07-02,Spain,Austria,Ridge Regression,2,3,2.2402807576188337
-M093,2026-07-06,Spain,Portugal,Ridge Regression,2,1,1.7014152288299966
-M098,2026-07-10,Spain,Belgium,Ridge Regression,2,2,1.817743702536742
-M033,2026-06-20,Sweden,Netherlands,Ridge Regression,2,1,0.8544920123314783
-M058,2026-06-25,Sweden,Japan,Ridge Regression,2,1,0.9739022620735527
-M078,2026-06-30,Sweden,France,Ridge Regression,2,0,0.4449430435912871
-M063,2026-06-26,Uruguay,Spain,Ridge Regression,2,0,0.936909863670543
-M072,2026-06-27,Algeria,Austria,Ridge Regression,3,3,1.1939665324754156
-M087,2026-07-03,Argentina,Cabo Verde,Ridge Regression,3,3,2.8363443736998066
-M102,2026-07-15,Argentina,England,Ridge Regression,3,2,2.372959882149215
-M007,2026-06-13,Australia,Türkiye,Ridge Regression,3,2,1.2908097128726375
-M072,2026-06-27,Austria,Algeria,Ridge Regression,3,3,1.326040130229657
-M082,2026-07-01,Bosnia–Herz,USA,Ridge Regression,3,0,0.7237649884479986
-M032,2026-06-19,Brazil,Haiti,Ridge Regression,3,3,2.5749750822411133
-M087,2026-07-03,Cabo Verde,Argentina,Ridge Regression,3,2,-0.08849126424359066
-M027,2026-06-18,Canada,Qatar,Ridge Regression,3,6,1.6455553861894907
-M022,2026-06-17,Croatia,England,Ridge Regression,3,2,1.0177543586615134
-M047,2026-06-23,Croatia,Panama,Ridge Regression,3,1,2.0919646007470227
-M067,2026-06-27,Croatia,Ghana,Ridge Regression,3,2,2.192024377415095
-M002,2026-06-11,Czechia,Korea Republic,Ridge Regression,3,1,1.043569189245242
-M077,2026-06-30,Côte d'Ivoire,Norway,Ridge Regression,3,1,1.434813254194672
-M022,2026-06-17,England,Croatia,Ridge Regression,3,4,1.6966675350112657
-M092,2026-07-05,England,Mexico,Ridge Regression,3,3,1.2005716378087454
-M102,2026-07-15,England,Argentina,Ridge Regression,3,1,2.2376158865618883
-M017,2026-06-16,France,Senegal,Ridge Regression,3,3,1.8616278127405717
-M042,2026-06-22,France,Iraq,Ridge Regression,3,3,2.6288119809854464
-M097,2026-07-09,France,Morocco,Ridge Regression,3,2,1.551018540500476
-M067,2026-06-27,Ghana,Croatia,Ridge Regression,3,1,0.6159634621352218
-M032,2026-06-19,Haiti,Brazil,Ridge Regression,3,0,0.288824360705743
-M052,2026-06-24,Haiti,Morocco,Ridge Regression,3,2,-0.05451041243003241
-M042,2026-06-22,Iraq,France,Ridge Regression,3,0,0.3813020298351669
-M062,2026-06-26,Iraq,Senegal,Ridge Regression,3,0,0.959804345173752
-M002,2026-06-11,Korea Republic,Czechia,Ridge Regression,3,2,1.3846243616774687
-M092,2026-07-05,Mexico,England,Ridge Regression,3,2,0.5174378017827351
-M052,2026-06-24,Morocco,Haiti,Ridge Regression,3,4,2.583928752663752
-M097,2026-07-09,Morocco,France,Ridge Regression,3,0,0.9157481054483962
-M057,2026-06-25,Netherlands,Tunisia,Ridge Regression,3,3,2.3875262667020962
-M077,2026-06-30,Norway,Côte d'Ivoire,Ridge Regression,3,2,1.585072031339531
-M047,2026-06-23,Panama,Croatia,Ridge Regression,3,0,1.1953066545737636
-M027,2026-06-18,Qatar,Canada,Ridge Regression,3,0,0.8986486130630593
-M037,2026-06-21,Saudi Arabia,Spain,Ridge Regression,3,0,0.05323842370274878
-M017,2026-06-16,Senegal,France,Ridge Regression,3,1,1.0494908131874339
-M062,2026-06-26,Senegal,Iraq,Ridge Regression,3,5,2.219570859927544
-M037,2026-06-21,Spain,Saudi Arabia,Ridge Regression,3,4,2.467055034366812
-M012,2026-06-14,Sweden,Tunisia,Ridge Regression,3,5,1.433962559724952
-M012,2026-06-14,Tunisia,Sweden,Ridge Regression,3,1,1.4379149728652287
-M057,2026-06-25,Tunisia,Netherlands,Ridge Regression,3,1,0.5981837276576772
-M007,2026-06-13,Türkiye,Australia,Ridge Regression,3,0,1.5688919045086085
-M082,2026-07-01,USA,Bosnia–Herz,Ridge Regression,3,2,2.4220234871423374
-M041,2026-06-22,Argentina,Austria,Ridge Regression,4,2,2.3080181176050694
-M071,2026-06-27,Argentina,Jordan,Ridge Regression,4,3,3.421167796063204
-M086,2026-07-03,Australia,Egypt,Ridge Regression,4,1,1.1814122484293021
-M041,2026-06-22,Austria,Argentina,Ridge Regression,4,0,0.6809373450714815
-M066,2026-06-26,Belgium,New Zealand,Ridge Regression,4,5,3.0442769419144637
-M081,2026-07-01,Belgium,Senegal,Ridge Regression,4,3,1.5114106358151167
-M026,2026-06-18,Bosnia–Herz,Switzerland,Ridge Regression,4,1,0.834874316638756
-M006,2026-06-13,Brazil,Morocco,Ridge Regression,4,1,1.48030955707259
-M051,2026-06-24,Brazil,Scotland,Ridge Regression,4,3,2.051806062070401
-M091,2026-07-05,Brazil,Norway,Ridge Regression,4,1,1.9904066520225565
-M096,2026-07-07,Colombia,Switzerland,Ridge Regression,4,0,1.4046343221441067
-M021,2026-06-17,Congo DR,Portugal,Ridge Regression,4,1,0.6743518019137147
-M011,2026-06-14,Côte d'Ivoire,Ecuador,Ridge Regression,4,1,1.2773844546310924
-M011,2026-06-14,Ecuador,Côte d'Ivoire,Ridge Regression,4,0,2.0236137720766685
-M056,2026-06-25,Ecuador,Germany,Ridge Regression,4,2,0.8853789356689672
-M086,2026-07-03,Egypt,Australia,Ridge Regression,4,1,1.385533419800331
-M046,2026-06-23,England,Ghana,Ridge Regression,4,0,3.098242729510977
-M061,2026-06-26,France,Norway,Ridge Regression,4,4,2.4840437678838825
-M101,2026-07-14,France,Spain,Ridge Regression,4,0,1.2499541464984794
-M056,2026-06-25,Germany,Ecuador,Ridge Regression,4,1,1.7472057121574431
-M046,2026-06-23,Ghana,England,Ridge Regression,4,0,0.16914325655628004
-M016,2026-06-15,IR Iran,New Zealand,Ridge Regression,4,2,2.618022709325864
-M036,2026-06-20,Japan,Tunisia,Ridge Regression,4,4,2.3347057427148377
-M071,2026-06-27,Jordan,Argentina,Ridge Regression,4,1,-0.2711735954520429
-M001,2026-06-11,Mexico,South Africa,Ridge Regression,4,2,2.1869062292931445
-M006,2026-06-13,Morocco,Brazil,Ridge Regression,4,1,1.5265921305512948
-M076,2026-06-29,Morocco,Netherlands,Ridge Regression,4,1,1.477713602482326
-M076,2026-06-29,Netherlands,Morocco,Ridge Regression,4,1,1.3289583222390609
-M016,2026-06-15,New Zealand,IR Iran,Ridge Regression,4,2,0.33311762545484647
-M066,2026-06-26,New Zealand,Belgium,Ridge Regression,4,1,-0.1392766862713284
-M061,2026-06-26,Norway,France,Ridge Regression,4,1,0.8893895557995253
-M091,2026-07-05,Norway,Brazil,Ridge Regression,4,2,0.6214322233729871
-M031,2026-06-19,Paraguay,Türkiye,Ridge Regression,4,1,1.182258175086983
-M021,2026-06-17,Portugal,Congo DR,Ridge Regression,4,1,2.5668814640606215
-M051,2026-06-24,Scotland,Brazil,Ridge Regression,4,0,0.6679788151383705
-M081,2026-07-01,Senegal,Belgium,Ridge Regression,4,2,1.154937544794761
-M001,2026-06-11,South Africa,Mexico,Ridge Regression,4,0,0.8032882217852249
-M101,2026-07-14,Spain,France,Ridge Regression,4,2,1.1633555990922098
-M026,2026-06-18,Switzerland,Bosnia–Herz,Ridge Regression,4,4,2.3232921171524654
-M096,2026-07-07,Switzerland,Colombia,Ridge Regression,4,0,1.1046280663235422
-M036,2026-06-20,Tunisia,Japan,Ridge Regression,4,0,0.9241236489157125
-M031,2026-06-19,Türkiye,Paraguay,Ridge Regression,4,0,1.9441397435368666
-M085,2026-07-02,Algeria,Switzerland,Ridge Regression,5,0,1.3549301122773865
-M095,2026-07-07,Argentina,Egypt,Ridge Regression,5,3,3.261591740486666
-M100,2026-07-11,Argentina,Switzerland,Ridge Regression,5,3,1.980947126634522
-M060,2026-06-25,Australia,Paraguay,Ridge Regression,5,0,1.9403988884893155
-M020,2026-06-16,Austria,Jordan,Ridge Regression,5,3,2.4838096600099826
-M050,2026-06-24,Bosnia–Herz,Qatar,Ridge Regression,5,3,1.6146791863464627
-M070,2026-06-27,Colombia,Portugal,Ridge Regression,5,0,1.2846254313536785
-M080,2026-07-01,Congo DR,England,Ridge Regression,5,1,0.2680131170677793
-M035,2026-06-20,Curaçao,Ecuador,Ridge Regression,5,0,0.5414145464384279
-M055,2026-06-25,Curaçao,Côte d'Ivoire,Ridge Regression,5,0,0.6200308413684569
-M025,2026-06-18,Czechia,South Africa,Ridge Regression,5,1,1.8516834656789816
-M055,2026-06-25,Côte d'Ivoire,Curaçao,Ridge Regression,5,2,2.735433790014171
-M035,2026-06-20,Ecuador,Curaçao,Ridge Regression,5,0,2.7815683554704034
-M040,2026-06-21,Egypt,New Zealand,Ridge Regression,5,3,2.3193917932253867
-M065,2026-06-26,Egypt,IR Iran,Ridge Regression,5,1,1.3119301092706785
-M095,2026-07-07,Egypt,Argentina,Ridge Regression,5,2,1.267301677549374
-M080,2026-07-01,England,Congo DR,Ridge Regression,5,2,2.4902661508581625
-M090,2026-07-04,France,Paraguay,Ridge Regression,5,1,2.5425437439301257
-M075,2026-06-29,Germany,Paraguay,Ridge Regression,5,1,2.264058754134271
-M065,2026-06-26,IR Iran,Egypt,Ridge Regression,5,1,1.6595706055322919
-M010,2026-06-14,Japan,Netherlands,Ridge Regression,5,2,1.42638040275349
-M020,2026-06-16,Jordan,Austria,Ridge Regression,5,1,0.7172221246234662
-M030,2026-06-19,Morocco,Scotland,Ridge Regression,5,1,2.016462283759742
-M010,2026-06-14,Netherlands,Japan,Ridge Regression,5,2,1.3842109953998287
-M040,2026-06-21,New Zealand,Egypt,Ridge Regression,5,1,0.45210585181045393
-M060,2026-06-25,Paraguay,Australia,Ridge Regression,5,0,1.3478355196555087
-M075,2026-06-29,Paraguay,Germany,Ridge Regression,5,1,0.9301050282291626
-M090,2026-07-04,Paraguay,France,Ridge Regression,5,0,1.2166628532966568
-M045,2026-06-23,Portugal,Uzbekistan,Ridge Regression,5,5,2.393288336207969
-M070,2026-06-27,Portugal,Colombia,Ridge Regression,5,0,1.6783178635452192
-M005,2026-06-13,Qatar,Switzerland,Ridge Regression,5,1,0.839275938448953
-M050,2026-06-24,Qatar,Bosnia–Herz,Ridge Regression,5,1,1.739996625958032
-M015,2026-06-15,Saudi Arabia,Uruguay,Ridge Regression,5,1,0.7572422827485803
-M030,2026-06-19,Scotland,Morocco,Ridge Regression,5,0,0.7375664740278793
-M025,2026-06-18,South Africa,Czechia,Ridge Regression,5,1,1.318383547440982
-M005,2026-06-13,Switzerland,Qatar,Ridge Regression,5,1,2.105156785486052
-M085,2026-07-02,Switzerland,Algeria,Ridge Regression,5,2,1.883369960821347
-M100,2026-07-11,Switzerland,Argentina,Ridge Regression,5,1,1.5756869025091524
-M015,2026-06-15,Uruguay,Saudi Arabia,Ridge Regression,5,1,3.112986439407978
-M045,2026-06-23,Uzbekistan,Portugal,Ridge Regression,5,0,0.9210511338590783
+M019,2026-06-16,Algeria,Argentina,Multiple Linear Regression,1,0,0.4695944939071204
+M044,2026-06-22,Algeria,Jordan,Multiple Linear Regression,1,2,1.9525295178290893
+M019,2026-06-16,Argentina,Algeria,Multiple Linear Regression,1,3,2.3185210217231402
+M104,2026-07-19,Argentina,Spain,Multiple Linear Regression,1,0,1.3305815069818248
+M029,2026-06-19,Australia,USA,Multiple Linear Regression,1,0,1.213206223977477
+M094,2026-07-06,Belgium,USA,Multiple Linear Regression,1,4,1.9647555316247465
+M074,2026-06-29,Brazil,Japan,Multiple Linear Regression,1,2,1.5123662171443133
+M014,2026-06-15,Cabo Verde,Spain,Multiple Linear Regression,1,0,0.037773655422500996
+M039,2026-06-21,Cabo Verde,Uruguay,Multiple Linear Regression,1,2,0.6612677043964443
+M064,2026-06-26,Cabo Verde,Saudi Arabia,Multiple Linear Regression,1,0,1.5127341976138549
+M049,2026-06-24,Canada,Switzerland,Multiple Linear Regression,1,1,1.1390529286381528
+M089,2026-07-04,Canada,Morocco,Multiple Linear Regression,1,0,0.8654188575580841
+M024,2026-06-17,Colombia,Uzbekistan,Multiple Linear Regression,1,3,1.7511417407367162
+M069,2026-06-27,Congo DR,Uzbekistan,Multiple Linear Regression,1,3,1.7822283015380103
+M084,2026-07-02,Croatia,Portugal,Multiple Linear Regression,1,1,1.2826225087270013
+M009,2026-06-14,Curaçao,Germany,Multiple Linear Regression,1,1,0.43661511128134456
+M054,2026-06-24,Czechia,Mexico,Multiple Linear Regression,1,0,0.5968016042108406
+M034,2026-06-20,Côte d'Ivoire,Germany,Multiple Linear Regression,1,1,0.9014777749466156
+M079,2026-06-30,Ecuador,Mexico,Multiple Linear Regression,1,0,0.9227591106666164
+M099,2026-07-11,England,Norway,Multiple Linear Regression,1,2,2.2331011608961266
+M009,2026-06-14,Germany,Curaçao,Multiple Linear Regression,1,7,2.449933015600576
+M034,2026-06-20,Germany,Côte d'Ivoire,Multiple Linear Regression,1,2,1.614644875800259
+M074,2026-06-29,Japan,Brazil,Multiple Linear Regression,1,1,1.2246183784411326
+M044,2026-06-22,Jordan,Algeria,Multiple Linear Regression,1,1,0.9475375931932207
+M054,2026-06-24,Mexico,Czechia,Multiple Linear Regression,1,3,1.7999738892684385
+M079,2026-06-30,Mexico,Ecuador,Multiple Linear Regression,1,2,1.423239590943918
+M089,2026-07-04,Morocco,Canada,Multiple Linear Regression,1,3,2.441010636130667
+M099,2026-07-11,Norway,England,Multiple Linear Regression,1,1,0.5189916576281455
+M004,2026-06-12,Paraguay,USA,Multiple Linear Regression,1,1,0.9720203087859255
+M084,2026-07-02,Portugal,Croatia,Multiple Linear Regression,1,2,1.6155473096276143
+M064,2026-06-26,Saudi Arabia,Cabo Verde,Multiple Linear Regression,1,0,1.7876187138770938
+M014,2026-06-15,Spain,Cabo Verde,Multiple Linear Regression,1,0,2.8803718750190725
+M104,2026-07-19,Spain,Argentina,Multiple Linear Regression,1,1,1.4182617017323054
+M049,2026-06-24,Switzerland,Canada,Multiple Linear Regression,1,2,1.7211596652375492
+M059,2026-06-25,Türkiye,USA,Multiple Linear Regression,1,3,1.4845173585985592
+M004,2026-06-12,USA,Paraguay,Multiple Linear Regression,1,4,1.8192755389316133
+M029,2026-06-19,USA,Australia,Multiple Linear Regression,1,2,1.595548535307907
+M059,2026-06-25,USA,Türkiye,Multiple Linear Regression,1,2,1.814865666077048
+M094,2026-07-06,USA,Belgium,Multiple Linear Regression,1,1,1.1225086017636894
+M039,2026-06-21,Uruguay,Cabo Verde,Multiple Linear Regression,1,2,2.5341765859650565
+M024,2026-06-17,Uzbekistan,Colombia,Multiple Linear Regression,1,1,0.5139865146144114
+M069,2026-06-27,Uzbekistan,Congo DR,Multiple Linear Regression,1,1,1.8864576654730703
+M083,2026-07-02,Austria,Spain,Multiple Linear Regression,2,0,0.5874880139010159
+M013,2026-06-15,Belgium,Egypt,Multiple Linear Regression,2,1,1.9054771535604225
+M038,2026-06-21,Belgium,IR Iran,Multiple Linear Regression,2,0,1.886530204727071
+M098,2026-07-10,Belgium,Spain,Multiple Linear Regression,2,1,0.9637127911775507
+M003,2026-06-12,Bosnia–Herz,Canada,Multiple Linear Regression,2,1,0.9372775177507093
+M003,2026-06-12,Canada,Bosnia–Herz,Multiple Linear Regression,2,1,1.935859649212233
+M073,2026-06-28,Canada,South Africa,Multiple Linear Regression,2,1,1.7968763907039889
+M048,2026-06-23,Colombia,Congo DR,Multiple Linear Regression,2,1,2.2252193553136106
+M088,2026-07-03,Colombia,Ghana,Multiple Linear Regression,2,1,2.4520041266890753
+M048,2026-06-23,Congo DR,Colombia,Multiple Linear Regression,2,0,1.0669198371494382
+M013,2026-06-15,Egypt,Belgium,Multiple Linear Regression,2,1,0.8936066916931582
+M068,2026-06-27,England,Panama,Multiple Linear Regression,2,2,2.473735829127878
+M103,2026-07-18,England,France,Multiple Linear Regression,2,6,1.3418032603897745
+M078,2026-06-30,France,Sweden,Multiple Linear Regression,2,3,2.7272455721595876
+M103,2026-07-18,France,England,Multiple Linear Regression,2,4,1.6603605556557515
+M023,2026-06-17,Ghana,Panama,Multiple Linear Regression,2,1,1.0386511023240825
+M088,2026-07-03,Ghana,Colombia,Multiple Linear Regression,2,0,0.38420597651837374
+M008,2026-06-13,Haiti,Scotland,Multiple Linear Regression,2,0,0.8728813362206066
+M038,2026-06-21,IR Iran,Belgium,Multiple Linear Regression,2,0,1.1535581326217665
+M018,2026-06-16,Iraq,Norway,Multiple Linear Regression,2,1,1.2067084995925572
+M058,2026-06-25,Japan,Sweden,Multiple Linear Regression,2,1,2.1385744681110515
+M028,2026-06-18,Korea Republic,Mexico,Multiple Linear Regression,2,0,1.2881858322654436
+M053,2026-06-24,Korea Republic,South Africa,Multiple Linear Regression,2,0,1.9510669237724552
+M028,2026-06-18,Mexico,Korea Republic,Multiple Linear Regression,2,1,1.9763236506473771
+M033,2026-06-20,Netherlands,Sweden,Multiple Linear Regression,2,5,2.2892242832538883
+M018,2026-06-16,Norway,Iraq,Multiple Linear Regression,2,4,1.7696693462116844
+M043,2026-06-22,Norway,Senegal,Multiple Linear Regression,2,3,1.1843716126546644
+M023,2026-06-17,Panama,Ghana,Multiple Linear Regression,2,0,2.1680734903383447
+M068,2026-06-27,Panama,England,Multiple Linear Regression,2,0,0.5880891590079322
+M093,2026-07-06,Portugal,Spain,Multiple Linear Regression,2,0,1.0491617609088326
+M008,2026-06-13,Scotland,Haiti,Multiple Linear Regression,2,1,2.0603033331893563
+M043,2026-06-22,Senegal,Norway,Multiple Linear Regression,2,2,1.83370281685827
+M053,2026-06-24,South Africa,Korea Republic,Multiple Linear Regression,2,1,0.9557217180558968
+M073,2026-06-28,South Africa,Canada,Multiple Linear Regression,2,0,1.0316631100256184
+M063,2026-06-26,Spain,Uruguay,Multiple Linear Regression,2,1,2.2992977790897355
+M083,2026-07-02,Spain,Austria,Multiple Linear Regression,2,3,2.2493195763466196
+M093,2026-07-06,Spain,Portugal,Multiple Linear Regression,2,1,1.703448224472582
+M098,2026-07-10,Spain,Belgium,Multiple Linear Regression,2,2,1.823823362987996
+M033,2026-06-20,Sweden,Netherlands,Multiple Linear Regression,2,1,0.8437130451975904
+M058,2026-06-25,Sweden,Japan,Multiple Linear Regression,2,1,0.9684194150474362
+M078,2026-06-30,Sweden,France,Multiple Linear Regression,2,0,0.4350213575158818
+M063,2026-06-26,Uruguay,Spain,Multiple Linear Regression,2,0,0.9366980926416919
+M072,2026-06-27,Algeria,Austria,Multiple Linear Regression,3,3,1.194715904005134
+M087,2026-07-03,Argentina,Cabo Verde,Multiple Linear Regression,3,3,2.8448105883093904
+M102,2026-07-15,Argentina,England,Multiple Linear Regression,3,2,2.3788414982237467
+M007,2026-06-13,Australia,Türkiye,Multiple Linear Regression,3,2,1.2928541845757382
+M072,2026-06-27,Austria,Algeria,Multiple Linear Regression,3,3,1.3259689888668973
+M082,2026-07-01,Bosnia–Herz,USA,Multiple Linear Regression,3,0,0.7170774759944083
+M032,2026-06-19,Brazil,Haiti,Multiple Linear Regression,3,3,2.5848252608811686
+M087,2026-07-03,Cabo Verde,Argentina,Multiple Linear Regression,3,2,-0.09802206707771144
+M027,2026-06-18,Canada,Qatar,Multiple Linear Regression,3,6,1.6489236481502672
+M022,2026-06-17,Croatia,England,Multiple Linear Regression,3,2,1.0199500323623165
+M047,2026-06-23,Croatia,Panama,Multiple Linear Regression,3,1,2.0949786525957492
+M067,2026-06-27,Croatia,Ghana,Multiple Linear Regression,3,2,2.2016226923050324
+M002,2026-06-11,Czechia,Korea Republic,Multiple Linear Regression,3,1,1.0292412218014493
+M077,2026-06-30,Côte d'Ivoire,Norway,Multiple Linear Regression,3,1,1.433992771998942
+M022,2026-06-17,England,Croatia,Multiple Linear Regression,3,4,1.6997255040291714
+M092,2026-07-05,England,Mexico,Multiple Linear Regression,3,3,1.2006332260236172
+M102,2026-07-15,England,Argentina,Multiple Linear Regression,3,1,2.2438597489289203
+M017,2026-06-16,France,Senegal,Multiple Linear Regression,3,3,1.8632002707064461
+M042,2026-06-22,France,Iraq,Multiple Linear Regression,3,3,2.6371584151802225
+M097,2026-07-09,France,Morocco,Multiple Linear Regression,3,2,1.5481233668094037
+M067,2026-06-27,Ghana,Croatia,Multiple Linear Regression,3,1,0.6086257409794337
+M032,2026-06-19,Haiti,Brazil,Multiple Linear Regression,3,0,0.2805946557550517
+M052,2026-06-24,Haiti,Morocco,Multiple Linear Regression,3,2,-0.06110027854103417
+M042,2026-06-22,Iraq,France,Multiple Linear Regression,3,0,0.3754966189347604
+M062,2026-06-26,Iraq,Senegal,Multiple Linear Regression,3,0,0.9545310199068022
+M002,2026-06-11,Korea Republic,Czechia,Multiple Linear Regression,3,2,1.3792562192364564
+M092,2026-07-05,Mexico,England,Multiple Linear Regression,3,2,0.5079967827030967
+M052,2026-06-24,Morocco,Haiti,Multiple Linear Regression,3,4,2.593091405486249
+M097,2026-07-09,Morocco,France,Multiple Linear Regression,3,0,0.9115089436716799
+M057,2026-06-25,Netherlands,Tunisia,Multiple Linear Regression,3,3,2.3873952156254994
+M077,2026-06-30,Norway,Côte d'Ivoire,Multiple Linear Regression,3,2,1.5876860168457834
+M047,2026-06-23,Panama,Croatia,Multiple Linear Regression,3,0,1.1887086423550617
+M027,2026-06-18,Qatar,Canada,Multiple Linear Regression,3,0,0.89970383070307
+M037,2026-06-21,Saudi Arabia,Spain,Multiple Linear Regression,3,0,0.049182572784504885
+M017,2026-06-16,Senegal,France,Multiple Linear Regression,3,1,1.0479501909832458
+M062,2026-06-26,Senegal,Iraq,Multiple Linear Regression,3,5,2.222503588367259
+M037,2026-06-21,Spain,Saudi Arabia,Multiple Linear Regression,3,4,2.481860348425996
+M012,2026-06-14,Sweden,Tunisia,Multiple Linear Regression,3,5,1.4424628343646995
+M012,2026-06-14,Tunisia,Sweden,Multiple Linear Regression,3,1,1.4502318901556674
+M057,2026-06-25,Tunisia,Netherlands,Multiple Linear Regression,3,1,0.5957314991529313
+M007,2026-06-13,Türkiye,Australia,Multiple Linear Regression,3,0,1.568780233608909
+M082,2026-07-01,USA,Bosnia–Herz,Multiple Linear Regression,3,2,2.427872991166045
+M041,2026-06-22,Argentina,Austria,Multiple Linear Regression,4,2,2.314459749109388
+M071,2026-06-27,Argentina,Jordan,Multiple Linear Regression,4,3,3.425663363763621
+M086,2026-07-03,Australia,Egypt,Multiple Linear Regression,4,1,1.1842996981419394
+M041,2026-06-22,Austria,Argentina,Multiple Linear Regression,4,0,0.677239003879373
+M066,2026-06-26,Belgium,New Zealand,Multiple Linear Regression,4,5,3.0532875124470418
+M081,2026-07-01,Belgium,Senegal,Multiple Linear Regression,4,3,1.507003526328552
+M026,2026-06-18,Bosnia–Herz,Switzerland,Multiple Linear Regression,4,1,0.8328517950199814
+M006,2026-06-13,Brazil,Morocco,Multiple Linear Regression,4,1,1.4812358118885935
+M051,2026-06-24,Brazil,Scotland,Multiple Linear Regression,4,3,2.0549160348005273
+M091,2026-07-05,Brazil,Norway,Multiple Linear Regression,4,1,1.9908489274091778
+M096,2026-07-07,Colombia,Switzerland,Multiple Linear Regression,4,0,1.4077370768603512
+M021,2026-06-17,Congo DR,Portugal,Multiple Linear Regression,4,1,0.6746758942812691
+M011,2026-06-14,Côte d'Ivoire,Ecuador,Multiple Linear Regression,4,1,1.2768098062359923
+M011,2026-06-14,Ecuador,Côte d'Ivoire,Multiple Linear Regression,4,0,2.030650633728638
+M056,2026-06-25,Ecuador,Germany,Multiple Linear Regression,4,2,0.8844814566117194
+M086,2026-07-03,Egypt,Australia,Multiple Linear Regression,4,1,1.3870482570993725
+M046,2026-06-23,England,Ghana,Multiple Linear Regression,4,0,3.110067249314724
+M061,2026-06-26,France,Norway,Multiple Linear Regression,4,4,2.4899719623065373
+M101,2026-07-14,France,Spain,Multiple Linear Regression,4,0,1.2488558040244633
+M056,2026-06-25,Germany,Ecuador,Multiple Linear Regression,4,1,1.7460000446823027
+M046,2026-06-23,Ghana,England,Multiple Linear Regression,4,0,0.16346003536905096
+M016,2026-06-15,IR Iran,New Zealand,Multiple Linear Regression,4,2,2.6233624196061163
+M036,2026-06-20,Japan,Tunisia,Multiple Linear Regression,4,4,2.3391208779937136
+M071,2026-06-27,Jordan,Argentina,Multiple Linear Regression,4,1,-0.27865101194117203
+M001,2026-06-11,Mexico,South Africa,Multiple Linear Regression,4,2,2.1852779616736306
+M006,2026-06-13,Morocco,Brazil,Multiple Linear Regression,4,1,1.5242630734921605
+M076,2026-06-29,Morocco,Netherlands,Multiple Linear Regression,4,1,1.4753004311001816
+M076,2026-06-29,Netherlands,Morocco,Multiple Linear Regression,4,1,1.3267363293205487
+M016,2026-06-15,New Zealand,IR Iran,Multiple Linear Regression,4,2,0.3303152756031509
+M066,2026-06-26,New Zealand,Belgium,Multiple Linear Regression,4,1,-0.14881141525047537
+M061,2026-06-26,Norway,France,Multiple Linear Regression,4,1,0.8813245997772257
+M091,2026-07-05,Norway,Brazil,Multiple Linear Regression,4,2,0.6150636709679245
+M031,2026-06-19,Paraguay,Türkiye,Multiple Linear Regression,4,1,1.1837105926654303
+M021,2026-06-17,Portugal,Congo DR,Multiple Linear Regression,4,1,2.575365995813995
+M051,2026-06-24,Scotland,Brazil,Multiple Linear Regression,4,0,0.6608743230913705
+M081,2026-07-01,Senegal,Belgium,Multiple Linear Regression,4,2,1.155812846768316
+M001,2026-06-11,South Africa,Mexico,Multiple Linear Regression,4,0,0.7953862851995265
+M101,2026-07-14,Spain,France,Multiple Linear Regression,4,2,1.163632710621754
+M026,2026-06-18,Switzerland,Bosnia–Herz,Multiple Linear Regression,4,4,2.3339576974608973
+M096,2026-07-07,Switzerland,Colombia,Multiple Linear Regression,4,0,1.1049964011493232
+M036,2026-06-20,Tunisia,Japan,Multiple Linear Regression,4,0,0.9292893590373147
+M031,2026-06-19,Türkiye,Paraguay,Multiple Linear Regression,4,0,1.9495737019191546
+M085,2026-07-02,Algeria,Switzerland,Multiple Linear Regression,5,0,1.3525862958086619
+M095,2026-07-07,Argentina,Egypt,Multiple Linear Regression,5,3,3.2688365105534105
+M100,2026-07-11,Argentina,Switzerland,Multiple Linear Regression,5,3,1.9835575237950864
+M060,2026-06-25,Australia,Paraguay,Multiple Linear Regression,5,0,1.9442267634127712
+M020,2026-06-16,Austria,Jordan,Multiple Linear Regression,5,3,2.488136051781682
+M050,2026-06-24,Bosnia–Herz,Qatar,Multiple Linear Regression,5,3,1.6173032426818232
+M070,2026-06-27,Colombia,Portugal,Multiple Linear Regression,5,0,1.2829429844059623
+M080,2026-07-01,Congo DR,England,Multiple Linear Regression,5,1,0.26428688131298306
+M035,2026-06-20,Curaçao,Ecuador,Multiple Linear Regression,5,0,0.5363308526256918
+M055,2026-06-25,Curaçao,Côte d'Ivoire,Multiple Linear Regression,5,0,0.617172851123853
+M025,2026-06-18,Czechia,South Africa,Multiple Linear Regression,5,1,1.853530477660064
+M055,2026-06-25,Côte d'Ivoire,Curaçao,Multiple Linear Regression,5,2,2.7363096361844796
+M035,2026-06-20,Ecuador,Curaçao,Multiple Linear Regression,5,0,2.7827457040797654
+M040,2026-06-21,Egypt,New Zealand,Multiple Linear Regression,5,3,2.323915940091594
+M065,2026-06-26,Egypt,IR Iran,Multiple Linear Regression,5,1,1.317442557155989
+M095,2026-07-07,Egypt,Argentina,Multiple Linear Regression,5,2,1.265798949728823
+M080,2026-07-01,England,Congo DR,Multiple Linear Regression,5,2,2.4984352758740473
+M090,2026-07-04,France,Paraguay,Multiple Linear Regression,5,1,2.5469706687085187
+M075,2026-06-29,Germany,Paraguay,Multiple Linear Regression,5,1,2.263711407416266
+M065,2026-06-26,IR Iran,Egypt,Multiple Linear Regression,5,1,1.6631907826295864
+M010,2026-06-14,Japan,Netherlands,Multiple Linear Regression,5,2,1.430118002345939
+M020,2026-06-16,Jordan,Austria,Multiple Linear Regression,5,1,0.7172000530320795
+M030,2026-06-19,Morocco,Scotland,Multiple Linear Regression,5,1,2.0200469702651747
+M010,2026-06-14,Netherlands,Japan,Multiple Linear Regression,5,2,1.389447375068263
+M040,2026-06-21,New Zealand,Egypt,Multiple Linear Regression,5,1,0.44794150863170556
+M060,2026-06-25,Paraguay,Australia,Multiple Linear Regression,5,0,1.3482646375832636
+M075,2026-06-29,Paraguay,Germany,Multiple Linear Regression,5,1,0.9255390562834804
+M090,2026-07-04,Paraguay,France,Multiple Linear Regression,5,0,1.2145396061156424
+M045,2026-06-23,Portugal,Uzbekistan,Multiple Linear Regression,5,5,2.4006042599388997
+M070,2026-06-27,Portugal,Colombia,Multiple Linear Regression,5,0,1.6771495346519822
+M005,2026-06-13,Qatar,Switzerland,Multiple Linear Regression,5,1,0.8395644168006738
+M050,2026-06-24,Qatar,Bosnia–Herz,Multiple Linear Regression,5,1,1.7494606228379195
+M015,2026-06-15,Saudi Arabia,Uruguay,Multiple Linear Regression,5,1,0.7523020942756009
+M030,2026-06-19,Scotland,Morocco,Multiple Linear Regression,5,0,0.7326195806836656
+M025,2026-06-18,South Africa,Czechia,Multiple Linear Regression,5,1,1.3200699191987095
+M005,2026-06-13,Switzerland,Qatar,Multiple Linear Regression,5,1,2.110701396390956
+M085,2026-07-02,Switzerland,Algeria,Multiple Linear Regression,5,2,1.8833410226009977
+M100,2026-07-11,Switzerland,Argentina,Multiple Linear Regression,5,1,1.5729094897845513
+M015,2026-06-15,Uruguay,Saudi Arabia,Multiple Linear Regression,5,1,3.1476957837981034
+M045,2026-06-23,Uzbekistan,Portugal,Multiple Linear Regression,5,0,0.9198691544036592
+M019,2026-06-16,Algeria,Argentina,Ridge Regression,1,0,0.4799484050134468
+M044,2026-06-22,Algeria,Jordan,Ridge Regression,1,2,1.9586466901496835
+M019,2026-06-16,Argentina,Algeria,Ridge Regression,1,3,2.3114083812721065
+M104,2026-07-19,Argentina,Spain,Ridge Regression,1,0,1.3327359703457131
+M029,2026-06-19,Australia,USA,Ridge Regression,1,0,1.2235626435655185
+M094,2026-07-06,Belgium,USA,Ridge Regression,1,4,1.9637736224554438
+M074,2026-06-29,Brazil,Japan,Ridge Regression,1,2,1.5151176835144209
+M014,2026-06-15,Cabo Verde,Spain,Ridge Regression,1,0,0.05185380171749454
+M039,2026-06-21,Cabo Verde,Uruguay,Ridge Regression,1,2,0.6691416147183337
+M064,2026-06-26,Cabo Verde,Saudi Arabia,Ridge Regression,1,0,1.5118792813131845
+M049,2026-06-24,Canada,Switzerland,Ridge Regression,1,1,1.1425745862775263
+M089,2026-07-04,Canada,Morocco,Ridge Regression,1,0,0.8736234151875585
+M024,2026-06-17,Colombia,Uzbekistan,Ridge Regression,1,3,1.750872649848384
+M069,2026-06-27,Congo DR,Uzbekistan,Ridge Regression,1,3,1.7804556069928874
+M084,2026-07-02,Croatia,Portugal,Ridge Regression,1,1,1.2794344276208063
+M009,2026-06-14,Curaçao,Germany,Ridge Regression,1,1,0.44703070698057945
+M054,2026-06-24,Czechia,Mexico,Ridge Regression,1,0,0.6053321261102478
+M034,2026-06-20,Côte d'Ivoire,Germany,Ridge Regression,1,1,0.9102349931884121
+M079,2026-06-30,Ecuador,Mexico,Ridge Regression,1,0,0.92225277142183
+M099,2026-07-11,England,Norway,Ridge Regression,1,2,2.230848641600935
+M009,2026-06-14,Germany,Curaçao,Ridge Regression,1,7,2.4541764599909515
+M034,2026-06-20,Germany,Côte d'Ivoire,Ridge Regression,1,2,1.621025260254277
+M074,2026-06-29,Japan,Brazil,Ridge Regression,1,1,1.2264681245611158
+M044,2026-06-22,Jordan,Algeria,Ridge Regression,1,1,0.9469855227438747
+M054,2026-06-24,Mexico,Czechia,Ridge Regression,1,3,1.8021033226907013
+M079,2026-06-30,Mexico,Ecuador,Ridge Regression,1,2,1.4258155289869872
+M089,2026-07-04,Morocco,Canada,Ridge Regression,1,3,2.4250028293090087
+M099,2026-07-11,Norway,England,Ridge Regression,1,1,0.5328873202527524
+M004,2026-06-12,Paraguay,USA,Ridge Regression,1,1,0.9852836424985429
+M084,2026-07-02,Portugal,Croatia,Ridge Regression,1,2,1.6182272009296912
+M064,2026-06-26,Saudi Arabia,Cabo Verde,Ridge Regression,1,0,1.7807139649059427
+M014,2026-06-15,Spain,Cabo Verde,Ridge Regression,1,0,2.8674731384888528
+M104,2026-07-19,Spain,Argentina,Ridge Regression,1,1,1.4204051443929786
+M049,2026-06-24,Switzerland,Canada,Ridge Regression,1,2,1.715995312285814
+M059,2026-06-25,Türkiye,USA,Ridge Regression,1,3,1.4856943816276293
+M004,2026-06-12,USA,Paraguay,Ridge Regression,1,4,1.816042246478815
+M029,2026-06-19,USA,Australia,Ridge Regression,1,2,1.5915183763540843
+M059,2026-06-25,USA,Türkiye,Ridge Regression,1,2,1.8123642651939067
+M094,2026-07-06,USA,Belgium,Ridge Regression,1,1,1.1267025301201545
+M039,2026-06-21,Uruguay,Cabo Verde,Ridge Regression,1,2,2.517738285329003
+M024,2026-06-17,Uzbekistan,Colombia,Ridge Regression,1,1,0.5231916494200272
+M069,2026-06-27,Uzbekistan,Congo DR,Ridge Regression,1,1,1.874971540496693
+M083,2026-07-02,Austria,Spain,Ridge Regression,2,0,0.5925271486302014
+M013,2026-06-15,Belgium,Egypt,Ridge Regression,2,1,1.909134155718188
+M038,2026-06-21,Belgium,IR Iran,Ridge Regression,2,0,1.8871246842106766
+M098,2026-07-10,Belgium,Spain,Ridge Regression,2,1,0.9679710162024023
+M003,2026-06-12,Bosnia–Herz,Canada,Ridge Regression,2,1,0.9357736435082088
+M003,2026-06-12,Canada,Bosnia–Herz,Ridge Regression,2,1,1.9286391358125319
+M073,2026-06-28,Canada,South Africa,Ridge Regression,2,1,1.7939910371793961
+M048,2026-06-23,Colombia,Congo DR,Ridge Regression,2,1,2.218000183232141
+M088,2026-07-03,Colombia,Ghana,Ridge Regression,2,1,2.443123309957222
+M048,2026-06-23,Congo DR,Colombia,Ridge Regression,2,0,1.0696559445896319
+M013,2026-06-15,Egypt,Belgium,Ridge Regression,2,1,0.8946322790330064
+M068,2026-06-27,England,Panama,Ridge Regression,2,2,2.4687392140495517
+M103,2026-07-18,England,France,Ridge Regression,2,6,1.342185864669592
+M078,2026-06-30,France,Sweden,Ridge Regression,2,3,2.726375462166252
+M103,2026-07-18,France,England,Ridge Regression,2,4,1.660496698293298
+M023,2026-06-17,Ghana,Panama,Ridge Regression,2,1,1.0432636771697494
+M088,2026-07-03,Ghana,Colombia,Ridge Regression,2,0,0.3867008636461522
+M008,2026-06-13,Haiti,Scotland,Ridge Regression,2,0,0.8777527619372371
+M038,2026-06-21,IR Iran,Belgium,Ridge Regression,2,0,1.1593176227836741
+M018,2026-06-16,Iraq,Norway,Ridge Regression,2,1,1.2044822090870175
+M058,2026-06-25,Japan,Sweden,Ridge Regression,2,1,2.1397310466117747
+M028,2026-06-18,Korea Republic,Mexico,Ridge Regression,2,0,1.2872142377934943
+M053,2026-06-24,Korea Republic,South Africa,Ridge Regression,2,0,1.9461452066206633
+M028,2026-06-18,Mexico,Korea Republic,Ridge Regression,2,1,1.9751898879899472
+M033,2026-06-20,Netherlands,Sweden,Ridge Regression,2,5,2.2829994449308213
+M018,2026-06-16,Norway,Iraq,Ridge Regression,2,4,1.7670133481020647
+M043,2026-06-22,Norway,Senegal,Ridge Regression,2,3,1.188779465248842
+M023,2026-06-17,Panama,Ghana,Ridge Regression,2,0,2.1681356968063064
+M068,2026-06-27,Panama,England,Ridge Regression,2,0,0.5929672797993095
+M093,2026-07-06,Portugal,Spain,Ridge Regression,2,0,1.0507781341151092
+M008,2026-06-13,Scotland,Haiti,Ridge Regression,2,1,2.056599944408975
+M043,2026-06-22,Senegal,Norway,Ridge Regression,2,2,1.8291693715217114
+M053,2026-06-24,South Africa,Korea Republic,Ridge Regression,2,1,0.9537963170200947
+M073,2026-06-28,South Africa,Canada,Ridge Regression,2,0,1.0294821549765814
+M063,2026-06-26,Spain,Uruguay,Ridge Regression,2,1,2.2952563945272617
+M083,2026-07-02,Spain,Austria,Ridge Regression,2,3,2.243138438521379
+M093,2026-07-06,Spain,Portugal,Ridge Regression,2,1,1.7015691098558516
+M098,2026-07-10,Spain,Belgium,Ridge Regression,2,2,1.8206264029618018
+M033,2026-06-20,Sweden,Netherlands,Ridge Regression,2,1,0.8551830754619439
+M058,2026-06-25,Sweden,Japan,Ridge Regression,2,1,0.973664678614699
+M078,2026-06-30,Sweden,France,Ridge Regression,2,0,0.4460870944477102
+M063,2026-06-26,Uruguay,Spain,Ridge Regression,2,0,0.9365474784338066
+M072,2026-06-27,Algeria,Austria,Ridge Regression,3,3,1.193931934991447
+M087,2026-07-03,Argentina,Cabo Verde,Ridge Regression,3,3,2.8336223246375614
+M102,2026-07-15,Argentina,England,Ridge Regression,3,2,2.3736280493772144
+M007,2026-06-13,Australia,Türkiye,Ridge Regression,3,2,1.2892902054630624
+M072,2026-06-27,Austria,Algeria,Ridge Regression,3,3,1.3261682667512689
+M082,2026-07-01,Bosnia–Herz,USA,Ridge Regression,3,0,0.7237714974155445
+M032,2026-06-19,Brazil,Haiti,Ridge Regression,3,3,2.575439072863756
+M087,2026-07-03,Cabo Verde,Argentina,Ridge Regression,3,2,-0.09078769459807101
+M027,2026-06-18,Canada,Qatar,Ridge Regression,3,6,1.6441173199877297
+M022,2026-06-17,Croatia,England,Ridge Regression,3,2,1.0189245982592166
+M047,2026-06-23,Croatia,Panama,Ridge Regression,3,1,2.091077803624805
+M067,2026-06-27,Croatia,Ghana,Ridge Regression,3,2,2.1916751555214917
+M002,2026-06-11,Czechia,Korea Republic,Ridge Regression,3,1,1.0371495648076194
+M077,2026-06-30,Côte d'Ivoire,Norway,Ridge Regression,3,1,1.4354634570022295
+M022,2026-06-17,England,Croatia,Ridge Regression,3,4,1.6980191856766167
+M092,2026-07-05,England,Mexico,Ridge Regression,3,3,1.1999379956690277
+M102,2026-07-15,England,Argentina,Ridge Regression,3,1,2.2379676991814983
+M017,2026-06-16,France,Senegal,Ridge Regression,3,3,1.8618568621305944
+M042,2026-06-22,France,Iraq,Ridge Regression,3,3,2.6291468789446073
+M097,2026-07-09,France,Morocco,Ridge Regression,3,2,1.5492476965285233
+M067,2026-06-27,Ghana,Croatia,Ridge Regression,3,1,0.6156995822445415
+M032,2026-06-19,Haiti,Brazil,Ridge Regression,3,0,0.2893391136183334
+M052,2026-06-24,Haiti,Morocco,Ridge Regression,3,2,-0.05258427193841242
+M042,2026-06-22,Iraq,France,Ridge Regression,3,0,0.38170292040077913
+M062,2026-06-26,Iraq,Senegal,Ridge Regression,3,0,0.958329993392294
+M002,2026-06-11,Korea Republic,Czechia,Ridge Regression,3,2,1.3777227981117555
+M092,2026-07-05,Mexico,England,Ridge Regression,3,2,0.5171894613304697
+M052,2026-06-24,Morocco,Haiti,Ridge Regression,3,4,2.5855437220733846
+M097,2026-07-09,Morocco,France,Ridge Regression,3,0,0.913790834935619
+M057,2026-06-25,Netherlands,Tunisia,Ridge Regression,3,3,2.3875819055565897
+M077,2026-06-30,Norway,Côte d'Ivoire,Ridge Regression,3,2,1.5854267547599687
+M047,2026-06-23,Panama,Croatia,Ridge Regression,3,0,1.1947594913048654
+M027,2026-06-18,Qatar,Canada,Ridge Regression,3,0,0.8972935114108206
+M037,2026-06-21,Saudi Arabia,Spain,Ridge Regression,3,0,0.05566550880182408
+M017,2026-06-16,Senegal,France,Ridge Regression,3,1,1.049293133157354
+M062,2026-06-26,Senegal,Iraq,Ridge Regression,3,5,2.2180380914318674
+M037,2026-06-21,Spain,Saudi Arabia,Ridge Regression,3,4,2.4690240608297174
+M012,2026-06-14,Sweden,Tunisia,Ridge Regression,3,5,1.4436164073661673
+M012,2026-06-14,Tunisia,Sweden,Ridge Regression,3,1,1.4469460040938673
+M057,2026-06-25,Tunisia,Netherlands,Ridge Regression,3,1,0.5979965912396386
+M007,2026-06-13,Türkiye,Australia,Ridge Regression,3,0,1.5674987429132947
+M082,2026-07-01,USA,Bosnia–Herz,Ridge Regression,3,2,2.4215255980401076
+M041,2026-06-22,Argentina,Austria,Ridge Regression,4,2,2.3095928315428758
+M071,2026-06-27,Argentina,Jordan,Ridge Regression,4,3,3.4202333682983648
+M086,2026-07-03,Australia,Egypt,Ridge Regression,4,1,1.182619520522556
+M041,2026-06-22,Austria,Argentina,Ridge Regression,4,0,0.682201001024643
+M066,2026-06-26,Belgium,New Zealand,Ridge Regression,4,5,3.044455004327406
+M081,2026-07-01,Belgium,Senegal,Ridge Regression,4,3,1.5136688147165034
+M026,2026-06-18,Bosnia–Herz,Switzerland,Ridge Regression,4,1,0.8353013974424085
+M006,2026-06-13,Brazil,Morocco,Ridge Regression,4,1,1.4823210201465802
+M051,2026-06-24,Brazil,Scotland,Ridge Regression,4,3,2.0536211631458094
+M091,2026-07-05,Brazil,Norway,Ridge Regression,4,1,1.9916424357851423
+M096,2026-07-07,Colombia,Switzerland,Ridge Regression,4,0,1.4061962489901805
+M021,2026-06-17,Congo DR,Portugal,Ridge Regression,4,1,0.6756599187756114
+M011,2026-06-14,Côte d'Ivoire,Ecuador,Ridge Regression,4,1,1.2792906377023205
+M011,2026-06-14,Ecuador,Côte d'Ivoire,Ridge Regression,4,0,2.024470803360177
+M056,2026-06-25,Ecuador,Germany,Ridge Regression,4,2,0.8869580978371506
+M086,2026-07-03,Egypt,Australia,Ridge Regression,4,1,1.3861733006804677
+M046,2026-06-23,England,Ghana,Ridge Regression,4,0,3.098600489497487
+M061,2026-06-26,France,Norway,Ridge Regression,4,4,2.484677919870743
+M101,2026-07-14,France,Spain,Ridge Regression,4,0,1.2515447575492225
+M056,2026-06-25,Germany,Ecuador,Ridge Regression,4,1,1.7492003611624638
+M046,2026-06-23,Ghana,England,Ridge Regression,4,0,0.1695749475360151
+M016,2026-06-15,IR Iran,New Zealand,Ridge Regression,4,2,2.6185680027247455
+M036,2026-06-20,Japan,Tunisia,Ridge Regression,4,4,2.3345380595368628
+M071,2026-06-27,Jordan,Argentina,Ridge Regression,4,1,-0.2697625541185955
+M001,2026-06-11,Mexico,South Africa,Ridge Regression,4,2,2.177900889378043
+M006,2026-06-13,Morocco,Brazil,Ridge Regression,4,1,1.5280098774904167
+M076,2026-06-29,Morocco,Netherlands,Ridge Regression,4,1,1.4782554146178133
+M076,2026-06-29,Netherlands,Morocco,Ridge Regression,4,1,1.330090419378423
+M016,2026-06-15,New Zealand,IR Iran,Ridge Regression,4,2,0.33440570720681295
+M066,2026-06-26,New Zealand,Belgium,Ridge Regression,4,1,-0.13779513315998804
+M061,2026-06-26,Norway,France,Ridge Regression,4,1,0.8889760726379359
+M091,2026-07-05,Norway,Brazil,Ridge Regression,4,2,0.623340941015964
+M031,2026-06-19,Paraguay,Türkiye,Ridge Regression,4,1,1.1841385905096062
+M021,2026-06-17,Portugal,Congo DR,Ridge Regression,4,1,2.5684426520495123
+M051,2026-06-24,Scotland,Brazil,Ridge Regression,4,0,0.6687456799496497
+M081,2026-07-01,Senegal,Belgium,Ridge Regression,4,2,1.1576662993155518
+M001,2026-06-11,South Africa,Mexico,Ridge Regression,4,0,0.7938080152728778
+M101,2026-07-14,Spain,France,Ridge Regression,4,2,1.1652122019811784
+M026,2026-06-18,Switzerland,Bosnia–Herz,Ridge Regression,4,4,2.324593196689813
+M096,2026-07-07,Switzerland,Colombia,Ridge Regression,4,0,1.1064795963593648
+M036,2026-06-20,Tunisia,Japan,Ridge Regression,4,0,0.9251563777951242
+M031,2026-06-19,Türkiye,Paraguay,Ridge Regression,4,0,1.9453623697115465
+M085,2026-07-02,Algeria,Switzerland,Ridge Regression,5,0,1.3546736260898578
+M095,2026-07-07,Argentina,Egypt,Ridge Regression,5,3,3.2610640785892153
+M100,2026-07-11,Argentina,Switzerland,Ridge Regression,5,3,1.9817407132249365
+M060,2026-06-25,Australia,Paraguay,Ridge Regression,5,0,1.9409499759496291
+M020,2026-06-16,Austria,Jordan,Ridge Regression,5,3,2.4843054650239145
+M050,2026-06-24,Bosnia–Herz,Qatar,Ridge Regression,5,3,1.6175166440292823
+M070,2026-06-27,Colombia,Portugal,Ridge Regression,5,0,1.2843363619290882
+M080,2026-07-01,Congo DR,England,Ridge Regression,5,1,0.2694417689931252
+M035,2026-06-20,Curaçao,Ecuador,Ridge Regression,5,0,0.5419287821423856
+M055,2026-06-25,Curaçao,Côte d'Ivoire,Ridge Regression,5,0,0.6211977270701394
+M025,2026-06-18,Czechia,South Africa,Ridge Regression,5,1,1.852804220906284
+M055,2026-06-25,Côte d'Ivoire,Curaçao,Ridge Regression,5,2,2.7351457958313397
+M035,2026-06-20,Ecuador,Curaçao,Ridge Regression,5,0,2.7810070487527647
+M040,2026-06-21,Egypt,New Zealand,Ridge Regression,5,3,2.319402980136254
+M065,2026-06-26,Egypt,IR Iran,Ridge Regression,5,1,1.3155664875256474
+M095,2026-07-07,Egypt,Argentina,Ridge Regression,5,2,1.266904357172137
+M080,2026-07-01,England,Congo DR,Ridge Regression,5,2,2.491550960017522
+M090,2026-07-04,France,Paraguay,Ridge Regression,5,1,2.5436376835792847
+M075,2026-06-29,Germany,Paraguay,Ridge Regression,5,1,2.2635855071704207
+M065,2026-06-26,IR Iran,Egypt,Ridge Regression,5,1,1.663264389626873
+M010,2026-06-14,Japan,Netherlands,Ridge Regression,5,2,1.4272645772629469
+M020,2026-06-16,Jordan,Austria,Ridge Regression,5,1,0.7187315239445373
+M030,2026-06-19,Morocco,Scotland,Ridge Regression,5,1,2.016780293873651
+M010,2026-06-14,Netherlands,Japan,Ridge Regression,5,2,1.3861601750295254
+M040,2026-06-21,New Zealand,Egypt,Ridge Regression,5,1,0.4525037010339914
+M060,2026-06-25,Paraguay,Australia,Ridge Regression,5,0,1.3486822958569913
+M075,2026-06-29,Paraguay,Germany,Ridge Regression,5,1,0.9294087257711912
+M090,2026-07-04,Paraguay,France,Ridge Regression,5,0,1.2158532447017227
+M045,2026-06-23,Portugal,Uzbekistan,Ridge Regression,5,5,2.3941555925474605
+M070,2026-06-27,Portugal,Colombia,Ridge Regression,5,0,1.6780637680681183
+M005,2026-06-13,Qatar,Switzerland,Ridge Regression,5,1,0.8403678117630701
+M050,2026-06-24,Qatar,Bosnia–Herz,Ridge Regression,5,1,1.7433771585682767
+M015,2026-06-15,Saudi Arabia,Uruguay,Ridge Regression,5,1,0.756926150203192
+M030,2026-06-19,Scotland,Morocco,Ridge Regression,5,0,0.7373539199652699
+M025,2026-06-18,South Africa,Czechia,Ridge Regression,5,1,1.3194347441464165
+M005,2026-06-13,Switzerland,Qatar,Ridge Regression,5,1,2.10627924054202
+M085,2026-07-02,Switzerland,Algeria,Ridge Regression,5,2,1.8830715167590546
+M100,2026-07-11,Switzerland,Argentina,Ridge Regression,5,1,1.5743600356852334
+M015,2026-06-15,Uruguay,Saudi Arabia,Ridge Regression,5,1,3.1126504739674656
+M045,2026-06-23,Uzbekistan,Portugal,Ridge Regression,5,0,0.9212347507667731
 M019,2026-06-16,Algeria,Argentina,Lasso Regression,1,0,1.4518072289156627
 M044,2026-06-22,Algeria,Jordan,Lasso Regression,1,2,1.4518072289156627
 M019,2026-06-16,Argentina,Algeria,Lasso Regression,1,3,1.4518072289156627
@@ -833,15 +833,15 @@ M015,2026-06-15,Uruguay,Saudi Arabia,Lasso Regression,5,1,1.5416666666666667
 M045,2026-06-23,Uzbekistan,Portugal,Lasso Regression,5,0,1.5416666666666667
 M019,2026-06-16,Algeria,Argentina,Decision Tree,1,0,0.0
 M044,2026-06-22,Algeria,Jordan,Decision Tree,1,2,1.0
-M019,2026-06-16,Argentina,Algeria,Decision Tree,1,3,2.0
-M104,2026-07-19,Argentina,Spain,Decision Tree,1,0,0.0
+M019,2026-06-16,Argentina,Algeria,Decision Tree,1,3,4.0
+M104,2026-07-19,Argentina,Spain,Decision Tree,1,0,1.0
 M029,2026-06-19,Australia,USA,Decision Tree,1,0,0.0
 M094,2026-07-06,Belgium,USA,Decision Tree,1,4,1.0
 M074,2026-06-29,Brazil,Japan,Decision Tree,1,2,1.0
 M014,2026-06-15,Cabo Verde,Spain,Decision Tree,1,0,2.0
 M039,2026-06-21,Cabo Verde,Uruguay,Decision Tree,1,2,1.0
 M064,2026-06-26,Cabo Verde,Saudi Arabia,Decision Tree,1,0,1.0
-M049,2026-06-24,Canada,Switzerland,Decision Tree,1,1,1.0
+M049,2026-06-24,Canada,Switzerland,Decision Tree,1,1,0.0
 M089,2026-07-04,Canada,Morocco,Decision Tree,1,0,0.0
 M024,2026-06-17,Colombia,Uzbekistan,Decision Tree,1,3,5.0
 M069,2026-06-27,Congo DR,Uzbekistan,Decision Tree,1,3,4.0
@@ -853,24 +853,24 @@ M079,2026-06-30,Ecuador,Mexico,Decision Tree,1,0,2.0
 M099,2026-07-11,England,Norway,Decision Tree,1,2,3.0
 M009,2026-06-14,Germany,Curaçao,Decision Tree,1,7,1.0
 M034,2026-06-20,Germany,Côte d'Ivoire,Decision Tree,1,2,1.0
-M074,2026-06-29,Japan,Brazil,Decision Tree,1,1,1.0
-M044,2026-06-22,Jordan,Algeria,Decision Tree,1,1,2.0
+M074,2026-06-29,Japan,Brazil,Decision Tree,1,1,0.0
+M044,2026-06-22,Jordan,Algeria,Decision Tree,1,1,1.0
 M054,2026-06-24,Mexico,Czechia,Decision Tree,1,3,1.0
 M079,2026-06-30,Mexico,Ecuador,Decision Tree,1,2,3.0
 M089,2026-07-04,Morocco,Canada,Decision Tree,1,3,1.0
 M099,2026-07-11,Norway,England,Decision Tree,1,1,1.0
 M004,2026-06-12,Paraguay,USA,Decision Tree,1,1,0.0
-M084,2026-07-02,Portugal,Croatia,Decision Tree,1,2,1.0
-M064,2026-06-26,Saudi Arabia,Cabo Verde,Decision Tree,1,0,6.0
-M014,2026-06-15,Spain,Cabo Verde,Decision Tree,1,0,2.0
+M084,2026-07-02,Portugal,Croatia,Decision Tree,1,2,0.0
+M064,2026-06-26,Saudi Arabia,Cabo Verde,Decision Tree,1,0,1.0
+M014,2026-06-15,Spain,Cabo Verde,Decision Tree,1,0,0.0
 M104,2026-07-19,Spain,Argentina,Decision Tree,1,1,4.0
 M049,2026-06-24,Switzerland,Canada,Decision Tree,1,2,1.0
 M059,2026-06-25,Türkiye,USA,Decision Tree,1,3,3.0
 M004,2026-06-12,USA,Paraguay,Decision Tree,1,4,1.0
 M029,2026-06-19,USA,Australia,Decision Tree,1,2,0.0
-M059,2026-06-25,USA,Türkiye,Decision Tree,1,2,0.0
+M059,2026-06-25,USA,Türkiye,Decision Tree,1,2,4.0
 M094,2026-07-06,USA,Belgium,Decision Tree,1,1,0.0
-M039,2026-06-21,Uruguay,Cabo Verde,Decision Tree,1,2,3.0
+M039,2026-06-21,Uruguay,Cabo Verde,Decision Tree,1,2,5.0
 M024,2026-06-17,Uzbekistan,Colombia,Decision Tree,1,1,2.0
 M069,2026-06-27,Uzbekistan,Congo DR,Decision Tree,1,1,3.0
 M083,2026-07-02,Austria,Spain,Decision Tree,2,0,0.0
@@ -878,53 +878,53 @@ M013,2026-06-15,Belgium,Egypt,Decision Tree,2,1,2.0
 M038,2026-06-21,Belgium,IR Iran,Decision Tree,2,0,3.0
 M098,2026-07-10,Belgium,Spain,Decision Tree,2,1,1.0
 M003,2026-06-12,Bosnia–Herz,Canada,Decision Tree,2,1,0.0
-M003,2026-06-12,Canada,Bosnia–Herz,Decision Tree,2,1,1.0
-M073,2026-06-28,Canada,South Africa,Decision Tree,2,1,1.0
-M048,2026-06-23,Colombia,Congo DR,Decision Tree,2,1,3.0
-M088,2026-07-03,Colombia,Ghana,Decision Tree,2,1,2.0
-M048,2026-06-23,Congo DR,Colombia,Decision Tree,2,0,0.0
+M003,2026-06-12,Canada,Bosnia–Herz,Decision Tree,2,1,4.0
+M073,2026-06-28,Canada,South Africa,Decision Tree,2,1,2.0
+M048,2026-06-23,Colombia,Congo DR,Decision Tree,2,1,1.0
+M088,2026-07-03,Colombia,Ghana,Decision Tree,2,1,1.0
+M048,2026-06-23,Congo DR,Colombia,Decision Tree,2,0,1.0
 M013,2026-06-15,Egypt,Belgium,Decision Tree,2,1,1.0
-M068,2026-06-27,England,Panama,Decision Tree,2,2,3.0
-M103,2026-07-18,England,France,Decision Tree,2,6,0.0
-M078,2026-06-30,France,Sweden,Decision Tree,2,3,3.0
+M068,2026-06-27,England,Panama,Decision Tree,2,2,5.0
+M103,2026-07-18,England,France,Decision Tree,2,6,1.0
+M078,2026-06-30,France,Sweden,Decision Tree,2,3,4.0
 M103,2026-07-18,France,England,Decision Tree,2,4,0.0
 M023,2026-06-17,Ghana,Panama,Decision Tree,2,1,2.0
 M088,2026-07-03,Ghana,Colombia,Decision Tree,2,0,0.0
 M008,2026-06-13,Haiti,Scotland,Decision Tree,2,0,1.0
 M038,2026-06-21,IR Iran,Belgium,Decision Tree,2,0,0.0
 M018,2026-06-16,Iraq,Norway,Decision Tree,2,1,0.0
-M058,2026-06-25,Japan,Sweden,Decision Tree,2,1,3.0
+M058,2026-06-25,Japan,Sweden,Decision Tree,2,1,2.0
 M028,2026-06-18,Korea Republic,Mexico,Decision Tree,2,0,1.0
-M053,2026-06-24,Korea Republic,South Africa,Decision Tree,2,0,2.0
+M053,2026-06-24,Korea Republic,South Africa,Decision Tree,2,0,1.0
 M028,2026-06-18,Mexico,Korea Republic,Decision Tree,2,1,2.0
-M033,2026-06-20,Netherlands,Sweden,Decision Tree,2,5,5.0
-M018,2026-06-16,Norway,Iraq,Decision Tree,2,4,3.0
+M033,2026-06-20,Netherlands,Sweden,Decision Tree,2,5,3.0
+M018,2026-06-16,Norway,Iraq,Decision Tree,2,4,1.0
 M043,2026-06-22,Norway,Senegal,Decision Tree,2,3,1.0
 M023,2026-06-17,Panama,Ghana,Decision Tree,2,0,3.0
-M068,2026-06-27,Panama,England,Decision Tree,2,0,0.0
-M093,2026-07-06,Portugal,Spain,Decision Tree,2,0,2.0
-M008,2026-06-13,Scotland,Haiti,Decision Tree,2,1,2.0
-M043,2026-06-22,Senegal,Norway,Decision Tree,2,2,1.0
+M068,2026-06-27,Panama,England,Decision Tree,2,0,1.0
+M093,2026-07-06,Portugal,Spain,Decision Tree,2,0,1.0
+M008,2026-06-13,Scotland,Haiti,Decision Tree,2,1,1.0
+M043,2026-06-22,Senegal,Norway,Decision Tree,2,2,3.0
 M053,2026-06-24,South Africa,Korea Republic,Decision Tree,2,1,0.0
 M073,2026-06-28,South Africa,Canada,Decision Tree,2,0,1.0
 M063,2026-06-26,Spain,Uruguay,Decision Tree,2,1,3.0
-M083,2026-07-02,Spain,Austria,Decision Tree,2,3,4.0
-M093,2026-07-06,Spain,Portugal,Decision Tree,2,1,1.0
-M098,2026-07-10,Spain,Belgium,Decision Tree,2,2,4.0
-M033,2026-06-20,Sweden,Netherlands,Decision Tree,2,1,0.0
+M083,2026-07-02,Spain,Austria,Decision Tree,2,3,1.0
+M093,2026-07-06,Spain,Portugal,Decision Tree,2,1,2.0
+M098,2026-07-10,Spain,Belgium,Decision Tree,2,2,2.0
+M033,2026-06-20,Sweden,Netherlands,Decision Tree,2,1,1.0
 M058,2026-06-25,Sweden,Japan,Decision Tree,2,1,0.0
-M078,2026-06-30,Sweden,France,Decision Tree,2,0,1.0
+M078,2026-06-30,Sweden,France,Decision Tree,2,0,2.0
 M063,2026-06-26,Uruguay,Spain,Decision Tree,2,0,1.0
 M072,2026-06-27,Algeria,Austria,Decision Tree,3,3,1.0
 M087,2026-07-03,Argentina,Cabo Verde,Decision Tree,3,3,5.0
 M102,2026-07-15,Argentina,England,Decision Tree,3,2,4.0
 M007,2026-06-13,Australia,Türkiye,Decision Tree,3,2,0.0
 M072,2026-06-27,Austria,Algeria,Decision Tree,3,3,2.0
-M082,2026-07-01,Bosnia–Herz,USA,Decision Tree,3,0,2.0
-M032,2026-06-19,Brazil,Haiti,Decision Tree,3,3,5.0
-M087,2026-07-03,Cabo Verde,Argentina,Decision Tree,3,2,0.0
+M082,2026-07-01,Bosnia–Herz,USA,Decision Tree,3,0,3.0
+M032,2026-06-19,Brazil,Haiti,Decision Tree,3,3,7.0
+M087,2026-07-03,Cabo Verde,Argentina,Decision Tree,3,2,1.0
 M027,2026-06-18,Canada,Qatar,Decision Tree,3,6,0.0
-M022,2026-06-17,Croatia,England,Decision Tree,3,2,1.0
+M022,2026-06-17,Croatia,England,Decision Tree,3,2,0.0
 M047,2026-06-23,Croatia,Panama,Decision Tree,3,1,4.0
 M067,2026-06-27,Croatia,Ghana,Decision Tree,3,2,1.0
 M002,2026-06-11,Czechia,Korea Republic,Decision Tree,3,1,0.0
@@ -933,90 +933,90 @@ M022,2026-06-17,England,Croatia,Decision Tree,3,4,1.0
 M092,2026-07-05,England,Mexico,Decision Tree,3,3,0.0
 M102,2026-07-15,England,Argentina,Decision Tree,3,1,4.0
 M017,2026-06-16,France,Senegal,Decision Tree,3,3,1.0
-M042,2026-06-22,France,Iraq,Decision Tree,3,3,5.0
-M097,2026-07-09,France,Morocco,Decision Tree,3,2,1.0
+M042,2026-06-22,France,Iraq,Decision Tree,3,3,7.0
+M097,2026-07-09,France,Morocco,Decision Tree,3,2,0.0
 M067,2026-06-27,Ghana,Croatia,Decision Tree,3,1,1.0
-M032,2026-06-19,Haiti,Brazil,Decision Tree,3,0,1.0
+M032,2026-06-19,Haiti,Brazil,Decision Tree,3,0,3.0
 M052,2026-06-24,Haiti,Morocco,Decision Tree,3,2,1.0
-M042,2026-06-22,Iraq,France,Decision Tree,3,0,1.0
+M042,2026-06-22,Iraq,France,Decision Tree,3,0,3.0
 M062,2026-06-26,Iraq,Senegal,Decision Tree,3,0,1.0
 M002,2026-06-11,Korea Republic,Czechia,Decision Tree,3,2,0.0
 M092,2026-07-05,Mexico,England,Decision Tree,3,2,0.0
 M052,2026-06-24,Morocco,Haiti,Decision Tree,3,4,3.0
 M097,2026-07-09,Morocco,France,Decision Tree,3,0,1.0
-M057,2026-06-25,Netherlands,Tunisia,Decision Tree,3,3,1.0
+M057,2026-06-25,Netherlands,Tunisia,Decision Tree,3,3,0.0
 M077,2026-06-30,Norway,Côte d'Ivoire,Decision Tree,3,2,2.0
 M047,2026-06-23,Panama,Croatia,Decision Tree,3,0,0.0
-M027,2026-06-18,Qatar,Canada,Decision Tree,3,0,1.0
+M027,2026-06-18,Qatar,Canada,Decision Tree,3,0,2.0
 M037,2026-06-21,Saudi Arabia,Spain,Decision Tree,3,0,1.0
-M017,2026-06-16,Senegal,France,Decision Tree,3,1,2.0
+M017,2026-06-16,Senegal,France,Decision Tree,3,1,3.0
 M062,2026-06-26,Senegal,Iraq,Decision Tree,3,5,4.0
 M037,2026-06-21,Spain,Saudi Arabia,Decision Tree,3,4,2.0
 M012,2026-06-14,Sweden,Tunisia,Decision Tree,3,5,2.0
 M012,2026-06-14,Tunisia,Sweden,Decision Tree,3,1,3.0
 M057,2026-06-25,Tunisia,Netherlands,Decision Tree,3,1,1.0
 M007,2026-06-13,Türkiye,Australia,Decision Tree,3,0,2.0
-M082,2026-07-01,USA,Bosnia–Herz,Decision Tree,3,2,2.0
+M082,2026-07-01,USA,Bosnia–Herz,Decision Tree,3,2,1.0
 M041,2026-06-22,Argentina,Austria,Decision Tree,4,2,1.0
 M071,2026-06-27,Argentina,Jordan,Decision Tree,4,3,4.0
 M086,2026-07-03,Australia,Egypt,Decision Tree,4,1,6.0
 M041,2026-06-22,Austria,Argentina,Decision Tree,4,0,0.0
 M066,2026-06-26,Belgium,New Zealand,Decision Tree,4,5,3.0
-M081,2026-07-01,Belgium,Senegal,Decision Tree,4,3,2.0
-M026,2026-06-18,Bosnia–Herz,Switzerland,Decision Tree,4,1,1.0
+M081,2026-07-01,Belgium,Senegal,Decision Tree,4,3,1.0
+M026,2026-06-18,Bosnia–Herz,Switzerland,Decision Tree,4,1,0.0
 M006,2026-06-13,Brazil,Morocco,Decision Tree,4,1,2.0
 M051,2026-06-24,Brazil,Scotland,Decision Tree,4,3,1.0
 M091,2026-07-05,Brazil,Norway,Decision Tree,4,1,2.0
-M096,2026-07-07,Colombia,Switzerland,Decision Tree,4,0,0.0
+M096,2026-07-07,Colombia,Switzerland,Decision Tree,4,0,2.0
 M021,2026-06-17,Congo DR,Portugal,Decision Tree,4,1,0.0
-M011,2026-06-14,Côte d'Ivoire,Ecuador,Decision Tree,4,1,5.0
-M011,2026-06-14,Ecuador,Côte d'Ivoire,Decision Tree,4,0,4.0
-M056,2026-06-25,Ecuador,Germany,Decision Tree,4,2,0.0
-M086,2026-07-03,Egypt,Australia,Decision Tree,4,1,3.0
+M011,2026-06-14,Côte d'Ivoire,Ecuador,Decision Tree,4,1,2.0
+M011,2026-06-14,Ecuador,Côte d'Ivoire,Decision Tree,4,0,0.0
+M056,2026-06-25,Ecuador,Germany,Decision Tree,4,2,1.0
+M086,2026-07-03,Egypt,Australia,Decision Tree,4,1,0.0
 M046,2026-06-23,England,Ghana,Decision Tree,4,0,5.0
 M061,2026-06-26,France,Norway,Decision Tree,4,4,3.0
-M101,2026-07-14,France,Spain,Decision Tree,4,0,1.0
-M056,2026-06-25,Germany,Ecuador,Decision Tree,4,1,0.0
+M101,2026-07-14,France,Spain,Decision Tree,4,0,0.0
+M056,2026-06-25,Germany,Ecuador,Decision Tree,4,1,2.0
 M046,2026-06-23,Ghana,England,Decision Tree,4,0,0.0
 M016,2026-06-15,IR Iran,New Zealand,Decision Tree,4,2,5.0
 M036,2026-06-20,Japan,Tunisia,Decision Tree,4,4,1.0
 M071,2026-06-27,Jordan,Argentina,Decision Tree,4,1,2.0
-M001,2026-06-11,Mexico,South Africa,Decision Tree,4,2,1.0
+M001,2026-06-11,Mexico,South Africa,Decision Tree,4,2,0.0
 M006,2026-06-13,Morocco,Brazil,Decision Tree,4,1,2.0
-M076,2026-06-29,Morocco,Netherlands,Decision Tree,4,1,1.0
-M076,2026-06-29,Netherlands,Morocco,Decision Tree,4,1,1.0
+M076,2026-06-29,Morocco,Netherlands,Decision Tree,4,1,4.0
+M076,2026-06-29,Netherlands,Morocco,Decision Tree,4,1,0.0
 M016,2026-06-15,New Zealand,IR Iran,Decision Tree,4,2,1.0
 M066,2026-06-26,New Zealand,Belgium,Decision Tree,4,1,0.0
 M061,2026-06-26,Norway,France,Decision Tree,4,1,1.0
 M091,2026-07-05,Norway,Brazil,Decision Tree,4,2,1.0
-M031,2026-06-19,Paraguay,Türkiye,Decision Tree,4,1,3.0
+M031,2026-06-19,Paraguay,Türkiye,Decision Tree,4,1,1.0
 M021,2026-06-17,Portugal,Congo DR,Decision Tree,4,1,3.0
-M051,2026-06-24,Scotland,Brazil,Decision Tree,4,0,0.0
-M081,2026-07-01,Senegal,Belgium,Decision Tree,4,2,1.0
+M051,2026-06-24,Scotland,Brazil,Decision Tree,4,0,1.0
+M081,2026-07-01,Senegal,Belgium,Decision Tree,4,2,3.0
 M001,2026-06-11,South Africa,Mexico,Decision Tree,4,0,0.0
 M101,2026-07-14,Spain,France,Decision Tree,4,2,1.0
 M026,2026-06-18,Switzerland,Bosnia–Herz,Decision Tree,4,4,3.0
-M096,2026-07-07,Switzerland,Colombia,Decision Tree,4,0,0.0
+M096,2026-07-07,Switzerland,Colombia,Decision Tree,4,0,2.0
 M036,2026-06-20,Tunisia,Japan,Decision Tree,4,0,1.0
-M031,2026-06-19,Türkiye,Paraguay,Decision Tree,4,0,0.0
+M031,2026-06-19,Türkiye,Paraguay,Decision Tree,4,0,1.0
 M085,2026-07-02,Algeria,Switzerland,Decision Tree,5,0,1.0
 M095,2026-07-07,Argentina,Egypt,Decision Tree,5,3,4.0
 M100,2026-07-11,Argentina,Switzerland,Decision Tree,5,3,1.0
 M060,2026-06-25,Australia,Paraguay,Decision Tree,5,0,4.0
-M020,2026-06-16,Austria,Jordan,Decision Tree,5,3,0.0
-M050,2026-06-24,Bosnia–Herz,Qatar,Decision Tree,5,3,1.0
+M020,2026-06-16,Austria,Jordan,Decision Tree,5,3,1.0
+M050,2026-06-24,Bosnia–Herz,Qatar,Decision Tree,5,3,0.0
 M070,2026-06-27,Colombia,Portugal,Decision Tree,5,0,1.0
 M080,2026-07-01,Congo DR,England,Decision Tree,5,1,2.0
 M035,2026-06-20,Curaçao,Ecuador,Decision Tree,5,0,0.0
 M055,2026-06-25,Curaçao,Côte d'Ivoire,Decision Tree,5,0,2.0
 M025,2026-06-18,Czechia,South Africa,Decision Tree,5,1,0.0
-M055,2026-06-25,Côte d'Ivoire,Curaçao,Decision Tree,5,2,2.0
-M035,2026-06-20,Ecuador,Curaçao,Decision Tree,5,0,5.0
+M055,2026-06-25,Côte d'Ivoire,Curaçao,Decision Tree,5,2,5.0
+M035,2026-06-20,Ecuador,Curaçao,Decision Tree,5,0,4.0
 M040,2026-06-21,Egypt,New Zealand,Decision Tree,5,3,5.0
 M065,2026-06-26,Egypt,IR Iran,Decision Tree,5,1,0.0
 M095,2026-07-07,Egypt,Argentina,Decision Tree,5,2,2.0
 M080,2026-07-01,England,Congo DR,Decision Tree,5,2,4.0
-M090,2026-07-04,France,Paraguay,Decision Tree,5,1,3.0
+M090,2026-07-04,France,Paraguay,Decision Tree,5,1,4.0
 M075,2026-06-29,Germany,Paraguay,Decision Tree,5,1,1.0
 M065,2026-06-26,IR Iran,Egypt,Decision Tree,5,1,2.0
 M010,2026-06-14,Japan,Netherlands,Decision Tree,5,2,2.0
@@ -1026,7 +1026,7 @@ M010,2026-06-14,Netherlands,Japan,Decision Tree,5,2,1.0
 M040,2026-06-21,New Zealand,Egypt,Decision Tree,5,1,2.0
 M060,2026-06-25,Paraguay,Australia,Decision Tree,5,0,1.0
 M075,2026-06-29,Paraguay,Germany,Decision Tree,5,1,0.0
-M090,2026-07-04,Paraguay,France,Decision Tree,5,0,0.0
+M090,2026-07-04,Paraguay,France,Decision Tree,5,0,1.0
 M045,2026-06-23,Portugal,Uzbekistan,Decision Tree,5,5,5.0
 M070,2026-06-27,Portugal,Colombia,Decision Tree,5,0,2.0
 M005,2026-06-13,Qatar,Switzerland,Decision Tree,5,1,1.0
@@ -1035,423 +1035,423 @@ M015,2026-06-15,Saudi Arabia,Uruguay,Decision Tree,5,1,1.0
 M030,2026-06-19,Scotland,Morocco,Decision Tree,5,0,0.0
 M025,2026-06-18,South Africa,Czechia,Decision Tree,5,1,1.0
 M005,2026-06-13,Switzerland,Qatar,Decision Tree,5,1,1.0
-M085,2026-07-02,Switzerland,Algeria,Decision Tree,5,2,6.0
+M085,2026-07-02,Switzerland,Algeria,Decision Tree,5,2,2.0
 M100,2026-07-11,Switzerland,Argentina,Decision Tree,5,1,0.0
 M015,2026-06-15,Uruguay,Saudi Arabia,Decision Tree,5,1,2.0
 M045,2026-06-23,Uzbekistan,Portugal,Decision Tree,5,0,1.0
-M019,2026-06-16,Algeria,Argentina,Random Forest,1,0,0.34
-M044,2026-06-22,Algeria,Jordan,Random Forest,1,2,1.81
-M019,2026-06-16,Argentina,Algeria,Random Forest,1,3,1.99
-M104,2026-07-19,Argentina,Spain,Random Forest,1,0,0.81
-M029,2026-06-19,Australia,USA,Random Forest,1,0,0.85
-M094,2026-07-06,Belgium,USA,Random Forest,1,4,1.14
-M074,2026-06-29,Brazil,Japan,Random Forest,1,2,1.47
-M014,2026-06-15,Cabo Verde,Spain,Random Forest,1,0,1.6
-M039,2026-06-21,Cabo Verde,Uruguay,Random Forest,1,2,0.44
-M064,2026-06-26,Cabo Verde,Saudi Arabia,Random Forest,1,0,1.39
-M049,2026-06-24,Canada,Switzerland,Random Forest,1,1,0.42
-M089,2026-07-04,Canada,Morocco,Random Forest,1,0,0.4
-M024,2026-06-17,Colombia,Uzbekistan,Random Forest,1,3,2.8
-M069,2026-06-27,Congo DR,Uzbekistan,Random Forest,1,3,2.09
-M084,2026-07-02,Croatia,Portugal,Random Forest,1,1,1.32
-M009,2026-06-14,Curaçao,Germany,Random Forest,1,1,0.94
-M054,2026-06-24,Czechia,Mexico,Random Forest,1,0,0.62
-M034,2026-06-20,Côte d'Ivoire,Germany,Random Forest,1,1,0.51
-M079,2026-06-30,Ecuador,Mexico,Random Forest,1,0,0.89
-M099,2026-07-11,England,Norway,Random Forest,1,2,2.68
-M009,2026-06-14,Germany,Curaçao,Random Forest,1,7,2.2
-M034,2026-06-20,Germany,Côte d'Ivoire,Random Forest,1,2,1.33
-M074,2026-06-29,Japan,Brazil,Random Forest,1,1,0.49
-M044,2026-06-22,Jordan,Algeria,Random Forest,1,1,0.85
-M054,2026-06-24,Mexico,Czechia,Random Forest,1,3,2.0
-M079,2026-06-30,Mexico,Ecuador,Random Forest,1,2,1.47
-M089,2026-07-04,Morocco,Canada,Random Forest,1,3,1.81
-M099,2026-07-11,Norway,England,Random Forest,1,1,0.75
-M004,2026-06-12,Paraguay,USA,Random Forest,1,1,0.85
-M084,2026-07-02,Portugal,Croatia,Random Forest,1,2,1.65
-M064,2026-06-26,Saudi Arabia,Cabo Verde,Random Forest,1,0,1.51
-M014,2026-06-15,Spain,Cabo Verde,Random Forest,1,0,1.55
-M104,2026-07-19,Spain,Argentina,Random Forest,1,1,1.85
-M049,2026-06-24,Switzerland,Canada,Random Forest,1,2,1.39
-M059,2026-06-25,Türkiye,USA,Random Forest,1,3,1.72
-M004,2026-06-12,USA,Paraguay,Random Forest,1,4,1.17
-M029,2026-06-19,USA,Australia,Random Forest,1,2,1.29
-M059,2026-06-25,USA,Türkiye,Random Forest,1,2,1.23
-M094,2026-07-06,USA,Belgium,Random Forest,1,1,1.31
-M039,2026-06-21,Uruguay,Cabo Verde,Random Forest,1,2,3.37
-M024,2026-06-17,Uzbekistan,Colombia,Random Forest,1,1,1.08
-M069,2026-06-27,Uzbekistan,Congo DR,Random Forest,1,1,2.13
-M083,2026-07-02,Austria,Spain,Random Forest,2,0,0.53
-M013,2026-06-15,Belgium,Egypt,Random Forest,2,1,3.7
-M038,2026-06-21,Belgium,IR Iran,Random Forest,2,0,2.44
-M098,2026-07-10,Belgium,Spain,Random Forest,2,1,0.82
-M003,2026-06-12,Bosnia–Herz,Canada,Random Forest,2,1,0.43
-M003,2026-06-12,Canada,Bosnia–Herz,Random Forest,2,1,2.71
-M073,2026-06-28,Canada,South Africa,Random Forest,2,1,2.9
-M048,2026-06-23,Colombia,Congo DR,Random Forest,2,1,2.33
-M088,2026-07-03,Colombia,Ghana,Random Forest,2,1,2.23
-M048,2026-06-23,Congo DR,Colombia,Random Forest,2,0,0.53
-M013,2026-06-15,Egypt,Belgium,Random Forest,2,1,1.18
-M068,2026-06-27,England,Panama,Random Forest,2,2,3.09
-M103,2026-07-18,England,France,Random Forest,2,6,0.79
-M078,2026-06-30,France,Sweden,Random Forest,2,3,2.97
-M103,2026-07-18,France,England,Random Forest,2,4,0.42
-M023,2026-06-17,Ghana,Panama,Random Forest,2,1,1.47
-M088,2026-07-03,Ghana,Colombia,Random Forest,2,0,0.58
+M019,2026-06-16,Algeria,Argentina,Random Forest,1,0,0.31
+M044,2026-06-22,Algeria,Jordan,Random Forest,1,2,1.63
+M019,2026-06-16,Argentina,Algeria,Random Forest,1,3,1.91
+M104,2026-07-19,Argentina,Spain,Random Forest,1,0,0.88
+M029,2026-06-19,Australia,USA,Random Forest,1,0,0.84
+M094,2026-07-06,Belgium,USA,Random Forest,1,4,0.98
+M074,2026-06-29,Brazil,Japan,Random Forest,1,2,1.67
+M014,2026-06-15,Cabo Verde,Spain,Random Forest,1,0,1.66
+M039,2026-06-21,Cabo Verde,Uruguay,Random Forest,1,2,0.37
+M064,2026-06-26,Cabo Verde,Saudi Arabia,Random Forest,1,0,1.43
+M049,2026-06-24,Canada,Switzerland,Random Forest,1,1,0.25
+M089,2026-07-04,Canada,Morocco,Random Forest,1,0,0.27
+M024,2026-06-17,Colombia,Uzbekistan,Random Forest,1,3,2.51
+M069,2026-06-27,Congo DR,Uzbekistan,Random Forest,1,3,1.96
+M084,2026-07-02,Croatia,Portugal,Random Forest,1,1,1.0
+M009,2026-06-14,Curaçao,Germany,Random Forest,1,1,0.99
+M054,2026-06-24,Czechia,Mexico,Random Forest,1,0,0.77
+M034,2026-06-20,Côte d'Ivoire,Germany,Random Forest,1,1,0.49
+M079,2026-06-30,Ecuador,Mexico,Random Forest,1,0,0.8
+M099,2026-07-11,England,Norway,Random Forest,1,2,2.66
+M009,2026-06-14,Germany,Curaçao,Random Forest,1,7,2.3
+M034,2026-06-20,Germany,Côte d'Ivoire,Random Forest,1,2,1.32
+M074,2026-06-29,Japan,Brazil,Random Forest,1,1,0.42
+M044,2026-06-22,Jordan,Algeria,Random Forest,1,1,0.97
+M054,2026-06-24,Mexico,Czechia,Random Forest,1,3,1.91
+M079,2026-06-30,Mexico,Ecuador,Random Forest,1,2,1.49
+M089,2026-07-04,Morocco,Canada,Random Forest,1,3,1.83
+M099,2026-07-11,Norway,England,Random Forest,1,1,0.76
+M004,2026-06-12,Paraguay,USA,Random Forest,1,1,0.81
+M084,2026-07-02,Portugal,Croatia,Random Forest,1,2,1.47
+M064,2026-06-26,Saudi Arabia,Cabo Verde,Random Forest,1,0,1.65
+M014,2026-06-15,Spain,Cabo Verde,Random Forest,1,0,1.58
+M104,2026-07-19,Spain,Argentina,Random Forest,1,1,1.74
+M049,2026-06-24,Switzerland,Canada,Random Forest,1,2,0.82
+M059,2026-06-25,Türkiye,USA,Random Forest,1,3,1.84
+M004,2026-06-12,USA,Paraguay,Random Forest,1,4,1.04
+M029,2026-06-19,USA,Australia,Random Forest,1,2,1.33
+M059,2026-06-25,USA,Türkiye,Random Forest,1,2,1.25
+M094,2026-07-06,USA,Belgium,Random Forest,1,1,1.06
+M039,2026-06-21,Uruguay,Cabo Verde,Random Forest,1,2,3.57
+M024,2026-06-17,Uzbekistan,Colombia,Random Forest,1,1,1.24
+M069,2026-06-27,Uzbekistan,Congo DR,Random Forest,1,1,2.12
+M083,2026-07-02,Austria,Spain,Random Forest,2,0,0.41
+M013,2026-06-15,Belgium,Egypt,Random Forest,2,1,3.66
+M038,2026-06-21,Belgium,IR Iran,Random Forest,2,0,2.75
+M098,2026-07-10,Belgium,Spain,Random Forest,2,1,0.64
+M003,2026-06-12,Bosnia–Herz,Canada,Random Forest,2,1,0.63
+M003,2026-06-12,Canada,Bosnia–Herz,Random Forest,2,1,2.66
+M073,2026-06-28,Canada,South Africa,Random Forest,2,1,2.95
+M048,2026-06-23,Colombia,Congo DR,Random Forest,2,1,2.24
+M088,2026-07-03,Colombia,Ghana,Random Forest,2,1,2.57
+M048,2026-06-23,Congo DR,Colombia,Random Forest,2,0,0.7
+M013,2026-06-15,Egypt,Belgium,Random Forest,2,1,1.11
+M068,2026-06-27,England,Panama,Random Forest,2,2,3.35
+M103,2026-07-18,England,France,Random Forest,2,6,1.18
+M078,2026-06-30,France,Sweden,Random Forest,2,3,3.1
+M103,2026-07-18,France,England,Random Forest,2,4,1.0
+M023,2026-06-17,Ghana,Panama,Random Forest,2,1,1.54
+M088,2026-07-03,Ghana,Colombia,Random Forest,2,0,0.69
 M008,2026-06-13,Haiti,Scotland,Random Forest,2,0,0.86
-M038,2026-06-21,IR Iran,Belgium,Random Forest,2,0,0.84
-M018,2026-06-16,Iraq,Norway,Random Forest,2,1,1.03
-M058,2026-06-25,Japan,Sweden,Random Forest,2,1,2.49
-M028,2026-06-18,Korea Republic,Mexico,Random Forest,2,0,0.97
-M053,2026-06-24,Korea Republic,South Africa,Random Forest,2,0,2.45
-M028,2026-06-18,Mexico,Korea Republic,Random Forest,2,1,2.07
-M033,2026-06-20,Netherlands,Sweden,Random Forest,2,5,3.22
-M018,2026-06-16,Norway,Iraq,Random Forest,2,4,2.69
+M038,2026-06-21,IR Iran,Belgium,Random Forest,2,0,0.79
+M018,2026-06-16,Iraq,Norway,Random Forest,2,1,1.08
+M058,2026-06-25,Japan,Sweden,Random Forest,2,1,2.55
+M028,2026-06-18,Korea Republic,Mexico,Random Forest,2,0,0.94
+M053,2026-06-24,Korea Republic,South Africa,Random Forest,2,0,2.59
+M028,2026-06-18,Mexico,Korea Republic,Random Forest,2,1,1.99
+M033,2026-06-20,Netherlands,Sweden,Random Forest,2,5,2.99
+M018,2026-06-16,Norway,Iraq,Random Forest,2,4,2.96
 M043,2026-06-22,Norway,Senegal,Random Forest,2,3,0.87
-M023,2026-06-17,Panama,Ghana,Random Forest,2,0,2.92
-M068,2026-06-27,Panama,England,Random Forest,2,0,0.68
-M093,2026-07-06,Portugal,Spain,Random Forest,2,0,0.52
-M008,2026-06-13,Scotland,Haiti,Random Forest,2,1,1.97
-M043,2026-06-22,Senegal,Norway,Random Forest,2,2,2.51
-M053,2026-06-24,South Africa,Korea Republic,Random Forest,2,1,0.59
-M073,2026-06-28,South Africa,Canada,Random Forest,2,0,1.33
-M063,2026-06-26,Spain,Uruguay,Random Forest,2,1,3.14
-M083,2026-07-02,Spain,Austria,Random Forest,2,3,2.41
-M093,2026-07-06,Spain,Portugal,Random Forest,2,1,2.74
-M098,2026-07-10,Spain,Belgium,Random Forest,2,2,2.8
-M033,2026-06-20,Sweden,Netherlands,Random Forest,2,1,0.85
-M058,2026-06-25,Sweden,Japan,Random Forest,2,1,0.59
-M078,2026-06-30,Sweden,France,Random Forest,2,0,0.92
-M063,2026-06-26,Uruguay,Spain,Random Forest,2,0,0.78
-M072,2026-06-27,Algeria,Austria,Random Forest,3,3,1.03
+M023,2026-06-17,Panama,Ghana,Random Forest,2,0,2.71
+M068,2026-06-27,Panama,England,Random Forest,2,0,0.69
+M093,2026-07-06,Portugal,Spain,Random Forest,2,0,0.46
+M008,2026-06-13,Scotland,Haiti,Random Forest,2,1,1.9
+M043,2026-06-22,Senegal,Norway,Random Forest,2,2,2.61
+M053,2026-06-24,South Africa,Korea Republic,Random Forest,2,1,0.64
+M073,2026-06-28,South Africa,Canada,Random Forest,2,0,1.08
+M063,2026-06-26,Spain,Uruguay,Random Forest,2,1,2.93
+M083,2026-07-02,Spain,Austria,Random Forest,2,3,2.62
+M093,2026-07-06,Spain,Portugal,Random Forest,2,1,2.79
+M098,2026-07-10,Spain,Belgium,Random Forest,2,2,2.91
+M033,2026-06-20,Sweden,Netherlands,Random Forest,2,1,1.01
+M058,2026-06-25,Sweden,Japan,Random Forest,2,1,0.58
+M078,2026-06-30,Sweden,France,Random Forest,2,0,1.08
+M063,2026-06-26,Uruguay,Spain,Random Forest,2,0,0.82
+M072,2026-06-27,Algeria,Austria,Random Forest,3,3,1.0
 M087,2026-07-03,Argentina,Cabo Verde,Random Forest,3,3,2.28
-M102,2026-07-15,Argentina,England,Random Forest,3,2,1.85
-M007,2026-06-13,Australia,Türkiye,Random Forest,3,2,0.85
-M072,2026-06-27,Austria,Algeria,Random Forest,3,3,1.3
-M082,2026-07-01,Bosnia–Herz,USA,Random Forest,3,0,1.28
-M032,2026-06-19,Brazil,Haiti,Random Forest,3,3,1.93
-M087,2026-07-03,Cabo Verde,Argentina,Random Forest,3,2,0.52
-M027,2026-06-18,Canada,Qatar,Random Forest,3,6,1.42
-M022,2026-06-17,Croatia,England,Random Forest,3,2,0.89
-M047,2026-06-23,Croatia,Panama,Random Forest,3,1,1.87
-M067,2026-06-27,Croatia,Ghana,Random Forest,3,2,2.46
-M002,2026-06-11,Czechia,Korea Republic,Random Forest,3,1,0.62
-M077,2026-06-30,Côte d'Ivoire,Norway,Random Forest,3,1,1.47
-M022,2026-06-17,England,Croatia,Random Forest,3,4,2.0
+M102,2026-07-15,Argentina,England,Random Forest,3,2,1.83
+M007,2026-06-13,Australia,Türkiye,Random Forest,3,2,0.81
+M072,2026-06-27,Austria,Algeria,Random Forest,3,3,1.1
+M082,2026-07-01,Bosnia–Herz,USA,Random Forest,3,0,1.32
+M032,2026-06-19,Brazil,Haiti,Random Forest,3,3,2.14
+M087,2026-07-03,Cabo Verde,Argentina,Random Forest,3,2,0.5
+M027,2026-06-18,Canada,Qatar,Random Forest,3,6,1.49
+M022,2026-06-17,Croatia,England,Random Forest,3,2,0.87
+M047,2026-06-23,Croatia,Panama,Random Forest,3,1,1.88
+M067,2026-06-27,Croatia,Ghana,Random Forest,3,2,2.54
+M002,2026-06-11,Czechia,Korea Republic,Random Forest,3,1,0.63
+M077,2026-06-30,Côte d'Ivoire,Norway,Random Forest,3,1,1.3
+M022,2026-06-17,England,Croatia,Random Forest,3,4,2.17
 M092,2026-07-05,England,Mexico,Random Forest,3,3,1.41
-M102,2026-07-15,England,Argentina,Random Forest,3,1,1.55
-M017,2026-06-16,France,Senegal,Random Forest,3,3,1.88
-M042,2026-06-22,France,Iraq,Random Forest,3,3,2.16
-M097,2026-07-09,France,Morocco,Random Forest,3,2,1.42
-M067,2026-06-27,Ghana,Croatia,Random Forest,3,1,1.42
-M032,2026-06-19,Haiti,Brazil,Random Forest,3,0,0.98
-M052,2026-06-24,Haiti,Morocco,Random Forest,3,2,0.75
-M042,2026-06-22,Iraq,France,Random Forest,3,0,0.75
-M062,2026-06-26,Iraq,Senegal,Random Forest,3,0,1.51
-M002,2026-06-11,Korea Republic,Czechia,Random Forest,3,2,1.06
-M092,2026-07-05,Mexico,England,Random Forest,3,2,0.69
-M052,2026-06-24,Morocco,Haiti,Random Forest,3,4,2.38
-M097,2026-07-09,Morocco,France,Random Forest,3,0,0.69
-M057,2026-06-25,Netherlands,Tunisia,Random Forest,3,3,1.92
-M077,2026-06-30,Norway,Côte d'Ivoire,Random Forest,3,2,1.58
-M047,2026-06-23,Panama,Croatia,Random Forest,3,0,0.91
-M027,2026-06-18,Qatar,Canada,Random Forest,3,0,0.94
-M037,2026-06-21,Saudi Arabia,Spain,Random Forest,3,0,0.71
-M017,2026-06-16,Senegal,France,Random Forest,3,1,0.96
-M062,2026-06-26,Senegal,Iraq,Random Forest,3,5,2.65
-M037,2026-06-21,Spain,Saudi Arabia,Random Forest,3,4,2.44
-M012,2026-06-14,Sweden,Tunisia,Random Forest,3,5,1.64
-M012,2026-06-14,Tunisia,Sweden,Random Forest,3,1,1.57
-M057,2026-06-25,Tunisia,Netherlands,Random Forest,3,1,0.83
-M007,2026-06-13,Türkiye,Australia,Random Forest,3,0,1.39
-M082,2026-07-01,USA,Bosnia–Herz,Random Forest,3,2,2.21
-M041,2026-06-22,Argentina,Austria,Random Forest,4,2,2.03
-M071,2026-06-27,Argentina,Jordan,Random Forest,4,3,2.75
-M086,2026-07-03,Australia,Egypt,Random Forest,4,1,2.02
-M041,2026-06-22,Austria,Argentina,Random Forest,4,0,0.16
-M066,2026-06-26,Belgium,New Zealand,Random Forest,4,5,2.83
-M081,2026-07-01,Belgium,Senegal,Random Forest,4,3,1.84
-M026,2026-06-18,Bosnia–Herz,Switzerland,Random Forest,4,1,0.54
-M006,2026-06-13,Brazil,Morocco,Random Forest,4,1,1.15
-M051,2026-06-24,Brazil,Scotland,Random Forest,4,3,1.78
-M091,2026-07-05,Brazil,Norway,Random Forest,4,1,2.47
-M096,2026-07-07,Colombia,Switzerland,Random Forest,4,0,1.64
+M102,2026-07-15,England,Argentina,Random Forest,3,1,1.59
+M017,2026-06-16,France,Senegal,Random Forest,3,3,1.95
+M042,2026-06-22,France,Iraq,Random Forest,3,3,2.41
+M097,2026-07-09,France,Morocco,Random Forest,3,2,1.43
+M067,2026-06-27,Ghana,Croatia,Random Forest,3,1,1.67
+M032,2026-06-19,Haiti,Brazil,Random Forest,3,0,1.28
+M052,2026-06-24,Haiti,Morocco,Random Forest,3,2,0.86
+M042,2026-06-22,Iraq,France,Random Forest,3,0,1.02
+M062,2026-06-26,Iraq,Senegal,Random Forest,3,0,1.58
+M002,2026-06-11,Korea Republic,Czechia,Random Forest,3,2,1.04
+M092,2026-07-05,Mexico,England,Random Forest,3,2,0.73
+M052,2026-06-24,Morocco,Haiti,Random Forest,3,4,2.39
+M097,2026-07-09,Morocco,France,Random Forest,3,0,0.52
+M057,2026-06-25,Netherlands,Tunisia,Random Forest,3,3,1.98
+M077,2026-06-30,Norway,Côte d'Ivoire,Random Forest,3,2,1.7
+M047,2026-06-23,Panama,Croatia,Random Forest,3,0,0.99
+M027,2026-06-18,Qatar,Canada,Random Forest,3,0,0.69
+M037,2026-06-21,Saudi Arabia,Spain,Random Forest,3,0,0.84
+M017,2026-06-16,Senegal,France,Random Forest,3,1,0.93
+M062,2026-06-26,Senegal,Iraq,Random Forest,3,5,2.45
+M037,2026-06-21,Spain,Saudi Arabia,Random Forest,3,4,2.13
+M012,2026-06-14,Sweden,Tunisia,Random Forest,3,5,1.71
+M012,2026-06-14,Tunisia,Sweden,Random Forest,3,1,1.61
+M057,2026-06-25,Tunisia,Netherlands,Random Forest,3,1,0.85
+M007,2026-06-13,Türkiye,Australia,Random Forest,3,0,1.18
+M082,2026-07-01,USA,Bosnia–Herz,Random Forest,3,2,2.16
+M041,2026-06-22,Argentina,Austria,Random Forest,4,2,1.87
+M071,2026-06-27,Argentina,Jordan,Random Forest,4,3,3.05
+M086,2026-07-03,Australia,Egypt,Random Forest,4,1,2.11
+M041,2026-06-22,Austria,Argentina,Random Forest,4,0,0.18
+M066,2026-06-26,Belgium,New Zealand,Random Forest,4,5,3.05
+M081,2026-07-01,Belgium,Senegal,Random Forest,4,3,1.82
+M026,2026-06-18,Bosnia–Herz,Switzerland,Random Forest,4,1,0.83
+M006,2026-06-13,Brazil,Morocco,Random Forest,4,1,1.26
+M051,2026-06-24,Brazil,Scotland,Random Forest,4,3,1.81
+M091,2026-07-05,Brazil,Norway,Random Forest,4,1,2.44
+M096,2026-07-07,Colombia,Switzerland,Random Forest,4,0,1.62
 M021,2026-06-17,Congo DR,Portugal,Random Forest,4,1,0.68
-M011,2026-06-14,Côte d'Ivoire,Ecuador,Random Forest,4,1,1.7
-M011,2026-06-14,Ecuador,Côte d'Ivoire,Random Forest,4,0,1.89
-M056,2026-06-25,Ecuador,Germany,Random Forest,4,2,0.46
-M086,2026-07-03,Egypt,Australia,Random Forest,4,1,1.77
-M046,2026-06-23,England,Ghana,Random Forest,4,0,2.74
-M061,2026-06-26,France,Norway,Random Forest,4,4,2.35
-M101,2026-07-14,France,Spain,Random Forest,4,0,1.54
-M056,2026-06-25,Germany,Ecuador,Random Forest,4,1,2.47
-M046,2026-06-23,Ghana,England,Random Forest,4,0,0.5
-M016,2026-06-15,IR Iran,New Zealand,Random Forest,4,2,2.78
-M036,2026-06-20,Japan,Tunisia,Random Forest,4,4,1.54
-M071,2026-06-27,Jordan,Argentina,Random Forest,4,1,0.94
-M001,2026-06-11,Mexico,South Africa,Random Forest,4,2,1.64
-M006,2026-06-13,Morocco,Brazil,Random Forest,4,1,1.43
-M076,2026-06-29,Morocco,Netherlands,Random Forest,4,1,1.9
-M076,2026-06-29,Netherlands,Morocco,Random Forest,4,1,1.68
-M016,2026-06-15,New Zealand,IR Iran,Random Forest,4,2,0.68
-M066,2026-06-26,New Zealand,Belgium,Random Forest,4,1,0.92
-M061,2026-06-26,Norway,France,Random Forest,4,1,0.74
-M091,2026-07-05,Norway,Brazil,Random Forest,4,2,0.44
-M031,2026-06-19,Paraguay,Türkiye,Random Forest,4,1,0.79
-M021,2026-06-17,Portugal,Congo DR,Random Forest,4,1,2.0
-M051,2026-06-24,Scotland,Brazil,Random Forest,4,0,0.71
-M081,2026-07-01,Senegal,Belgium,Random Forest,4,2,1.04
-M001,2026-06-11,South Africa,Mexico,Random Forest,4,0,0.54
-M101,2026-07-14,Spain,France,Random Forest,4,2,1.38
-M026,2026-06-18,Switzerland,Bosnia–Herz,Random Forest,4,4,2.43
-M096,2026-07-07,Switzerland,Colombia,Random Forest,4,0,0.95
-M036,2026-06-20,Tunisia,Japan,Random Forest,4,0,0.68
-M031,2026-06-19,Türkiye,Paraguay,Random Forest,4,0,1.4
-M085,2026-07-02,Algeria,Switzerland,Random Forest,5,0,0.74
-M095,2026-07-07,Argentina,Egypt,Random Forest,5,3,2.94
-M100,2026-07-11,Argentina,Switzerland,Random Forest,5,3,1.86
-M060,2026-06-25,Australia,Paraguay,Random Forest,5,0,1.69
-M020,2026-06-16,Austria,Jordan,Random Forest,5,3,1.37
-M050,2026-06-24,Bosnia–Herz,Qatar,Random Forest,5,3,1.12
-M070,2026-06-27,Colombia,Portugal,Random Forest,5,0,0.96
-M080,2026-07-01,Congo DR,England,Random Forest,5,1,0.43
-M035,2026-06-20,Curaçao,Ecuador,Random Forest,5,0,0.55
-M055,2026-06-25,Curaçao,Côte d'Ivoire,Random Forest,5,0,0.78
-M025,2026-06-18,Czechia,South Africa,Random Forest,5,1,2.04
-M055,2026-06-25,Côte d'Ivoire,Curaçao,Random Forest,5,2,3.17
-M035,2026-06-20,Ecuador,Curaçao,Random Forest,5,0,2.45
-M040,2026-06-21,Egypt,New Zealand,Random Forest,5,3,3.7
-M065,2026-06-26,Egypt,IR Iran,Random Forest,5,1,1.17
-M095,2026-07-07,Egypt,Argentina,Random Forest,5,2,0.78
-M080,2026-07-01,England,Congo DR,Random Forest,5,2,2.46
-M090,2026-07-04,France,Paraguay,Random Forest,5,1,2.67
-M075,2026-06-29,Germany,Paraguay,Random Forest,5,1,2.44
-M065,2026-06-26,IR Iran,Egypt,Random Forest,5,1,2.09
-M010,2026-06-14,Japan,Netherlands,Random Forest,5,2,1.28
-M020,2026-06-16,Jordan,Austria,Random Forest,5,1,1.11
-M030,2026-06-19,Morocco,Scotland,Random Forest,5,1,2.14
-M010,2026-06-14,Netherlands,Japan,Random Forest,5,2,1.73
-M040,2026-06-21,New Zealand,Egypt,Random Forest,5,1,1.17
-M060,2026-06-25,Paraguay,Australia,Random Forest,5,0,0.86
-M075,2026-06-29,Paraguay,Germany,Random Forest,5,1,0.34
-M090,2026-07-04,Paraguay,France,Random Forest,5,0,0.54
-M045,2026-06-23,Portugal,Uzbekistan,Random Forest,5,5,3.04
-M070,2026-06-27,Portugal,Colombia,Random Forest,5,0,2.05
-M005,2026-06-13,Qatar,Switzerland,Random Forest,5,1,1.03
-M050,2026-06-24,Qatar,Bosnia–Herz,Random Forest,5,1,2.2
-M015,2026-06-15,Saudi Arabia,Uruguay,Random Forest,5,1,1.15
-M030,2026-06-19,Scotland,Morocco,Random Forest,5,0,0.32
-M025,2026-06-18,South Africa,Czechia,Random Forest,5,1,0.89
-M005,2026-06-13,Switzerland,Qatar,Random Forest,5,1,1.55
-M085,2026-07-02,Switzerland,Algeria,Random Forest,5,2,2.99
-M100,2026-07-11,Switzerland,Argentina,Random Forest,5,1,0.49
-M015,2026-06-15,Uruguay,Saudi Arabia,Random Forest,5,1,3.1
-M045,2026-06-23,Uzbekistan,Portugal,Random Forest,5,0,0.93
-M019,2026-06-16,Algeria,Argentina,Gradient Boosting,1,0,0.2694410157061903
-M044,2026-06-22,Algeria,Jordan,Gradient Boosting,1,2,1.9193805762053464
-M019,2026-06-16,Argentina,Algeria,Gradient Boosting,1,3,1.5341507374357213
-M104,2026-07-19,Argentina,Spain,Gradient Boosting,1,0,0.9688781672418266
-M029,2026-06-19,Australia,USA,Gradient Boosting,1,0,0.7533016526943829
-M094,2026-07-06,Belgium,USA,Gradient Boosting,1,4,1.3823637310150012
-M074,2026-06-29,Brazil,Japan,Gradient Boosting,1,2,1.5374235361561084
-M014,2026-06-15,Cabo Verde,Spain,Gradient Boosting,1,0,2.7491232996711927
-M039,2026-06-21,Cabo Verde,Uruguay,Gradient Boosting,1,2,0.562986576692896
-M064,2026-06-26,Cabo Verde,Saudi Arabia,Gradient Boosting,1,0,1.5205246439723044
-M049,2026-06-24,Canada,Switzerland,Gradient Boosting,1,1,0.40042400279325346
-M089,2026-07-04,Canada,Morocco,Gradient Boosting,1,0,0.2203883358260989
-M024,2026-06-17,Colombia,Uzbekistan,Gradient Boosting,1,3,5.872793045585935
-M069,2026-06-27,Congo DR,Uzbekistan,Gradient Boosting,1,3,1.680999180636276
-M084,2026-07-02,Croatia,Portugal,Gradient Boosting,1,1,1.3344405660972574
-M009,2026-06-14,Curaçao,Germany,Gradient Boosting,1,1,0.27912885501988716
-M054,2026-06-24,Czechia,Mexico,Gradient Boosting,1,0,0.38904000228808877
-M034,2026-06-20,Côte d'Ivoire,Germany,Gradient Boosting,1,1,0.32880263337724525
-M079,2026-06-30,Ecuador,Mexico,Gradient Boosting,1,0,1.3251453850920298
-M099,2026-07-11,England,Norway,Gradient Boosting,1,2,2.6352473224487336
-M009,2026-06-14,Germany,Curaçao,Gradient Boosting,1,7,2.399632805793216
-M034,2026-06-20,Germany,Côte d'Ivoire,Gradient Boosting,1,2,0.7168315137100164
-M074,2026-06-29,Japan,Brazil,Gradient Boosting,1,1,0.6223603133982711
-M044,2026-06-22,Jordan,Algeria,Gradient Boosting,1,1,0.8694016977159574
-M054,2026-06-24,Mexico,Czechia,Gradient Boosting,1,3,2.1354605941644116
-M079,2026-06-30,Mexico,Ecuador,Gradient Boosting,1,2,1.3036754702991582
-M089,2026-07-04,Morocco,Canada,Gradient Boosting,1,3,1.3943278400610126
-M099,2026-07-11,Norway,England,Gradient Boosting,1,1,0.42409768721943736
-M004,2026-06-12,Paraguay,USA,Gradient Boosting,1,1,0.775679229698174
-M084,2026-07-02,Portugal,Croatia,Gradient Boosting,1,2,1.4375510054479714
-M064,2026-06-26,Saudi Arabia,Cabo Verde,Gradient Boosting,1,0,1.5437260341700716
-M014,2026-06-15,Spain,Cabo Verde,Gradient Boosting,1,0,0.908737208985917
-M104,2026-07-19,Spain,Argentina,Gradient Boosting,1,1,2.204813666086902
-M049,2026-06-24,Switzerland,Canada,Gradient Boosting,1,2,0.6931923324530587
-M059,2026-06-25,Türkiye,USA,Gradient Boosting,1,3,1.8378134513023043
-M004,2026-06-12,USA,Paraguay,Gradient Boosting,1,4,1.1615548639550801
-M029,2026-06-19,USA,Australia,Gradient Boosting,1,2,1.0079401158872312
-M059,2026-06-25,USA,Türkiye,Gradient Boosting,1,2,0.8194360359180203
-M094,2026-07-06,USA,Belgium,Gradient Boosting,1,1,1.2796462592193163
-M039,2026-06-21,Uruguay,Cabo Verde,Gradient Boosting,1,2,2.461470245625168
-M024,2026-06-17,Uzbekistan,Colombia,Gradient Boosting,1,1,2.0987601457919607
-M069,2026-06-27,Uzbekistan,Congo DR,Gradient Boosting,1,1,1.4322018088163782
-M083,2026-07-02,Austria,Spain,Gradient Boosting,2,0,1.273317678948579
-M013,2026-06-15,Belgium,Egypt,Gradient Boosting,2,1,3.2569754570459812
-M038,2026-06-21,Belgium,IR Iran,Gradient Boosting,2,0,3.16047350212917
-M098,2026-07-10,Belgium,Spain,Gradient Boosting,2,1,1.0421026978584287
-M003,2026-06-12,Bosnia–Herz,Canada,Gradient Boosting,2,1,0.4256055229553206
-M003,2026-06-12,Canada,Bosnia–Herz,Gradient Boosting,2,1,2.3237511666497688
-M073,2026-06-28,Canada,South Africa,Gradient Boosting,2,1,3.38168499266982
-M048,2026-06-23,Colombia,Congo DR,Gradient Boosting,2,1,2.340797217036889
-M088,2026-07-03,Colombia,Ghana,Gradient Boosting,2,1,2.3270679017755964
-M048,2026-06-23,Congo DR,Colombia,Gradient Boosting,2,0,0.9098788362035106
-M013,2026-06-15,Egypt,Belgium,Gradient Boosting,2,1,1.1138180354756173
-M068,2026-06-27,England,Panama,Gradient Boosting,2,2,3.0802380392251036
-M103,2026-07-18,England,France,Gradient Boosting,2,6,0.6516895010939724
-M078,2026-06-30,France,Sweden,Gradient Boosting,2,3,3.0955017531432114
-M103,2026-07-18,France,England,Gradient Boosting,2,4,0.47712625360690886
-M023,2026-06-17,Ghana,Panama,Gradient Boosting,2,1,1.3728653654830196
-M088,2026-07-03,Ghana,Colombia,Gradient Boosting,2,0,1.1345733716196291
-M008,2026-06-13,Haiti,Scotland,Gradient Boosting,2,0,0.844642541194086
-M038,2026-06-21,IR Iran,Belgium,Gradient Boosting,2,0,1.2686208881507233
-M018,2026-06-16,Iraq,Norway,Gradient Boosting,2,1,0.8147970843206713
-M058,2026-06-25,Japan,Sweden,Gradient Boosting,2,1,2.502415007677402
-M028,2026-06-18,Korea Republic,Mexico,Gradient Boosting,2,0,0.7231462789375949
-M053,2026-06-24,Korea Republic,South Africa,Gradient Boosting,2,0,2.6561504260357975
-M028,2026-06-18,Mexico,Korea Republic,Gradient Boosting,2,1,1.8323953084039994
-M033,2026-06-20,Netherlands,Sweden,Gradient Boosting,2,5,2.5938453129086407
-M018,2026-06-16,Norway,Iraq,Gradient Boosting,2,4,3.031876756072286
-M043,2026-06-22,Norway,Senegal,Gradient Boosting,2,3,0.895070041833565
-M023,2026-06-17,Panama,Ghana,Gradient Boosting,2,0,2.61033165214915
-M068,2026-06-27,Panama,England,Gradient Boosting,2,0,0.5546979644446185
-M093,2026-07-06,Portugal,Spain,Gradient Boosting,2,0,0.3303362448020469
-M008,2026-06-13,Scotland,Haiti,Gradient Boosting,2,1,1.9855621030610275
-M043,2026-06-22,Senegal,Norway,Gradient Boosting,2,2,2.3532989059674794
-M053,2026-06-24,South Africa,Korea Republic,Gradient Boosting,2,1,0.788507634999763
-M073,2026-06-28,South Africa,Canada,Gradient Boosting,2,0,1.4916396846199533
-M063,2026-06-26,Spain,Uruguay,Gradient Boosting,2,1,3.0479272907633965
-M083,2026-07-02,Spain,Austria,Gradient Boosting,2,3,2.8038707274367916
-M093,2026-07-06,Spain,Portugal,Gradient Boosting,2,1,3.341770085622459
-M098,2026-07-10,Spain,Belgium,Gradient Boosting,2,2,3.0433375746712863
-M033,2026-06-20,Sweden,Netherlands,Gradient Boosting,2,1,0.8668850051179139
-M058,2026-06-25,Sweden,Japan,Gradient Boosting,2,1,0.6246331444918375
-M078,2026-06-30,Sweden,France,Gradient Boosting,2,0,0.9133699656781586
-M063,2026-06-26,Uruguay,Spain,Gradient Boosting,2,0,1.0582167305379455
-M072,2026-06-27,Algeria,Austria,Gradient Boosting,3,3,0.8628140872972312
-M087,2026-07-03,Argentina,Cabo Verde,Gradient Boosting,3,3,3.2999635628597908
-M102,2026-07-15,Argentina,England,Gradient Boosting,3,2,1.9329243625758263
-M007,2026-06-13,Australia,Türkiye,Gradient Boosting,3,2,0.5785169928059912
-M072,2026-06-27,Austria,Algeria,Gradient Boosting,3,3,1.233378971560015
-M082,2026-07-01,Bosnia–Herz,USA,Gradient Boosting,3,0,1.4429599396617665
-M032,2026-06-19,Brazil,Haiti,Gradient Boosting,3,3,3.646380905272608
-M087,2026-07-03,Cabo Verde,Argentina,Gradient Boosting,3,2,-0.07763835153619625
-M027,2026-06-18,Canada,Qatar,Gradient Boosting,3,6,1.1563598089789493
-M022,2026-06-17,Croatia,England,Gradient Boosting,3,2,0.8858152649001404
-M047,2026-06-23,Croatia,Panama,Gradient Boosting,3,1,2.461712364450495
-M067,2026-06-27,Croatia,Ghana,Gradient Boosting,3,2,1.7744059736750366
-M002,2026-06-11,Czechia,Korea Republic,Gradient Boosting,3,1,0.1173043359434697
-M077,2026-06-30,Côte d'Ivoire,Norway,Gradient Boosting,3,1,1.5989053191246472
-M022,2026-06-17,England,Croatia,Gradient Boosting,3,4,2.217278316584167
-M092,2026-07-05,England,Mexico,Gradient Boosting,3,3,1.4612766473413035
-M102,2026-07-15,England,Argentina,Gradient Boosting,3,1,2.050485605084412
-M017,2026-06-16,France,Senegal,Gradient Boosting,3,3,2.3369015335702414
-M042,2026-06-22,France,Iraq,Gradient Boosting,3,3,3.5380845501155695
-M097,2026-07-09,France,Morocco,Gradient Boosting,3,2,1.3066526257410707
-M067,2026-06-27,Ghana,Croatia,Gradient Boosting,3,1,1.0053989600941853
-M032,2026-06-19,Haiti,Brazil,Gradient Boosting,3,0,1.2379755198575038
-M052,2026-06-24,Haiti,Morocco,Gradient Boosting,3,2,0.5328024088904442
-M042,2026-06-22,Iraq,France,Gradient Boosting,3,0,0.46923024190113083
-M062,2026-06-26,Iraq,Senegal,Gradient Boosting,3,0,1.4624106195083866
-M002,2026-06-11,Korea Republic,Czechia,Gradient Boosting,3,2,1.337262022044836
-M092,2026-07-05,Mexico,England,Gradient Boosting,3,2,0.6208771170244959
-M052,2026-06-24,Morocco,Haiti,Gradient Boosting,3,4,3.485414198700855
-M097,2026-07-09,Morocco,France,Gradient Boosting,3,0,0.5880306010220389
-M057,2026-06-25,Netherlands,Tunisia,Gradient Boosting,3,3,2.026301046519602
-M077,2026-06-30,Norway,Côte d'Ivoire,Gradient Boosting,3,2,1.5856510139980269
-M047,2026-06-23,Panama,Croatia,Gradient Boosting,3,0,0.9404537903827658
-M027,2026-06-18,Qatar,Canada,Gradient Boosting,3,0,0.9752243399579326
-M037,2026-06-21,Saudi Arabia,Spain,Gradient Boosting,3,0,0.5328024088904442
-M017,2026-06-16,Senegal,France,Gradient Boosting,3,1,0.9529708880719368
-M062,2026-06-26,Senegal,Iraq,Gradient Boosting,3,5,3.059176150515696
-M037,2026-06-21,Spain,Saudi Arabia,Gradient Boosting,3,4,3.3879423514149862
-M012,2026-06-14,Sweden,Tunisia,Gradient Boosting,3,5,1.9205850127097324
-M012,2026-06-14,Tunisia,Sweden,Gradient Boosting,3,1,1.6330114136925453
-M057,2026-06-25,Tunisia,Netherlands,Gradient Boosting,3,1,0.462359811823836
-M007,2026-06-13,Türkiye,Australia,Gradient Boosting,3,0,1.2490552560031618
-M082,2026-07-01,USA,Bosnia–Herz,Gradient Boosting,3,2,3.1239052804099416
-M041,2026-06-22,Argentina,Austria,Gradient Boosting,4,2,2.1095598131959616
-M071,2026-06-27,Argentina,Jordan,Gradient Boosting,4,3,2.73537931506457
-M086,2026-07-03,Australia,Egypt,Gradient Boosting,4,1,1.8198254689411457
-M041,2026-06-22,Austria,Argentina,Gradient Boosting,4,0,0.24409143193037514
-M066,2026-06-26,Belgium,New Zealand,Gradient Boosting,4,5,3.9291929727120234
-M081,2026-07-01,Belgium,Senegal,Gradient Boosting,4,3,1.82639785132564
-M026,2026-06-18,Bosnia–Herz,Switzerland,Gradient Boosting,4,1,0.4073014965155132
-M006,2026-06-13,Brazil,Morocco,Gradient Boosting,4,1,1.7848454344591802
-M051,2026-06-24,Brazil,Scotland,Gradient Boosting,4,3,1.8921622158338718
-M091,2026-07-05,Brazil,Norway,Gradient Boosting,4,1,2.050787765069941
-M096,2026-07-07,Colombia,Switzerland,Gradient Boosting,4,0,1.6200283122942987
-M021,2026-06-17,Congo DR,Portugal,Gradient Boosting,4,1,0.3580867811838915
-M011,2026-06-14,Côte d'Ivoire,Ecuador,Gradient Boosting,4,1,2.412313836340989
-M011,2026-06-14,Ecuador,Côte d'Ivoire,Gradient Boosting,4,0,1.8825373043634102
-M056,2026-06-25,Ecuador,Germany,Gradient Boosting,4,2,0.5749302571165469
-M086,2026-07-03,Egypt,Australia,Gradient Boosting,4,1,1.4867296896910545
-M046,2026-06-23,England,Ghana,Gradient Boosting,4,0,3.2059073983251665
-M061,2026-06-26,France,Norway,Gradient Boosting,4,4,2.172234617120311
-M101,2026-07-14,France,Spain,Gradient Boosting,4,0,1.297731186643604
-M056,2026-06-25,Germany,Ecuador,Gradient Boosting,4,1,1.6408340767723628
-M046,2026-06-23,Ghana,England,Gradient Boosting,4,0,0.28938375213040796
-M016,2026-06-15,IR Iran,New Zealand,Gradient Boosting,4,2,3.092531298408463
-M036,2026-06-20,Japan,Tunisia,Gradient Boosting,4,4,1.6325814916398214
-M071,2026-06-27,Jordan,Argentina,Gradient Boosting,4,1,0.4435691931676715
-M001,2026-06-11,Mexico,South Africa,Gradient Boosting,4,2,2.0599850738269696
-M006,2026-06-13,Morocco,Brazil,Gradient Boosting,4,1,1.6213970456607758
-M076,2026-06-29,Morocco,Netherlands,Gradient Boosting,4,1,1.2846294701414678
-M076,2026-06-29,Netherlands,Morocco,Gradient Boosting,4,1,1.4960447436772406
-M016,2026-06-15,New Zealand,IR Iran,Gradient Boosting,4,2,0.5641740032704117
-M066,2026-06-26,New Zealand,Belgium,Gradient Boosting,4,1,1.213977429922539
-M061,2026-06-26,Norway,France,Gradient Boosting,4,1,0.6305938922070827
-M091,2026-07-05,Norway,Brazil,Gradient Boosting,4,2,0.14673327547631357
-M031,2026-06-19,Paraguay,Türkiye,Gradient Boosting,4,1,0.8371613172702667
-M021,2026-06-17,Portugal,Congo DR,Gradient Boosting,4,1,2.2586578452066535
-M051,2026-06-24,Scotland,Brazil,Gradient Boosting,4,0,0.4817041486339442
-M081,2026-07-01,Senegal,Belgium,Gradient Boosting,4,2,0.9003553804099215
-M001,2026-06-11,South Africa,Mexico,Gradient Boosting,4,0,0.6016922467408089
-M101,2026-07-14,Spain,France,Gradient Boosting,4,2,1.08779323755642
-M026,2026-06-18,Switzerland,Bosnia–Herz,Gradient Boosting,4,4,2.3323872238888166
-M096,2026-07-07,Switzerland,Colombia,Gradient Boosting,4,0,0.9663516640573195
-M036,2026-06-20,Tunisia,Japan,Gradient Boosting,4,0,0.37782206122621437
-M031,2026-06-19,Türkiye,Paraguay,Gradient Boosting,4,0,1.8977073594098284
-M085,2026-07-02,Algeria,Switzerland,Gradient Boosting,5,0,0.7795672621252066
-M095,2026-07-07,Argentina,Egypt,Gradient Boosting,5,3,2.7633701247492994
-M100,2026-07-11,Argentina,Switzerland,Gradient Boosting,5,3,1.6334783677938556
-M060,2026-06-25,Australia,Paraguay,Gradient Boosting,5,0,1.7772495200658875
-M020,2026-06-16,Austria,Jordan,Gradient Boosting,5,3,0.7297295269894102
-M050,2026-06-24,Bosnia–Herz,Qatar,Gradient Boosting,5,3,1.1684477211741515
-M070,2026-06-27,Colombia,Portugal,Gradient Boosting,5,0,0.7402689369603799
-M080,2026-07-01,Congo DR,England,Gradient Boosting,5,1,0.6933662315170391
-M035,2026-06-20,Curaçao,Ecuador,Gradient Boosting,5,0,0.7534947606893143
-M055,2026-06-25,Curaçao,Côte d'Ivoire,Gradient Boosting,5,0,0.8694543508422279
-M025,2026-06-18,Czechia,South Africa,Gradient Boosting,5,1,2.192738902544217
-M055,2026-06-25,Côte d'Ivoire,Curaçao,Gradient Boosting,5,2,3.3410562684110534
-M035,2026-06-20,Ecuador,Curaçao,Gradient Boosting,5,0,2.594912255553058
-M040,2026-06-21,Egypt,New Zealand,Gradient Boosting,5,3,3.2072227632295633
-M065,2026-06-26,Egypt,IR Iran,Gradient Boosting,5,1,1.2491939187806766
-M095,2026-07-07,Egypt,Argentina,Gradient Boosting,5,2,0.9214008502368328
-M080,2026-07-01,England,Congo DR,Gradient Boosting,5,2,2.3365332107736427
-M090,2026-07-04,France,Paraguay,Gradient Boosting,5,1,2.3574525691543053
-M075,2026-06-29,Germany,Paraguay,Gradient Boosting,5,1,1.8288568188852505
-M065,2026-06-26,IR Iran,Egypt,Gradient Boosting,5,1,1.7056187333539599
-M010,2026-06-14,Japan,Netherlands,Gradient Boosting,5,2,1.382176076997565
-M020,2026-06-16,Jordan,Austria,Gradient Boosting,5,1,1.2386158042867732
-M030,2026-06-19,Morocco,Scotland,Gradient Boosting,5,1,2.7146969063761186
-M010,2026-06-14,Netherlands,Japan,Gradient Boosting,5,2,1.859720418116283
-M040,2026-06-21,New Zealand,Egypt,Gradient Boosting,5,1,1.091134995153846
-M060,2026-06-25,Paraguay,Australia,Gradient Boosting,5,0,0.7635561763074682
-M075,2026-06-29,Paraguay,Germany,Gradient Boosting,5,1,0.4733450455668901
-M090,2026-07-04,Paraguay,France,Gradient Boosting,5,0,0.992624357999487
-M045,2026-06-23,Portugal,Uzbekistan,Gradient Boosting,5,5,2.5316934497268897
-M070,2026-06-27,Portugal,Colombia,Gradient Boosting,5,0,1.7267913289448307
-M005,2026-06-13,Qatar,Switzerland,Gradient Boosting,5,1,0.9656981630992716
-M050,2026-06-24,Qatar,Bosnia–Herz,Gradient Boosting,5,1,1.8376210787133287
-M015,2026-06-15,Saudi Arabia,Uruguay,Gradient Boosting,5,1,1.2033836688310233
-M030,2026-06-19,Scotland,Morocco,Gradient Boosting,5,0,0.3126832344386696
-M025,2026-06-18,South Africa,Czechia,Gradient Boosting,5,1,0.8085532900793947
-M005,2026-06-13,Switzerland,Qatar,Gradient Boosting,5,1,1.347239132970037
-M085,2026-07-02,Switzerland,Algeria,Gradient Boosting,5,2,1.9602771233429799
-M100,2026-07-11,Switzerland,Argentina,Gradient Boosting,5,1,0.8841982514908615
-M015,2026-06-15,Uruguay,Saudi Arabia,Gradient Boosting,5,1,3.8529977937461934
-M045,2026-06-23,Uzbekistan,Portugal,Gradient Boosting,5,0,0.46334980990798347
+M011,2026-06-14,Côte d'Ivoire,Ecuador,Random Forest,4,1,1.9
+M011,2026-06-14,Ecuador,Côte d'Ivoire,Random Forest,4,0,2.0
+M056,2026-06-25,Ecuador,Germany,Random Forest,4,2,0.62
+M086,2026-07-03,Egypt,Australia,Random Forest,4,1,1.87
+M046,2026-06-23,England,Ghana,Random Forest,4,0,2.94
+M061,2026-06-26,France,Norway,Random Forest,4,4,2.25
+M101,2026-07-14,France,Spain,Random Forest,4,0,1.52
+M056,2026-06-25,Germany,Ecuador,Random Forest,4,1,2.31
+M046,2026-06-23,Ghana,England,Random Forest,4,0,0.72
+M016,2026-06-15,IR Iran,New Zealand,Random Forest,4,2,2.6
+M036,2026-06-20,Japan,Tunisia,Random Forest,4,4,1.52
+M071,2026-06-27,Jordan,Argentina,Random Forest,4,1,0.99
+M001,2026-06-11,Mexico,South Africa,Random Forest,4,2,1.6
+M006,2026-06-13,Morocco,Brazil,Random Forest,4,1,1.51
+M076,2026-06-29,Morocco,Netherlands,Random Forest,4,1,2.04
+M076,2026-06-29,Netherlands,Morocco,Random Forest,4,1,1.74
+M016,2026-06-15,New Zealand,IR Iran,Random Forest,4,2,0.69
+M066,2026-06-26,New Zealand,Belgium,Random Forest,4,1,0.67
+M061,2026-06-26,Norway,France,Random Forest,4,1,0.77
+M091,2026-07-05,Norway,Brazil,Random Forest,4,2,0.55
+M031,2026-06-19,Paraguay,Türkiye,Random Forest,4,1,0.85
+M021,2026-06-17,Portugal,Congo DR,Random Forest,4,1,1.84
+M051,2026-06-24,Scotland,Brazil,Random Forest,4,0,0.61
+M081,2026-07-01,Senegal,Belgium,Random Forest,4,2,0.99
+M001,2026-06-11,South Africa,Mexico,Random Forest,4,0,0.5
+M101,2026-07-14,Spain,France,Random Forest,4,2,1.34
+M026,2026-06-18,Switzerland,Bosnia–Herz,Random Forest,4,4,2.28
+M096,2026-07-07,Switzerland,Colombia,Random Forest,4,0,1.04
+M036,2026-06-20,Tunisia,Japan,Random Forest,4,0,0.67
+M031,2026-06-19,Türkiye,Paraguay,Random Forest,4,0,1.57
+M085,2026-07-02,Algeria,Switzerland,Random Forest,5,0,0.86
+M095,2026-07-07,Argentina,Egypt,Random Forest,5,3,3.04
+M100,2026-07-11,Argentina,Switzerland,Random Forest,5,3,2.1
+M060,2026-06-25,Australia,Paraguay,Random Forest,5,0,1.53
+M020,2026-06-16,Austria,Jordan,Random Forest,5,3,1.33
+M050,2026-06-24,Bosnia–Herz,Qatar,Random Forest,5,3,0.87
+M070,2026-06-27,Colombia,Portugal,Random Forest,5,0,1.14
+M080,2026-07-01,Congo DR,England,Random Forest,5,1,0.49
+M035,2026-06-20,Curaçao,Ecuador,Random Forest,5,0,0.7
+M055,2026-06-25,Curaçao,Côte d'Ivoire,Random Forest,5,0,0.86
+M025,2026-06-18,Czechia,South Africa,Random Forest,5,1,1.92
+M055,2026-06-25,Côte d'Ivoire,Curaçao,Random Forest,5,2,3.49
+M035,2026-06-20,Ecuador,Curaçao,Random Forest,5,0,2.48
+M040,2026-06-21,Egypt,New Zealand,Random Forest,5,3,3.05
+M065,2026-06-26,Egypt,IR Iran,Random Forest,5,1,1.03
+M095,2026-07-07,Egypt,Argentina,Random Forest,5,2,0.9
+M080,2026-07-01,England,Congo DR,Random Forest,5,2,2.68
+M090,2026-07-04,France,Paraguay,Random Forest,5,1,3.0
+M075,2026-06-29,Germany,Paraguay,Random Forest,5,1,2.5
+M065,2026-06-26,IR Iran,Egypt,Random Forest,5,1,1.85
+M010,2026-06-14,Japan,Netherlands,Random Forest,5,2,1.33
+M020,2026-06-16,Jordan,Austria,Random Forest,5,1,1.07
+M030,2026-06-19,Morocco,Scotland,Random Forest,5,1,2.23
+M010,2026-06-14,Netherlands,Japan,Random Forest,5,2,1.86
+M040,2026-06-21,New Zealand,Egypt,Random Forest,5,1,0.87
+M060,2026-06-25,Paraguay,Australia,Random Forest,5,0,1.05
+M075,2026-06-29,Paraguay,Germany,Random Forest,5,1,0.26
+M090,2026-07-04,Paraguay,France,Random Forest,5,0,0.52
+M045,2026-06-23,Portugal,Uzbekistan,Random Forest,5,5,3.17
+M070,2026-06-27,Portugal,Colombia,Random Forest,5,0,2.25
+M005,2026-06-13,Qatar,Switzerland,Random Forest,5,1,0.97
+M050,2026-06-24,Qatar,Bosnia–Herz,Random Forest,5,1,2.07
+M015,2026-06-15,Saudi Arabia,Uruguay,Random Forest,5,1,0.66
+M030,2026-06-19,Scotland,Morocco,Random Forest,5,0,0.31
+M025,2026-06-18,South Africa,Czechia,Random Forest,5,1,0.88
+M005,2026-06-13,Switzerland,Qatar,Random Forest,5,1,1.18
+M085,2026-07-02,Switzerland,Algeria,Random Forest,5,2,2.18
+M100,2026-07-11,Switzerland,Argentina,Random Forest,5,1,0.43
+M015,2026-06-15,Uruguay,Saudi Arabia,Random Forest,5,1,2.94
+M045,2026-06-23,Uzbekistan,Portugal,Random Forest,5,0,1.05
+M019,2026-06-16,Algeria,Argentina,Gradient Boosting,1,0,0.3200909823513841
+M044,2026-06-22,Algeria,Jordan,Gradient Boosting,1,2,1.8943494693623595
+M019,2026-06-16,Argentina,Algeria,Gradient Boosting,1,3,1.8883143439768617
+M104,2026-07-19,Argentina,Spain,Gradient Boosting,1,0,0.7512511399835734
+M029,2026-06-19,Australia,USA,Gradient Boosting,1,0,0.8964276913689415
+M094,2026-07-06,Belgium,USA,Gradient Boosting,1,4,1.5062075425258716
+M074,2026-06-29,Brazil,Japan,Gradient Boosting,1,2,1.4908980264064404
+M014,2026-06-15,Cabo Verde,Spain,Gradient Boosting,1,0,2.6096611362644557
+M039,2026-06-21,Cabo Verde,Uruguay,Gradient Boosting,1,2,0.6638001759654341
+M064,2026-06-26,Cabo Verde,Saudi Arabia,Gradient Boosting,1,0,1.9641039328266632
+M049,2026-06-24,Canada,Switzerland,Gradient Boosting,1,1,0.4576151197118095
+M089,2026-07-04,Canada,Morocco,Gradient Boosting,1,0,0.22055034982709157
+M024,2026-06-17,Colombia,Uzbekistan,Gradient Boosting,1,3,5.499429666504191
+M069,2026-06-27,Congo DR,Uzbekistan,Gradient Boosting,1,3,2.027548175117086
+M084,2026-07-02,Croatia,Portugal,Gradient Boosting,1,1,1.4502325644626817
+M009,2026-06-14,Curaçao,Germany,Gradient Boosting,1,1,0.5955967501327584
+M054,2026-06-24,Czechia,Mexico,Gradient Boosting,1,0,0.6545792343940843
+M034,2026-06-20,Côte d'Ivoire,Germany,Gradient Boosting,1,1,0.44185676139909064
+M079,2026-06-30,Ecuador,Mexico,Gradient Boosting,1,0,1.1184032134986814
+M099,2026-07-11,England,Norway,Gradient Boosting,1,2,2.6573759422001024
+M009,2026-06-14,Germany,Curaçao,Gradient Boosting,1,7,2.9455613464880885
+M034,2026-06-20,Germany,Côte d'Ivoire,Gradient Boosting,1,2,1.0363718963866135
+M074,2026-06-29,Japan,Brazil,Gradient Boosting,1,1,0.6549131494362522
+M044,2026-06-22,Jordan,Algeria,Gradient Boosting,1,1,0.6613202141702144
+M054,2026-06-24,Mexico,Czechia,Gradient Boosting,1,3,1.968795971415593
+M079,2026-06-30,Mexico,Ecuador,Gradient Boosting,1,2,1.6430692417480475
+M089,2026-07-04,Morocco,Canada,Gradient Boosting,1,3,1.4216563145493226
+M099,2026-07-11,Norway,England,Gradient Boosting,1,1,0.26831178293522256
+M004,2026-06-12,Paraguay,USA,Gradient Boosting,1,1,0.8910845543541673
+M084,2026-07-02,Portugal,Croatia,Gradient Boosting,1,2,1.6672737118832588
+M064,2026-06-26,Saudi Arabia,Cabo Verde,Gradient Boosting,1,0,1.8940981372309165
+M014,2026-06-15,Spain,Cabo Verde,Gradient Boosting,1,0,0.8783820808390848
+M104,2026-07-19,Spain,Argentina,Gradient Boosting,1,1,2.6345525118761524
+M049,2026-06-24,Switzerland,Canada,Gradient Boosting,1,2,0.6170005689019246
+M059,2026-06-25,Türkiye,USA,Gradient Boosting,1,3,2.1632953200922045
+M004,2026-06-12,USA,Paraguay,Gradient Boosting,1,4,0.9783459983269308
+M029,2026-06-19,USA,Australia,Gradient Boosting,1,2,0.9378898819792079
+M059,2026-06-25,USA,Türkiye,Gradient Boosting,1,2,1.2207298781475295
+M094,2026-07-06,USA,Belgium,Gradient Boosting,1,1,1.0191630875598896
+M039,2026-06-21,Uruguay,Cabo Verde,Gradient Boosting,1,2,2.2426526370442867
+M024,2026-06-17,Uzbekistan,Colombia,Gradient Boosting,1,1,2.43978804537062
+M069,2026-06-27,Uzbekistan,Congo DR,Gradient Boosting,1,1,1.3265770494114697
+M083,2026-07-02,Austria,Spain,Gradient Boosting,2,0,1.0775675139569563
+M013,2026-06-15,Belgium,Egypt,Gradient Boosting,2,1,2.9463747952576793
+M038,2026-06-21,Belgium,IR Iran,Gradient Boosting,2,0,3.196332487975769
+M098,2026-07-10,Belgium,Spain,Gradient Boosting,2,1,0.7913067201580867
+M003,2026-06-12,Bosnia–Herz,Canada,Gradient Boosting,2,1,0.4094108891558905
+M003,2026-06-12,Canada,Bosnia–Herz,Gradient Boosting,2,1,2.196959361439544
+M073,2026-06-28,Canada,South Africa,Gradient Boosting,2,1,3.3711416213556693
+M048,2026-06-23,Colombia,Congo DR,Gradient Boosting,2,1,2.417822087046969
+M088,2026-07-03,Colombia,Ghana,Gradient Boosting,2,1,2.243610539653587
+M048,2026-06-23,Congo DR,Colombia,Gradient Boosting,2,0,0.9023354598900556
+M013,2026-06-15,Egypt,Belgium,Gradient Boosting,2,1,1.125936093231625
+M068,2026-06-27,England,Panama,Gradient Boosting,2,2,2.9384037438891757
+M103,2026-07-18,England,France,Gradient Boosting,2,6,1.1790224103234113
+M078,2026-06-30,France,Sweden,Gradient Boosting,2,3,3.185966197590917
+M103,2026-07-18,France,England,Gradient Boosting,2,4,1.460856104424203
+M023,2026-06-17,Ghana,Panama,Gradient Boosting,2,1,1.7787609704786316
+M088,2026-07-03,Ghana,Colombia,Gradient Boosting,2,0,0.9373955960419046
+M008,2026-06-13,Haiti,Scotland,Gradient Boosting,2,0,0.7794355407298492
+M038,2026-06-21,IR Iran,Belgium,Gradient Boosting,2,0,1.0493479072096317
+M018,2026-06-16,Iraq,Norway,Gradient Boosting,2,1,0.8700688706520021
+M058,2026-06-25,Japan,Sweden,Gradient Boosting,2,1,2.6077723843523453
+M028,2026-06-18,Korea Republic,Mexico,Gradient Boosting,2,0,0.9501660345131138
+M053,2026-06-24,Korea Republic,South Africa,Gradient Boosting,2,0,2.381557946199444
+M028,2026-06-18,Mexico,Korea Republic,Gradient Boosting,2,1,1.8368725674898898
+M033,2026-06-20,Netherlands,Sweden,Gradient Boosting,2,5,2.9521790391946925
+M018,2026-06-16,Norway,Iraq,Gradient Boosting,2,4,3.244366021495983
+M043,2026-06-22,Norway,Senegal,Gradient Boosting,2,3,0.9946466348031883
+M023,2026-06-17,Panama,Ghana,Gradient Boosting,2,0,2.3391343677674623
+M068,2026-06-27,Panama,England,Gradient Boosting,2,0,0.3462792645022612
+M093,2026-07-06,Portugal,Spain,Gradient Boosting,2,0,0.27932756762542726
+M008,2026-06-13,Scotland,Haiti,Gradient Boosting,2,1,2.1067855326141904
+M043,2026-06-22,Senegal,Norway,Gradient Boosting,2,2,2.027525145239261
+M053,2026-06-24,South Africa,Korea Republic,Gradient Boosting,2,1,0.6289642423443917
+M073,2026-06-28,South Africa,Canada,Gradient Boosting,2,0,1.0492828542570154
+M063,2026-06-26,Spain,Uruguay,Gradient Boosting,2,1,3.151514209781259
+M083,2026-07-02,Spain,Austria,Gradient Boosting,2,3,2.6994216944954585
+M093,2026-07-06,Spain,Portugal,Gradient Boosting,2,1,4.468466658612967
+M098,2026-07-10,Spain,Belgium,Gradient Boosting,2,2,2.721825824611525
+M033,2026-06-20,Sweden,Netherlands,Gradient Boosting,2,1,0.8646047770672948
+M058,2026-06-25,Sweden,Japan,Gradient Boosting,2,1,0.4881971967173242
+M078,2026-06-30,Sweden,France,Gradient Boosting,2,0,0.7806074816138221
+M063,2026-06-26,Uruguay,Spain,Gradient Boosting,2,0,0.9388548701159667
+M072,2026-06-27,Algeria,Austria,Gradient Boosting,3,3,0.9029031063162871
+M087,2026-07-03,Argentina,Cabo Verde,Gradient Boosting,3,3,3.1146327582649347
+M102,2026-07-15,Argentina,England,Gradient Boosting,3,2,2.0076886980000004
+M007,2026-06-13,Australia,Türkiye,Gradient Boosting,3,2,0.683219557765583
+M072,2026-06-27,Austria,Algeria,Gradient Boosting,3,3,1.1055395850386753
+M082,2026-07-01,Bosnia–Herz,USA,Gradient Boosting,3,0,0.7092242970115337
+M032,2026-06-19,Brazil,Haiti,Gradient Boosting,3,3,3.6178657101477274
+M087,2026-07-03,Cabo Verde,Argentina,Gradient Boosting,3,2,-0.24805414537896525
+M027,2026-06-18,Canada,Qatar,Gradient Boosting,3,6,1.3143298321303967
+M022,2026-06-17,Croatia,England,Gradient Boosting,3,2,1.028366744733177
+M047,2026-06-23,Croatia,Panama,Gradient Boosting,3,1,2.236229961083
+M067,2026-06-27,Croatia,Ghana,Gradient Boosting,3,2,2.2779897736310577
+M002,2026-06-11,Czechia,Korea Republic,Gradient Boosting,3,1,-0.011290261272684425
+M077,2026-06-30,Côte d'Ivoire,Norway,Gradient Boosting,3,1,1.428792030051916
+M022,2026-06-17,England,Croatia,Gradient Boosting,3,4,1.775764514083056
+M092,2026-07-05,England,Mexico,Gradient Boosting,3,3,1.3992227225417933
+M102,2026-07-15,England,Argentina,Gradient Boosting,3,1,1.9135872995568606
+M017,2026-06-16,France,Senegal,Gradient Boosting,3,3,2.2342623583623435
+M042,2026-06-22,France,Iraq,Gradient Boosting,3,3,3.966240244540763
+M097,2026-07-09,France,Morocco,Gradient Boosting,3,2,1.252310149863694
+M067,2026-06-27,Ghana,Croatia,Gradient Boosting,3,1,1.4213463613632533
+M032,2026-06-19,Haiti,Brazil,Gradient Boosting,3,0,1.1700529971947735
+M052,2026-06-24,Haiti,Morocco,Gradient Boosting,3,2,0.7239896595277392
+M042,2026-06-22,Iraq,France,Gradient Boosting,3,0,0.8692166498042678
+M062,2026-06-26,Iraq,Senegal,Gradient Boosting,3,0,1.3389315105788357
+M002,2026-06-11,Korea Republic,Czechia,Gradient Boosting,3,2,1.4989168872683967
+M092,2026-07-05,Mexico,England,Gradient Boosting,3,2,0.7240684502994058
+M052,2026-06-24,Morocco,Haiti,Gradient Boosting,3,4,3.3947454408717648
+M097,2026-07-09,Morocco,France,Gradient Boosting,3,0,0.557987189184388
+M057,2026-06-25,Netherlands,Tunisia,Gradient Boosting,3,3,1.657720540386472
+M077,2026-06-30,Norway,Côte d'Ivoire,Gradient Boosting,3,2,1.6443140730810866
+M047,2026-06-23,Panama,Croatia,Gradient Boosting,3,0,1.204589157473044
+M027,2026-06-18,Qatar,Canada,Gradient Boosting,3,0,0.9586420982804675
+M037,2026-06-21,Saudi Arabia,Spain,Gradient Boosting,3,0,0.7239896595277392
+M017,2026-06-16,Senegal,France,Gradient Boosting,3,1,0.9803091256216467
+M062,2026-06-26,Senegal,Iraq,Gradient Boosting,3,5,3.2851953933095244
+M037,2026-06-21,Spain,Saudi Arabia,Gradient Boosting,3,4,3.754433237187557
+M012,2026-06-14,Sweden,Tunisia,Gradient Boosting,3,5,2.039942809144942
+M012,2026-06-14,Tunisia,Sweden,Gradient Boosting,3,1,1.6272554036494884
+M057,2026-06-25,Tunisia,Netherlands,Gradient Boosting,3,1,0.7324897913272224
+M007,2026-06-13,Türkiye,Australia,Gradient Boosting,3,0,1.1214761123432617
+M082,2026-07-01,USA,Bosnia–Herz,Gradient Boosting,3,2,1.6658553323397758
+M041,2026-06-22,Argentina,Austria,Gradient Boosting,4,2,1.8598185023111202
+M071,2026-06-27,Argentina,Jordan,Gradient Boosting,4,3,3.364147958617397
+M086,2026-07-03,Australia,Egypt,Gradient Boosting,4,1,1.7063645748459277
+M041,2026-06-22,Austria,Argentina,Gradient Boosting,4,0,0.13943812988831816
+M066,2026-06-26,Belgium,New Zealand,Gradient Boosting,4,5,3.9080748432394454
+M081,2026-07-01,Belgium,Senegal,Gradient Boosting,4,3,1.6963926487180871
+M026,2026-06-18,Bosnia–Herz,Switzerland,Gradient Boosting,4,1,0.6327358394868203
+M006,2026-06-13,Brazil,Morocco,Gradient Boosting,4,1,1.622917583431543
+M051,2026-06-24,Brazil,Scotland,Gradient Boosting,4,3,1.913020203512277
+M091,2026-07-05,Brazil,Norway,Gradient Boosting,4,1,2.3008864789802637
+M096,2026-07-07,Colombia,Switzerland,Gradient Boosting,4,0,1.4892904176988317
+M021,2026-06-17,Congo DR,Portugal,Gradient Boosting,4,1,0.5844357077337986
+M011,2026-06-14,Côte d'Ivoire,Ecuador,Gradient Boosting,4,1,2.5528639329917047
+M011,2026-06-14,Ecuador,Côte d'Ivoire,Gradient Boosting,4,0,1.8854090971418653
+M056,2026-06-25,Ecuador,Germany,Gradient Boosting,4,2,0.7508284936982839
+M086,2026-07-03,Egypt,Australia,Gradient Boosting,4,1,1.4812110905503553
+M046,2026-06-23,England,Ghana,Gradient Boosting,4,0,2.7645749604577605
+M061,2026-06-26,France,Norway,Gradient Boosting,4,4,2.3770567170665267
+M101,2026-07-14,France,Spain,Gradient Boosting,4,0,1.2963323682525956
+M056,2026-06-25,Germany,Ecuador,Gradient Boosting,4,1,1.778097433437613
+M046,2026-06-23,Ghana,England,Gradient Boosting,4,0,-0.07158207962409005
+M016,2026-06-15,IR Iran,New Zealand,Gradient Boosting,4,2,2.7718015538236256
+M036,2026-06-20,Japan,Tunisia,Gradient Boosting,4,4,1.606432107695368
+M071,2026-06-27,Jordan,Argentina,Gradient Boosting,4,1,0.34752088934419195
+M001,2026-06-11,Mexico,South Africa,Gradient Boosting,4,2,1.9592076514651995
+M006,2026-06-13,Morocco,Brazil,Gradient Boosting,4,1,1.8236821817706108
+M076,2026-06-29,Morocco,Netherlands,Gradient Boosting,4,1,1.2897109883300193
+M076,2026-06-29,Netherlands,Morocco,Gradient Boosting,4,1,1.3999921364591188
+M016,2026-06-15,New Zealand,IR Iran,Gradient Boosting,4,2,0.7549268284673554
+M066,2026-06-26,New Zealand,Belgium,Gradient Boosting,4,1,1.1578936547005043
+M061,2026-06-26,Norway,France,Gradient Boosting,4,1,0.8597796214109215
+M091,2026-07-05,Norway,Brazil,Gradient Boosting,4,2,0.13776926556948885
+M031,2026-06-19,Paraguay,Türkiye,Gradient Boosting,4,1,0.8040923280128172
+M021,2026-06-17,Portugal,Congo DR,Gradient Boosting,4,1,2.266258170786718
+M051,2026-06-24,Scotland,Brazil,Gradient Boosting,4,0,0.427306383159219
+M081,2026-07-01,Senegal,Belgium,Gradient Boosting,4,2,0.8627709303085529
+M001,2026-06-11,South Africa,Mexico,Gradient Boosting,4,0,0.3122922949412002
+M101,2026-07-14,Spain,France,Gradient Boosting,4,2,1.1078472843918017
+M026,2026-06-18,Switzerland,Bosnia–Herz,Gradient Boosting,4,4,1.913020203512277
+M096,2026-07-07,Switzerland,Colombia,Gradient Boosting,4,0,0.7965837221131219
+M036,2026-06-20,Tunisia,Japan,Gradient Boosting,4,0,0.48299371676086755
+M031,2026-06-19,Türkiye,Paraguay,Gradient Boosting,4,0,1.716185551673695
+M085,2026-07-02,Algeria,Switzerland,Gradient Boosting,5,0,0.8945735746843443
+M095,2026-07-07,Argentina,Egypt,Gradient Boosting,5,3,2.8360126476818897
+M100,2026-07-11,Argentina,Switzerland,Gradient Boosting,5,3,1.6035088368705757
+M060,2026-06-25,Australia,Paraguay,Gradient Boosting,5,0,1.594446869601645
+M020,2026-06-16,Austria,Jordan,Gradient Boosting,5,3,1.02003766779036
+M050,2026-06-24,Bosnia–Herz,Qatar,Gradient Boosting,5,3,0.8997724382265933
+M070,2026-06-27,Colombia,Portugal,Gradient Boosting,5,0,0.8828689990911494
+M080,2026-07-01,Congo DR,England,Gradient Boosting,5,1,0.5548694085215458
+M035,2026-06-20,Curaçao,Ecuador,Gradient Boosting,5,0,0.4945635352042328
+M055,2026-06-25,Curaçao,Côte d'Ivoire,Gradient Boosting,5,0,0.9628120066893466
+M025,2026-06-18,Czechia,South Africa,Gradient Boosting,5,1,1.8950949845698246
+M055,2026-06-25,Côte d'Ivoire,Curaçao,Gradient Boosting,5,2,3.450483616747574
+M035,2026-06-20,Ecuador,Curaçao,Gradient Boosting,5,0,2.7794257188062077
+M040,2026-06-21,Egypt,New Zealand,Gradient Boosting,5,3,2.9397375876539726
+M065,2026-06-26,Egypt,IR Iran,Gradient Boosting,5,1,1.21495138441186
+M095,2026-07-07,Egypt,Argentina,Gradient Boosting,5,2,0.6034490145600513
+M080,2026-07-01,England,Congo DR,Gradient Boosting,5,2,2.427754221556413
+M090,2026-07-04,France,Paraguay,Gradient Boosting,5,1,2.3685924749547507
+M075,2026-06-29,Germany,Paraguay,Gradient Boosting,5,1,1.8399263234032828
+M065,2026-06-26,IR Iran,Egypt,Gradient Boosting,5,1,1.4544765862404725
+M010,2026-06-14,Japan,Netherlands,Gradient Boosting,5,2,1.4728066371937718
+M020,2026-06-16,Jordan,Austria,Gradient Boosting,5,1,1.3291229440257344
+M030,2026-06-19,Morocco,Scotland,Gradient Boosting,5,1,2.6773726707889796
+M010,2026-06-14,Netherlands,Japan,Gradient Boosting,5,2,1.9656188741328118
+M040,2026-06-21,New Zealand,Egypt,Gradient Boosting,5,1,0.9301294212025895
+M060,2026-06-25,Paraguay,Australia,Gradient Boosting,5,0,0.49223785135792436
+M075,2026-06-29,Paraguay,Germany,Gradient Boosting,5,1,0.4976692443449727
+M090,2026-07-04,Paraguay,France,Gradient Boosting,5,0,1.3038779984577857
+M045,2026-06-23,Portugal,Uzbekistan,Gradient Boosting,5,5,2.6931259617121466
+M070,2026-06-27,Portugal,Colombia,Gradient Boosting,5,0,1.9727322956214444
+M005,2026-06-13,Qatar,Switzerland,Gradient Boosting,5,1,0.903508233197585
+M050,2026-06-24,Qatar,Bosnia–Herz,Gradient Boosting,5,1,1.7594962193993018
+M015,2026-06-15,Saudi Arabia,Uruguay,Gradient Boosting,5,1,0.9167614361569837
+M030,2026-06-19,Scotland,Morocco,Gradient Boosting,5,0,0.2629873037490583
+M025,2026-06-18,South Africa,Czechia,Gradient Boosting,5,1,0.7553316904650733
+M005,2026-06-13,Switzerland,Qatar,Gradient Boosting,5,1,0.7105965805539061
+M085,2026-07-02,Switzerland,Algeria,Gradient Boosting,5,2,2.2297298117834563
+M100,2026-07-11,Switzerland,Argentina,Gradient Boosting,5,1,0.6215571843030044
+M015,2026-06-15,Uruguay,Saudi Arabia,Gradient Boosting,5,1,2.929019421264892
+M045,2026-06-23,Uzbekistan,Portugal,Gradient Boosting,5,0,0.6024993282417292

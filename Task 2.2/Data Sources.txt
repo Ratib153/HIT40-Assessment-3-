@@ -5,6 +5,7 @@ This file records where the raw data used for Task 2.2 came from.
 The Python scripts in this folder perform the cleaning, feature engineering,
 validation and modelling. The raw source files are stored under data/raw/.
 
+
 ----------------------------------------------------------------------
 1. FIFA WORLD CUP 2026 MATCH RESULTS
 ----------------------------------------------------------------------
@@ -79,23 +80,58 @@ https://raw.githubusercontent.com/martj42/international_results/master/results.c
 4. WORLD CUP VENUE ALTITUDE
 ----------------------------------------------------------------------
 
-Local file:
+Local files:
 data/raw/venue_altitudes.csv
+data/raw/venue_altitude_source_audit.csv
 
 Used for:
 - venue_altitude_m
 
 Collection method:
-This was not downloaded as one ready-made dataset from a single website.
-The venue-altitude lookup was manually compiled for the project with
-assistance from ChatGPT using publicly available stadium/location
-information, and then saved as venue_altitudes.csv.
+The venue altitude dataset was created programmatically in Python.
 
-ChatGPT:
-https://chatgpt.com/
+Unique World Cup venue names were extracted from the cleaned World Cup
+match dataset. The Python geopy library was used to query OpenStreetMap
+Nominatim and obtain latitude and longitude coordinates for each stadium.
 
-Because this file was manually compiled rather than downloaded from one
-specific webpage, there is no single original dataset URL for it.
+Those coordinates were then submitted programmatically to the
+Open-Elevation API. Elevation values were retrieved from the srtm-250m
+dataset and stored in metres.
+
+Geocoding source:
+OpenStreetMap Nominatim
+
+Search API:
+https://nominatim.openstreetmap.org/search
+
+Official documentation:
+https://nominatim.org/release-docs/latest/api/Search/
+
+Elevation source:
+Open-Elevation
+
+Website:
+https://open-elevation.com/
+
+API endpoint:
+https://api.open-elevation.com/api/v1/lookup
+
+Elevation dataset:
+srtm-250m
+
+Underlying elevation data:
+NASA/USGS Shuttle Radar Topography Mission (SRTM) 1 Arc-Second Global V3,
+resampled by Open-Elevation.
+
+Open-Elevation dataset documentation:
+https://open-elevation.com/index.html?auth=register
+
+USGS SRTM information:
+https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1/
+
+No final venue altitude values were manually entered or generated using AI.
+The source audit file stores the coordinates, OpenStreetMap result, OSM ID,
+elevation dataset and elevation source used for every venue.
 
 
 ----------------------------------------------------------------------
@@ -303,29 +339,3 @@ Source: Uruguayan Football Association
 https://www.auf.org.uy/amistosoargelia-vs-uruguay/
 
 
-----------------------------------------------------------------------
-8. CHATGPT / AI ASSISTANCE DISCLOSURE
-----------------------------------------------------------------------
-
-ChatGPT was used as an assistance tool for a small amount of supplementary
-data collection and checking during Task 2.2.
-
-In particular, ChatGPT assisted with:
-- compiling the venue altitude lookup
-- helping locate/check some fallback pre-World-Cup lineup records when a
-  usable Cornerflick file was unavailable
-- checking data consistency and helping organise the Python workflow
-
-ChatGPT was NOT the primary source for:
-- the World Cup match results
-- FIFA ranking points
-- the historical international match dataset
-- FIFA Training Centre World Cup lineups
-- the 24 downloaded Cornerflick lineup files
-
-Where fallback lineup information was used, the underlying external source
-name and URL are preserved in:
-data/raw/lineups/pre_world_cup_starters_fallback.csv
-
-The data preparation and modelling steps are implemented in the Python
-scripts included with the project.

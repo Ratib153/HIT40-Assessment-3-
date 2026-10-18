@@ -2,9 +2,9 @@
 ==============================================================================
 Dep. Variable:           goals_scored   R-squared:                       0.266
 Model:                            OLS   Adj. R-squared:                  0.237
-Method:                 Least Squares   F-statistic:                     9.019
-Date:                Sat, 17 Oct 2026   Prob (F-statistic):           1.53e-10
-Time:                        23:13:34   Log-Likelihood:                -331.47
+Method:                 Least Squares   F-statistic:                     9.022
+Date:                Sun, 18 Oct 2026   Prob (F-statistic):           1.51e-10
+Time:                        12:22:18   Log-Likelihood:                -331.46
 No. Observations:                 208   AIC:                             680.9
 Df Residuals:                     199   BIC:                             711.0
 Df Model:                           8                                         
@@ -12,23 +12,23 @@ Covariance Type:            nonrobust
 =============================================================================================
                                 coef    std err          t      P>|t|      [0.025      0.975]
 ---------------------------------------------------------------------------------------------
-const                         1.2938      0.412      3.138      0.002       0.481       2.107
-fifa_points_diff              0.0028      0.000      6.073      0.000       0.002       0.004
+const                         1.2961      0.412      3.145      0.002       0.484       2.109
+fifa_points_diff              0.0028      0.000      6.076      0.000       0.002       0.004
 rest_days                    -0.0145      0.017     -0.838      0.403      -0.049       0.020
-venue_altitude_m          -4.851e-05      0.000     -0.303      0.762      -0.000       0.000
-attacking_form_5              0.0136      0.140      0.098      0.922      -0.262       0.289
-opponent_defensive_form_5     0.1548      0.151      1.025      0.306      -0.143       0.452
-previous_extra_time           0.7001      0.449      1.558      0.121      -0.186       1.586
-lineup_changes                0.0391      0.037      1.065      0.288      -0.033       0.111
-qualification_pressure       -0.0711      0.182     -0.390      0.697      -0.430       0.288
+venue_altitude_m            -5.1e-05      0.000     -0.332      0.740      -0.000       0.000
+attacking_form_5              0.0136      0.140      0.097      0.923      -0.262       0.289
+opponent_defensive_form_5     0.1541      0.151      1.021      0.308      -0.144       0.452
+previous_extra_time           0.6993      0.449      1.557      0.121      -0.187       1.585
+lineup_changes                0.0390      0.037      1.063      0.289      -0.033       0.111
+qualification_pressure       -0.0714      0.182     -0.392      0.696      -0.431       0.288
 ==============================================================================
-Omnibus:                       32.104   Durbin-Watson:                   1.936
-Prob(Omnibus):                  0.000   Jarque-Bera (JB):               50.651
-Skew:                           0.857   Prob(JB):                     1.00e-11
-Kurtosis:                       4.706   Cond. No.                     3.21e+03
+Omnibus:                       32.064   Durbin-Watson:                   1.936
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               50.564
+Skew:                           0.856   Prob(JB):                     1.05e-11
+Kurtosis:                       4.704   Cond. No.                     3.34e+03
 ==============================================================================
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-[2] The condition number is large, 3.21e+03. This might indicate that there are
+[2] The condition number is large, 3.34e+03. This might indicate that there are
 strong multicollinearity or other numerical problems.
