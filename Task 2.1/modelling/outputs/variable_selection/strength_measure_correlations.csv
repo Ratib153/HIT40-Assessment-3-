@@ -1,0 +1,4 @@
+pair,pearson_r
+fifa_points_diff vs elo_rating_diff,0.8937672976190124
+fifa_points_diff vs market_value_log_ratio,0.7974363951187199
+elo_rating_diff vs market_value_log_ratio,0.7548828711844794

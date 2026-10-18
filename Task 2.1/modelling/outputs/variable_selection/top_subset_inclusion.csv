@@ -1,0 +1,9 @@
+variable,share_of_top_20_subsets
+market_value_log_ratio,1.0
+fifa_points_diff,0.7
+host_diff,0.4
+squad_age_diff,0.35
+travel_1000km_diff,0.35
+pre_wc_form_diff,0.25
+tournament_form_diff,0.1
+rest_days_log_ratio,0.0

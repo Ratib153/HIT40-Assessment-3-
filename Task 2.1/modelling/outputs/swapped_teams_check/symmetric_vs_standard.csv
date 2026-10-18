@@ -1,0 +1,4 @@
+symmetric_model,standard_model,RMSE_difference,t_statistic,p_value
+"Multiple Linear Regression, no intercept",Multiple Linear Regression,-0.0014975856114729513,-0.06340352467227206,0.9497031252120087
+"Lasso Regression, no intercept",Lasso Regression (selected),0.004917593701654823,0.13303063642747842,0.8947139809171044
+"Extra Trees, trained on both orientations",Extra Trees,0.0035420607680000347,0.09965938692762827,0.9210213683391645

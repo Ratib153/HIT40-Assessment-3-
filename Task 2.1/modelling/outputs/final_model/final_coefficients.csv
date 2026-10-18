@@ -1,0 +1,10 @@
+predictor,standardised_coefficient,original_scale_coefficient,retained
+intercept,0.4807692307692308,0.1999040787944455,True
+fifa_points_diff,0.5130718794519785,0.0022271233732536273,True
+market_value_log_ratio,0.7205609320072746,0.43232905881761485,True
+squad_age_diff,0.0,0.0,False
+rest_days_log_ratio,-0.0,-0.0,False
+host_diff,0.05162626188427521,0.1487413817363456,True
+travel_1000km_diff,-0.0,-0.0,False
+tournament_form_diff,0.0,0.0,False
+pre_wc_form_diff,0.0,0.0,False

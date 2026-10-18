@@ -1,0 +1,9 @@
+predictor,RMSE_increase_mean,RMSE_increase_std
+market_value_log_ratio,0.43972445520073683,0.13840229693150766
+fifa_points_diff,0.32019169485308796,0.11689641522759459
+squad_age_diff,0.0,0.0
+rest_days_log_ratio,0.0,0.0
+host_diff,0.0,0.0
+travel_1000km_diff,0.0,0.0
+tournament_form_diff,0.0,0.0
+pre_wc_form_diff,0.0,0.0

@@ -1,0 +1,9 @@
+size,variables,RMSE_mean
+1,market_value_log_ratio,1.5459471919837802
+2,fifa_points_diff + market_value_log_ratio,1.5143043467777846
+3,fifa_points_diff + market_value_log_ratio + travel_1000km_diff,1.5258890794228779
+4,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff,1.537100944563756
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff,1.551168826710021
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff + pre_wc_form_diff,1.5689980122454505
+7,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.5886376307235759
+8,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6508866245748792

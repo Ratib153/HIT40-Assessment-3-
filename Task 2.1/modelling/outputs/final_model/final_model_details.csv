@@ -1,0 +1,2 @@
+selected_model,parameters_from_training_cv,parameters_refit_all_104
+Lasso Regression,"{""model__alpha"": 0.2}","{""model__alpha"": 0.2}"

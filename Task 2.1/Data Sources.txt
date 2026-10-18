@@ -1,0 +1,147 @@
+HIT140 Assessment 3 - Task 2.1
+DATA SOURCES
+
+Raw files are stored under data/raw/.
+
+
+----------------------------------------------------------------------
+1. FIFA WORLD CUP 2026 MATCH RESULTS
+----------------------------------------------------------------------
+
+Local file:
+data/raw/HIT40 dataset.csv
+
+Used for:
+- goal_diff (response variable)
+- match dates, teams, rounds and venue names
+- tournament_form_diff
+
+Source:
+FBref - 2026 World Cup Scores & Fixtures
+
+Exact URL:
+https://fbref.com/en/comps/1/2026/schedule/2026-World-Cup-Scores-and-Fixtures
+
+
+----------------------------------------------------------------------
+2. FIFA MEN'S WORLD RANKING
+----------------------------------------------------------------------
+
+Local file:
+data/raw/fifa_rankings_2026_06_11.csv
+
+Used for:
+- fifa_points_diff
+
+Source:
+FIFA/Coca-Cola Men's World Ranking, released 11 June 2026
+
+Exact URL:
+https://inside.fifa.com/fifa-rankings/world-ranking/men/news/argentina-reclaim-top-spot-mens-world-ranking-fifa-coca-cola
+
+
+----------------------------------------------------------------------
+3. HISTORICAL INTERNATIONAL MATCH RESULTS
+----------------------------------------------------------------------
+
+Local file:
+data/raw/international_results.csv
+
+Used for:
+- rest_days_log_ratio
+- pre_wc_form_diff
+
+Source:
+martj42 - International football results from 1872 onward
+
+Exact URL:
+https://raw.githubusercontent.com/martj42/international_results/master/results.csv
+
+
+----------------------------------------------------------------------
+4. SQUAD MARKET VALUE
+----------------------------------------------------------------------
+
+Local file:
+data/raw/market_values_2026_06_09.csv
+
+Used for:
+- market_value_log_ratio
+
+Source:
+Reuters - Squad value and FIFA ranking before the World Cups(FIFA rankings and Transfermarkt valuations as of June 9, 2026)
+
+Exact URL:
+https://www.reuters.com/graphics/SOCCER-WORLDCUP/zgvolqqoypd/#world-cup-financial-impact 
+
+
+----------------------------------------------------------------------
+5. WORLD FOOTBALL ELO RATINGS
+----------------------------------------------------------------------
+
+Local file:
+data/raw/elo_ratings_2025_12_31.csv
+
+Used for:
+- elo_rating_diff (alternative specification only, not one of the 8 variables)
+
+Source:
+World Football Elo Ratings - final ratings for 2025
+
+Exact URL:
+https://www.eloratings.net/2025.tsv
+
+
+----------------------------------------------------------------------
+6. AVERAGE SQUAD AGE
+----------------------------------------------------------------------
+
+Local file:
+data/raw/squad_ages_2026_06_04.csv
+
+Used for:
+- squad_age_diff
+
+Source:
+RotoWire - 2026 World Cup Squad Ages: Youngest and Oldest Teams Ranked
+
+Exact URL:
+https://www.rotowire.com/soccer/article/2026-fifa-world-cup-squad-ages-youngest-oldest-teams-ranked-116813
+
+
+----------------------------------------------------------------------
+7. STADIUM LOCATIONS
+----------------------------------------------------------------------
+
+Local file:
+data/raw/venue_geocodes_osm.csv
+
+Used for:
+- host_diff (country of each stadium)
+- travel_1000km_diff (stadium coordinates)
+
+Source:
+OpenStreetMap Nominatim geocoding service, queried with the FBref venue
+names through the geopy Python library. The OpenStreetMap page of each
+stadium is stored in the osm_url column of the local file.
+
+Exact URL:
+https://nominatim.openstreetmap.org/search
+
+
+----------------------------------------------------------------------
+8. CAPITAL CITY LOCATIONS
+----------------------------------------------------------------------
+
+Local file:
+none (read from the geonamescache Python package, version 3.0.2)
+
+Used for:
+- host_diff (country of each team)
+- travel_1000km_diff (capital city coordinates)
+
+Source:
+GeoNames geographical database, through the geonamescache Python package
+
+Exact URL:
+https://pypi.org/project/geonamescache/3.0.2/

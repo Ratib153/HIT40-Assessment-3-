@@ -1,0 +1,9 @@
+predictor,coefficient
+fifa_points_diff,0.00205196060688009
+market_value_log_ratio,0.6664042535235113
+squad_age_diff,0.1539146662489797
+rest_days_log_ratio,-0.33138944492744254
+host_diff,1.0097800618927983
+travel_1000km_diff,0.031189827402279272
+tournament_form_diff,-0.15154492672992093
+pre_wc_form_diff,0.04838627654287069

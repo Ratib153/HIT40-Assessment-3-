@@ -1,0 +1,9 @@
+predictor,VIF
+market_value_log_ratio,5.249107785301045
+fifa_points_diff,4.219200907242347
+host_diff,2.179981412501057
+travel_1000km_diff,2.120798651739197
+pre_wc_form_diff,1.8991553537741286
+squad_age_diff,1.8290973965960768
+tournament_form_diff,1.757754562785932
+rest_days_log_ratio,1.066275491112654

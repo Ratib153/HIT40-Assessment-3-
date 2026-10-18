@@ -1,0 +1,5 @@
+assumption,test,statistic,p_value,conclusion_at_5_percent
+Linearity,Ramsey RESET (squared fitted values),0.3983341438275355,0.5299220570267903,No evidence against
+Constant variance,Breusch-Pagan,9.679916645464003,0.288214003907165,No evidence against
+Normal residuals,Shapiro-Wilk,0.9910489768764538,0.8420907083469109,No evidence against
+Independent residuals,"Durbin-Watson (matches in date order, about 2 is good)",1.9702530027049263,,See statistic

@@ -1,0 +1,9 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.5
+scipy>=1.11
+statsmodels>=0.14
+geopy>=2.4
+geonamescache==3.0.2

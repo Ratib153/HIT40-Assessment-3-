@@ -1,0 +1,13 @@
+model,best_parameters,tuning_cv_rmse
+Multiple Linear Regression,{},
+Ridge Regression,"{""model__alpha"": 31.622776601683793}",1.5963223830279176
+Lasso Regression,"{""model__alpha"": 0.2}",1.5507372785566027
+Elastic Net,"{""model__alpha"": 0.2, ""model__l1_ratio"": 0.9}",1.552725969477383
+Huber Regression,"{""model__alpha"": 10, ""model__epsilon"": 1.75}",1.596415694778455
+Polynomial (degree 2) + Ridge,"{""model__alpha"": 100}",1.693345129774103
+K-Nearest Neighbours,"{""model__n_neighbors"": 20, ""model__weights"": ""distance""}",1.5956576044368709
+Support Vector Regression (RBF),"{""model__C"": 10, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",1.5721510817066817
+Decision Tree,"{""max_depth"": 3, ""min_samples_leaf"": 10}",1.7575634960980249
+Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 5}",1.576317582738321
+Extra Trees,"{""max_depth"": null, ""max_features"": 1.0, ""min_samples_leaf"": 5}",1.5390630012032311
+Gradient Boosting,"{""learning_rate"": 0.01, ""max_depth"": 1, ""n_estimators"": 200}",1.6565377587662424

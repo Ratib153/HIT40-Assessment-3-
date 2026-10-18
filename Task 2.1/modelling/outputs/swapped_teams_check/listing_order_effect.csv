@@ -1,0 +1,5 @@
+check,estimate,p_value,note
+Mean goal difference (team A - team B),0.46987951807228917,0.03331719892372833,"Raw difference, not adjusted for team strength"
+OLS intercept with all 8 variables,0.14050446694683436,0.4299301615334836,Listing effect after adjusting for team strength
+Mean fifa_points_diff,49.87939759036144,0.05282237138539325,Positive means FBref tends to list the stronger team first
+Mean market_value_log_ratio,0.2746275665332314,0.13890990622111837,Positive means FBref tends to list the more valuable team first

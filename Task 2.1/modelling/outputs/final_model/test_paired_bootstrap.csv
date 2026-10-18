@@ -1,0 +1,2 @@
+comparison,test_RMSE_difference,ci_low,ci_high,share_of_resamples_selected_better
+Lasso Regression minus Multiple Linear Regression,0.15771260423938038,-0.12762668506685432,0.40436206921126616,0.149

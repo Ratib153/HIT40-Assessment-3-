@@ -1,0 +1,256 @@
+size,variables,RMSE_mean
+2,fifa_points_diff + market_value_log_ratio,1.5143043467777846
+3,fifa_points_diff + market_value_log_ratio + travel_1000km_diff,1.5258890794228779
+3,fifa_points_diff + market_value_log_ratio + squad_age_diff,1.5273524535155913
+3,fifa_points_diff + market_value_log_ratio + host_diff,1.5278319318654916
+3,fifa_points_diff + market_value_log_ratio + pre_wc_form_diff,1.5330939578377152
+4,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff,1.537100944563756
+3,fifa_points_diff + market_value_log_ratio + tournament_form_diff,1.5396418058909083
+4,fifa_points_diff + market_value_log_ratio + host_diff + travel_1000km_diff,1.5399804138632307
+4,fifa_points_diff + market_value_log_ratio + squad_age_diff + travel_1000km_diff,1.542648060379259
+2,market_value_log_ratio + squad_age_diff,1.5434540004937878
+3,market_value_log_ratio + squad_age_diff + host_diff,1.543708611980377
+4,fifa_points_diff + market_value_log_ratio + host_diff + pre_wc_form_diff,1.543846746023402
+4,fifa_points_diff + market_value_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.5442073531342473
+4,fifa_points_diff + market_value_log_ratio + squad_age_diff + pre_wc_form_diff,1.5455267126624543
+1,market_value_log_ratio,1.5459471919837802
+2,market_value_log_ratio + travel_1000km_diff,1.5484746325456578
+3,market_value_log_ratio + host_diff + pre_wc_form_diff,1.5497551502813622
+4,fifa_points_diff + market_value_log_ratio + travel_1000km_diff + tournament_form_diff,1.550032669788452
+2,market_value_log_ratio + host_diff,1.5507107797185453
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff,1.551168826710021
+4,fifa_points_diff + market_value_log_ratio + host_diff + tournament_form_diff,1.5512995540624066
+4,fifa_points_diff + market_value_log_ratio + squad_age_diff + tournament_form_diff,1.553149293202723
+4,market_value_log_ratio + squad_age_diff + host_diff + pre_wc_form_diff,1.5537045214130933
+1,fifa_points_diff,1.5538811718891525
+3,market_value_log_ratio + squad_age_diff + travel_1000km_diff,1.5541101655002942
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + pre_wc_form_diff,1.5549105454686603
+2,market_value_log_ratio + pre_wc_form_diff,1.555489292472502
+3,market_value_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.555952390149188
+4,market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff,1.5559876152894214
+5,fifa_points_diff + market_value_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.556059529389176
+4,fifa_points_diff + market_value_log_ratio + tournament_form_diff + pre_wc_form_diff,1.5578003060776617
+3,market_value_log_ratio + squad_age_diff + pre_wc_form_diff,1.5579455495828787
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + tournament_form_diff,1.5605286939228658
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + travel_1000km_diff + pre_wc_form_diff,1.5609809358463413
+5,fifa_points_diff + market_value_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.5620762307629934
+4,market_value_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.5621347275242028
+3,market_value_log_ratio + host_diff + travel_1000km_diff,1.5631612068214602
+5,market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff + pre_wc_form_diff,1.566173449896269
+5,fifa_points_diff + market_value_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.566401139382358
+4,market_value_log_ratio + squad_age_diff + travel_1000km_diff + pre_wc_form_diff,1.566617238721209
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + travel_1000km_diff + tournament_form_diff,1.5669663855095806
+5,fifa_points_diff + market_value_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.5675379549503723
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff + pre_wc_form_diff,1.5689980122454505
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + tournament_form_diff + pre_wc_form_diff,1.5705582131252922
+2,fifa_points_diff + squad_age_diff,1.5706309560983385
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff,1.571859221475145
+2,fifa_points_diff + travel_1000km_diff,1.5729072192985576
+2,fifa_points_diff + host_diff,1.5763486972821945
+6,fifa_points_diff + market_value_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.5768195795893325
+2,fifa_points_diff + tournament_form_diff,1.5770750485229346
+4,market_value_log_ratio + squad_age_diff + host_diff + tournament_form_diff,1.5771246456962493
+2,fifa_points_diff + pre_wc_form_diff,1.5772799518564913
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + tournament_form_diff + pre_wc_form_diff,1.5778110973218238
+3,market_value_log_ratio + squad_age_diff + tournament_form_diff,1.5787482105638795
+4,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff,1.5815436308394326
+3,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio,1.5818824194632277
+4,market_value_log_ratio + rest_days_log_ratio + host_diff + pre_wc_form_diff,1.5819259232226401
+2,market_value_log_ratio + tournament_form_diff,1.5836739542195266
+4,market_value_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.5844017053915158
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.5844458275605187
+5,market_value_log_ratio + squad_age_diff + host_diff + tournament_form_diff + pre_wc_form_diff,1.5848203412351123
+5,market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff,1.5855743028488722
+3,market_value_log_ratio + squad_age_diff + rest_days_log_ratio,1.5866352330964093
+3,market_value_log_ratio + travel_1000km_diff + tournament_form_diff,1.5873581276409277
+5,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + pre_wc_form_diff,1.5878147294413645
+3,fifa_points_diff + squad_age_diff + travel_1000km_diff,1.5879413261344313
+7,fifa_points_diff + market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.5886376307235759
+4,market_value_log_ratio + squad_age_diff + travel_1000km_diff + tournament_form_diff,1.5891192930541336
+3,fifa_points_diff + squad_age_diff + host_diff,1.5896055796574748
+3,market_value_log_ratio + host_diff + tournament_form_diff,1.590408411211514
+4,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio,1.5906290251940558
+5,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff,1.5912214457891007
+3,market_value_log_ratio + tournament_form_diff + pre_wc_form_diff,1.5912599598787656
+4,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + host_diff,1.5912601832483637
+2,market_value_log_ratio + rest_days_log_ratio,1.5915253716958424
+3,fifa_points_diff + squad_age_diff + pre_wc_form_diff,1.591694342249356
+4,market_value_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.5922546126602135
+3,market_value_log_ratio + rest_days_log_ratio + host_diff,1.5922797005902944
+4,market_value_log_ratio + squad_age_diff + tournament_form_diff + pre_wc_form_diff,1.592576678637346
+3,fifa_points_diff + host_diff + travel_1000km_diff,1.5931493177888834
+6,market_value_log_ratio + squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.5932445229653418
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff,1.5937265070859923
+3,market_value_log_ratio + rest_days_log_ratio + pre_wc_form_diff,1.5944408709932012
+3,fifa_points_diff + squad_age_diff + tournament_form_diff,1.5951948095340156
+5,market_value_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.5958963645456792
+3,fifa_points_diff + travel_1000km_diff + pre_wc_form_diff,1.5962282406113095
+3,fifa_points_diff + host_diff + pre_wc_form_diff,1.5964237711727856
+3,fifa_points_diff + travel_1000km_diff + tournament_form_diff,1.5966887276993131
+5,market_value_log_ratio + rest_days_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.597118295069433
+6,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.5978072879630858
+4,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + travel_1000km_diff,1.598689453313431
+4,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + pre_wc_form_diff,1.599886356752078
+5,market_value_log_ratio + squad_age_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6006307794174501
+3,market_value_log_ratio + rest_days_log_ratio + travel_1000km_diff,1.600903679341634
+3,fifa_points_diff + tournament_form_diff + pre_wc_form_diff,1.601459604278162
+4,market_value_log_ratio + rest_days_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.6015718776241832
+4,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + travel_1000km_diff,1.6024846754480153
+4,market_value_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.6026260524764195
+3,fifa_points_diff + host_diff + tournament_form_diff,1.60404698775124
+5,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + host_diff + travel_1000km_diff,1.6054524961650196
+4,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + pre_wc_form_diff,1.605952938682625
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff,1.6071579620479102
+4,fifa_points_diff + squad_age_diff + host_diff + pre_wc_form_diff,1.6072032335807152
+5,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + host_diff + pre_wc_form_diff,1.6082887555467846
+4,fifa_points_diff + squad_age_diff + host_diff + travel_1000km_diff,1.6083364721404663
+4,market_value_log_ratio + rest_days_log_ratio + host_diff + travel_1000km_diff,1.6086027895229653
+4,fifa_points_diff + squad_age_diff + travel_1000km_diff + pre_wc_form_diff,1.6086898132500884
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + travel_1000km_diff,1.6115179913892943
+4,fifa_points_diff + squad_age_diff + travel_1000km_diff + tournament_form_diff,1.6128583447375369
+5,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.6132317811695844
+4,fifa_points_diff + host_diff + travel_1000km_diff + pre_wc_form_diff,1.613389867428848
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + pre_wc_form_diff,1.6142950262742637
+4,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + tournament_form_diff,1.6145781762752376
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + pre_wc_form_diff,1.615345751571363
+5,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + tournament_form_diff,1.6168720582938818
+4,fifa_points_diff + squad_age_diff + tournament_form_diff + pre_wc_form_diff,1.6170985423681339
+5,market_value_log_ratio + rest_days_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.6175719221888218
+4,fifa_points_diff + squad_age_diff + host_diff + tournament_form_diff,1.6185312221251982
+6,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.6201643131900343
+4,fifa_points_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6206432547970013
+6,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.6210553006335138
+5,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.6214153734846761
+4,fifa_points_diff + host_diff + travel_1000km_diff + tournament_form_diff,1.621684450485637
+5,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + tournament_form_diff,1.6226905795152393
+5,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + host_diff + tournament_form_diff,1.622969829784356
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + tournament_form_diff,1.6234261403538008
+6,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.6234358949076289
+4,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + tournament_form_diff,1.6240545155328099
+4,fifa_points_diff + host_diff + tournament_form_diff + pre_wc_form_diff,1.624177127149511
+7,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6243969974327581
+5,fifa_points_diff + squad_age_diff + host_diff + travel_1000km_diff + pre_wc_form_diff,1.6261855393126479
+7,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.6279966640579246
+3,market_value_log_ratio + rest_days_log_ratio + tournament_form_diff,1.6306811969923092
+4,market_value_log_ratio + rest_days_log_ratio + tournament_form_diff + pre_wc_form_diff,1.6310264359114797
+2,fifa_points_diff + rest_days_log_ratio,1.6312392291155655
+5,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff,1.6312672480686083
+6,market_value_log_ratio + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6313632053321847
+7,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.631572203027512
+5,fifa_points_diff + squad_age_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6340422618323813
+4,market_value_log_ratio + rest_days_log_ratio + host_diff + tournament_form_diff,1.634118211770156
+6,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.6349382373080739
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.6351007604758467
+5,fifa_points_diff + squad_age_diff + host_diff + tournament_form_diff + pre_wc_form_diff,1.6359276534442528
+5,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + tournament_form_diff + pre_wc_form_diff,1.6364920666039275
+5,fifa_points_diff + squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff,1.6377508731592112
+6,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.6381473743636599
+5,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + tournament_form_diff + pre_wc_form_diff,1.638523944070653
+5,market_value_log_ratio + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6392447632306284
+5,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff,1.639922629009696
+4,market_value_log_ratio + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff,1.6419705157225026
+5,fifa_points_diff + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6420545948079257
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff,1.6428916802792113
+7,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.643292918608559
+6,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + tournament_form_diff + pre_wc_form_diff,1.6478358786344598
+6,market_value_log_ratio + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.649330997817611
+3,fifa_points_diff + rest_days_log_ratio + host_diff,1.649694089222629
+5,market_value_log_ratio + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.6498966589608335
+7,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6504076425305145
+3,fifa_points_diff + squad_age_diff + rest_days_log_ratio,1.6508395141781411
+8,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6508866245748792
+6,fifa_points_diff + market_value_log_ratio + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6534145693293203
+6,fifa_points_diff + squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.655400697987325
+3,fifa_points_diff + rest_days_log_ratio + tournament_form_diff,1.6560208315207676
+3,fifa_points_diff + rest_days_log_ratio + pre_wc_form_diff,1.6566363087118778
+3,fifa_points_diff + rest_days_log_ratio + travel_1000km_diff,1.65688374108718
+4,fifa_points_diff + squad_age_diff + rest_days_log_ratio + host_diff,1.666147566269022
+7,fifa_points_diff + market_value_log_ratio + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.6664779150250593
+4,fifa_points_diff + rest_days_log_ratio + host_diff + pre_wc_form_diff,1.667497098854114
+4,fifa_points_diff + squad_age_diff + rest_days_log_ratio + pre_wc_form_diff,1.6709633402495405
+4,fifa_points_diff + rest_days_log_ratio + host_diff + travel_1000km_diff,1.6726928274935724
+4,fifa_points_diff + squad_age_diff + rest_days_log_ratio + travel_1000km_diff,1.675333227314658
+4,fifa_points_diff + squad_age_diff + rest_days_log_ratio + tournament_form_diff,1.6779713415329456
+5,fifa_points_diff + squad_age_diff + rest_days_log_ratio + host_diff + pre_wc_form_diff,1.6793836571224896
+4,fifa_points_diff + rest_days_log_ratio + host_diff + tournament_form_diff,1.680058596071894
+4,fifa_points_diff + rest_days_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.681388019775091
+4,fifa_points_diff + rest_days_log_ratio + tournament_form_diff + pre_wc_form_diff,1.6819697137282825
+4,fifa_points_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff,1.6832504951875842
+5,fifa_points_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.692369199154599
+5,fifa_points_diff + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.6940139611488916
+5,fifa_points_diff + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff,1.695043622876102
+5,fifa_points_diff + rest_days_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.6971494666156801
+5,fifa_points_diff + squad_age_diff + rest_days_log_ratio + host_diff + tournament_form_diff,1.6984180686539776
+5,fifa_points_diff + squad_age_diff + rest_days_log_ratio + tournament_form_diff + pre_wc_form_diff,1.6984542046988225
+5,fifa_points_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.703673503742094
+5,fifa_points_diff + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff,1.7042172727533107
+5,fifa_points_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.7078239601348342
+6,fifa_points_diff + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.7103281076405061
+6,fifa_points_diff + squad_age_diff + rest_days_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.7106328101200226
+6,fifa_points_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.7226178788825863
+6,fifa_points_diff + squad_age_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.7226807380325133
+6,fifa_points_diff + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.727702040385302
+7,fifa_points_diff + squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.741847918292838
+2,travel_1000km_diff + pre_wc_form_diff,1.7911998712677637
+3,travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.7919404700580304
+3,squad_age_diff + travel_1000km_diff + pre_wc_form_diff,1.7924845031444128
+2,tournament_form_diff + pre_wc_form_diff,1.7983742341124327
+4,squad_age_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.8003815287754792
+2,host_diff + pre_wc_form_diff,1.802576529802617
+3,host_diff + travel_1000km_diff + pre_wc_form_diff,1.803110123982374
+4,squad_age_diff + host_diff + travel_1000km_diff + pre_wc_form_diff,1.8054411827411279
+4,rest_days_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.809638061031795
+3,squad_age_diff + host_diff + pre_wc_form_diff,1.8101092043612628
+3,rest_days_log_ratio + tournament_form_diff + pre_wc_form_diff,1.8113442489556149
+3,rest_days_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.812070533038039
+3,host_diff + tournament_form_diff + pre_wc_form_diff,1.8126592462166864
+3,squad_age_diff + tournament_form_diff + pre_wc_form_diff,1.8129456574735423
+4,host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.8136704553223928
+4,squad_age_diff + rest_days_log_ratio + travel_1000km_diff + pre_wc_form_diff,1.8149858032168282
+1,pre_wc_form_diff,1.818993888540322
+3,rest_days_log_ratio + host_diff + pre_wc_form_diff,1.8193132525321736
+5,squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.8197466179222532
+5,squad_age_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.8199375396520716
+4,rest_days_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.8214957874481816
+4,squad_age_diff + host_diff + tournament_form_diff + pre_wc_form_diff,1.8231761635826436
+4,rest_days_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.826091662637013
+5,squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + pre_wc_form_diff,1.8261581393057853
+4,squad_age_diff + rest_days_log_ratio + tournament_form_diff + pre_wc_form_diff,1.826776203620553
+4,squad_age_diff + rest_days_log_ratio + host_diff + pre_wc_form_diff,1.8268320148416657
+2,squad_age_diff + pre_wc_form_diff,1.829088106717608
+5,rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.8295348875087512
+2,rest_days_log_ratio + pre_wc_form_diff,1.8346459343026107
+5,squad_age_diff + rest_days_log_ratio + host_diff + tournament_form_diff + pre_wc_form_diff,1.8372242790555626
+6,squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff + pre_wc_form_diff,1.8385904798879147
+3,squad_age_diff + rest_days_log_ratio + pre_wc_form_diff,1.845211832451849
+1,tournament_form_diff,1.8769417107419628
+2,travel_1000km_diff + tournament_form_diff,1.8811788386083614
+2,rest_days_log_ratio + tournament_form_diff,1.8932467207394104
+2,squad_age_diff + tournament_form_diff,1.9042494184818863
+3,rest_days_log_ratio + travel_1000km_diff + tournament_form_diff,1.9049670519216448
+3,host_diff + travel_1000km_diff + tournament_form_diff,1.9050323388483008
+3,squad_age_diff + travel_1000km_diff + tournament_form_diff,1.906323403042016
+2,host_diff + tournament_form_diff,1.9176454845800048
+3,squad_age_diff + rest_days_log_ratio + tournament_form_diff,1.921861175312386
+4,squad_age_diff + host_diff + travel_1000km_diff + tournament_form_diff,1.9236113653342857
+4,squad_age_diff + rest_days_log_ratio + travel_1000km_diff + tournament_form_diff,1.9323940448812906
+4,rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.9324691222325479
+3,rest_days_log_ratio + host_diff + tournament_form_diff,1.9336412127178173
+1,travel_1000km_diff,1.9361222576482993
+3,squad_age_diff + host_diff + tournament_form_diff,1.9405868742753716
+2,squad_age_diff + travel_1000km_diff,1.9550427094348044
+5,squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff + tournament_form_diff,1.9567560001306301
+4,squad_age_diff + rest_days_log_ratio + host_diff + tournament_form_diff,1.9577608520342542
+2,host_diff + travel_1000km_diff,1.95960655181414
+2,rest_days_log_ratio + travel_1000km_diff,1.9654251463608614
+3,squad_age_diff + host_diff + travel_1000km_diff,1.9742102846183045
+1,host_diff,1.9814700709582547
+1,rest_days_log_ratio,1.9841850364374207
+3,squad_age_diff + rest_days_log_ratio + travel_1000km_diff,1.9869015726585169
+1,squad_age_diff,1.9909756039314428
+3,rest_days_log_ratio + host_diff + travel_1000km_diff,1.9921337502176548
+2,rest_days_log_ratio + host_diff,1.999400819844168
+2,squad_age_diff + host_diff,2.003806906488993
+2,squad_age_diff + rest_days_log_ratio,2.011174431006461
+4,squad_age_diff + rest_days_log_ratio + host_diff + travel_1000km_diff,2.0131078684975456
+3,squad_age_diff + rest_days_log_ratio + host_diff,2.022942699577206

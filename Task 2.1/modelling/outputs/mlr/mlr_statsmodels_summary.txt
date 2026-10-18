@@ -1,0 +1,106 @@
+OLS fitted on the 83 training matches
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              goal_diff   R-squared:                       0.467
+Model:                            OLS   Adj. R-squared:                  0.410
+Method:                 Least Squares   F-statistic:                     8.120
+Date:                Sun, 18 Oct 2026   Prob (F-statistic):           8.28e-08
+Time:                        01:34:04   Log-Likelihood:                -147.71
+No. Observations:                  83   AIC:                             313.4
+Df Residuals:                      74   BIC:                             335.2
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+==========================================================================================
+                             coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+const                      0.1405      0.177      0.794      0.430      -0.212       0.493
+fifa_points_diff           0.0021      0.001      1.377      0.173      -0.001       0.005
+market_value_log_ratio     0.6664      0.230      2.903      0.005       0.209       1.124
+squad_age_diff             0.1539      0.152      1.012      0.315      -0.149       0.457
+rest_days_log_ratio       -0.3314      0.524     -0.632      0.529      -1.376       0.713
+host_diff                  1.0098      0.695      1.453      0.151      -0.375       2.395
+travel_1000km_diff         0.0312      0.065      0.480      0.632      -0.098       0.161
+tournament_form_diff      -0.1515      0.122     -1.245      0.217      -0.394       0.091
+pre_wc_form_diff           0.0484      0.148      0.326      0.745      -0.247       0.344
+==============================================================================
+Omnibus:                        0.321   Durbin-Watson:                   1.970
+Prob(Omnibus):                  0.852   Jarque-Bera (JB):                0.400
+Skew:                           0.141   Prob(JB):                        0.819
+Kurtosis:                       2.810   Cond. No.                         998.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+Same model with HC3 heteroscedasticity-robust standard errors
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              goal_diff   R-squared:                       0.467
+Model:                            OLS   Adj. R-squared:                  0.410
+Method:                 Least Squares   F-statistic:                     8.260
+Date:                Sun, 18 Oct 2026   Prob (F-statistic):           6.32e-08
+Time:                        01:34:04   Log-Likelihood:                -147.71
+No. Observations:                  83   AIC:                             313.4
+Df Residuals:                      74   BIC:                             335.2
+Df Model:                           8                                         
+Covariance Type:                  HC3                                         
+==========================================================================================
+                             coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+const                      0.1405      0.176      0.797      0.428      -0.211       0.492
+fifa_points_diff           0.0021      0.002      1.189      0.238      -0.001       0.005
+market_value_log_ratio     0.6664      0.261      2.557      0.013       0.147       1.186
+squad_age_diff             0.1539      0.155      0.995      0.323      -0.154       0.462
+rest_days_log_ratio       -0.3314      1.119     -0.296      0.768      -2.561       1.898
+host_diff                  1.0098      0.847      1.192      0.237      -0.679       2.698
+travel_1000km_diff         0.0312      0.054      0.577      0.566      -0.077       0.139
+tournament_form_diff      -0.1515      0.148     -1.025      0.309      -0.446       0.143
+pre_wc_form_diff           0.0484      0.164      0.295      0.769      -0.279       0.376
+==============================================================================
+Omnibus:                        0.321   Durbin-Watson:                   1.970
+Prob(Omnibus):                  0.852   Jarque-Bera (JB):                0.400
+Skew:                           0.141   Prob(JB):                        0.819
+Kurtosis:                       2.810   Cond. No.                         998.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+OLS fitted on all 104 matches
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              goal_diff   R-squared:                       0.511
+Model:                            OLS   Adj. R-squared:                  0.469
+Method:                 Least Squares   F-statistic:                     12.38
+Date:                Sun, 18 Oct 2026   Prob (F-statistic):           5.23e-12
+Time:                        01:34:04   Log-Likelihood:                -183.25
+No. Observations:                 104   AIC:                             384.5
+Df Residuals:                      95   BIC:                             408.3
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+==========================================================================================
+                             coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+const                      0.1031      0.152      0.680      0.498      -0.198       0.404
+fifa_points_diff           0.0017      0.001      1.302      0.196      -0.001       0.004
+market_value_log_ratio     0.7359      0.189      3.885      0.000       0.360       1.112
+squad_age_diff             0.2078      0.122      1.701      0.092      -0.035       0.450
+rest_days_log_ratio       -0.2924      0.498     -0.588      0.558      -1.281       0.696
+host_diff                  1.2181      0.581      2.095      0.039       0.064       2.372
+travel_1000km_diff         0.0402      0.048      0.834      0.406      -0.055       0.136
+tournament_form_diff      -0.1021      0.094     -1.085      0.281      -0.289       0.085
+pre_wc_form_diff           0.0377      0.135      0.279      0.781      -0.230       0.306
+==============================================================================
+Omnibus:                        0.356   Durbin-Watson:                   2.060
+Prob(Omnibus):                  0.837   Jarque-Bera (JB):                0.513
+Skew:                           0.105   Prob(JB):                        0.774
+Kurtosis:                       2.728   Cond. No.                         966.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

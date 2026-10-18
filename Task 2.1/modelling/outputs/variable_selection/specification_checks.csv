@@ -1,0 +1,6 @@
+specification,model,RMSE_mean,RMSE_std,RMSE_difference_vs_chosen,p_value
+Chosen 8 variables,Multiple Linear Regression,1.6508866245748792,0.2570766016480127,0.0,1.0
+Elo rating instead of FIFA points,Multiple Linear Regression,1.647498156456393,0.2647724019852303,-0.0033884681184864008,0.9295972810559305
+Raw rest-day difference instead of log ratio,Multiple Linear Regression,1.8733370965375666,0.6342163230537988,0.22245047196268725,0.394220418445312
+Rest days capped at 14 before the log ratio,Multiple Linear Regression,1.618373893803603,0.24687192067517338,-0.03251273077127621,0.4771616681747988
+Raw market value difference instead of log ratio,Multiple Linear Regression,1.734667473808988,0.2779018340247777,0.08378084923410846,0.18221349354198885
