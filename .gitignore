@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+~$*
+
+# Task 2.1 intermediate processed datasets
+Task 2.1/data/processed/*
+
+# Keep Task 2.1 final processed outputs
+!Task 2.1/data/processed/matches_104_model.csv
+!Task 2.1/data/processed/matches_104_complete.csv
+!Task 2.1/data/processed/final_dataset_audit.csv
+!Task 2.1/data/processed/variable_dictionary.csv
+
+# Task 2.2 intermediate processed datasets
+Task 2.2/data/processed/*
+
+# Keep Task 2.2 final processed outputs
+!Task 2.2/data/processed/team_matches_208_model.csv
+!Task 2.2/data/processed/final_dataset_audit.csv
+!Task 2.2/data/processed/variable_dictionary.csv
