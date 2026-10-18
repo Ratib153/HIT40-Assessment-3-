@@ -1,4 +1,4 @@
-# HIT140 Assessment 3
+# HIT40 Assessment 3
 
 Group 39
 Task 2.1 :
